@@ -1,0 +1,88 @@
+{
+  "status": "source-derived-expansion-draft",
+  "sourceYear": 2018,
+  "sourceUrl": "https://doi.org/10.1073/pnas.1711842115",
+  "codeUrl": "https://github.com/milo-lab/biomass_distribution/blob/master/protists/marine_protists/marine_protists.py",
+  "sourceLicense": "MIT",
+  "groups": [
+    {
+      "parentId": "bio-24",
+      "parent": "Marine",
+      "group": "Protists",
+      "children": [
+        {
+          "name": "Pico-nanoprotists",
+          "korean": "극미소·미소 원생생물",
+          "biomassGtC": 0.3828449779714835,
+          "conditionalProbability": 0.1851528513374536,
+          "globalGameProbability": 0.0006972471086391003
+        },
+        {
+          "name": "Microzooplankton protists",
+          "korean": "미소 동물플랑크톤 원생생물",
+          "biomassGtC": 0.5919459434779497,
+          "conditionalProbability": 0.28627900476402546,
+          "globalGameProbability": 0.00107806715853378
+        },
+        {
+          "name": "Diatoms",
+          "korean": "규조류",
+          "biomassGtC": 0.3065941943351178,
+          "conditionalProbability": 0.14827617587002734,
+          "globalGameProbability": 0.0005583772227034889
+        },
+        {
+          "name": "Phaeocystis",
+          "korean": "페오시스티스속",
+          "biomassGtC": 0.2794637722496424,
+          "conditionalProbability": 0.13515526454521284,
+          "globalGameProbability": 0.0005089666010584398
+        },
+        {
+          "name": "Rhizaria",
+          "korean": "리자리아",
+          "biomassGtC": 0.2,
+          "conditionalProbability": 0.09672471208502825,
+          "globalGameProbability": 0.0003642451377230997
+        },
+        {
+          "name": "Particle-attached protists",
+          "korean": "입자 부착 원생생물",
+          "biomassGtC": 0.3068750233503663,
+          "conditionalProbability": 0.1484119913982525,
+          "globalGameProbability": 0.0005588886757201681
+        }
+      ]
+    },
+    {
+      "parentId": "bio-13",
+      "parent": "Marine arthropods",
+      "group": "Animals",
+      "children": [
+        {
+          "name": "Euphausia superba",
+          "korean": "남극크릴",
+          "biomassGtC": 0.05685,
+          "conditionalProbability": 0.06045588212079633,
+          "globalGameProbability": 0.00010353668039779108
+        },
+        {
+          "name": "Other marine arthropods",
+          "korean": "기타 해양 절지동물",
+          "biomassGtC": 0.883505148344516,
+          "conditionalProbability": 0.9395441178792037,
+          "globalGameProbability": 0.0016090622721890793
+        }
+      ]
+    }
+  ],
+  "addedCategories": 6,
+  "combinedWithMammalDraftResults": 72,
+  "notes": [
+    "Six marine protist components follow author summation; attached component recovered as source total minus other five components",
+    "Underlying measurements cover differing depths; estimates retain original model limitations",
+    "Krill source: results.xlsx / Data mentioned in MS, Biomass of Antarctic krill",
+    "Marine research does not cover all freshwater life",
+    "No species-level fish, kelp or octopus probabilities established"
+  ]
+}
