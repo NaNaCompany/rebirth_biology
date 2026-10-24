@@ -1,0 +1,36 @@
+{
+  "id": "inat-48505",
+  "name": "Junonia coenia",
+  "scientificName": "Junonia coenia",
+  "group": "곤충",
+  "inaturalistId": 48505,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47922,
+    202067,
+    202224,
+    48506,
+    48505
+  ],
+  "observationRecords": 2100,
+  "dataUrl": "https://www.inaturalist.org/taxa/48505",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754716239,
+    "sourceUrl": "https://www.inaturalist.org/observations/410370815",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754716239/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754716239/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

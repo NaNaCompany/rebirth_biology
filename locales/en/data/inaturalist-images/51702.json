@@ -1,0 +1,38 @@
+{
+  "id": "inat-51702",
+  "name": "칠성무당벌레",
+  "scientificName": "Coccinella septempunctata",
+  "group": "곤충",
+  "inaturalistId": 51702,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47208,
+    71130,
+    372852,
+    471714,
+    48486,
+    333790,
+    333796,
+    51703,
+    51702
+  ],
+  "observationRecords": 10128,
+  "dataUrl": "https://www.inaturalist.org/taxa/51702",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754708445,
+    "sourceUrl": "https://www.inaturalist.org/observations/410367315",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754708445/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754708445/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "inat-26159",
+  "name": "미시시피악어",
+  "scientificName": "Alligator mississippiensis",
+  "group": "파충류",
+  "inaturalistId": 26159,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    26039,
+    121038,
+    26154,
+    26159
+  ],
+  "observationRecords": 1232,
+  "dataUrl": "https://www.inaturalist.org/taxa/26159",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754772644,
+    "sourceUrl": "https://www.inaturalist.org/observations/410399870",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754772644/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754772644/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

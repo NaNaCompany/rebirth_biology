@@ -1,0 +1,36 @@
+{
+  "id": "inat-41740",
+  "name": "캘리포니아바다사자",
+  "scientificName": "Zalophus californianus",
+  "group": "포유류",
+  "inaturalistId": 41740,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848324,
+    41573,
+    372843,
+    41736,
+    41737,
+    41740
+  ],
+  "observationRecords": 563,
+  "dataUrl": "https://www.inaturalist.org/taxa/41740",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749341863,
+    "sourceUrl": "https://www.inaturalist.org/observations/407734500",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749341863/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749341863/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

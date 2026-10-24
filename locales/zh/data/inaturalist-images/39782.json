@@ -1,0 +1,33 @@
+{
+  "id": "inat-39782",
+  "name": "붉은귀거북",
+  "scientificName": "Trachemys scripta",
+  "group": "파충류",
+  "inaturalistId": 39782,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    39532,
+    39760,
+    797544,
+    39776,
+    39782
+  ],
+  "observationRecords": 1415,
+  "dataUrl": "https://www.inaturalist.org/taxa/39782",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754633881,
+    "sourceUrl": "https://www.inaturalist.org/observations/410330537",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754633881/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754633881/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

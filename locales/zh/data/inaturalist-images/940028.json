@@ -1,0 +1,32 @@
+{
+  "id": "inat-940028",
+  "name": "털구멍장이버섯",
+  "scientificName": "Cerioporus squamosus",
+  "group": "균류",
+  "inaturalistId": 940028,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    47380,
+    47379,
+    895268,
+    940028
+  ],
+  "observationRecords": 1638,
+  "dataUrl": "https://www.inaturalist.org/taxa/940028",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752776258,
+    "sourceUrl": "https://www.inaturalist.org/observations/409416372",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752776258/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752776258/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

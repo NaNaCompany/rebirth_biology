@@ -1,0 +1,33 @@
+{
+  "id": "inat-144455",
+  "name": "중대백로",
+  "scientificName": "Ardea alba",
+  "group": "조류",
+  "inaturalistId": 144455,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    67566,
+    4929,
+    597395,
+    4950,
+    144455
+  ],
+  "observationRecords": 5887,
+  "dataUrl": "https://www.inaturalist.org/taxa/144455",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754586828,
+    "sourceUrl": "https://www.inaturalist.org/observations/410308008",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754586828/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754586828/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

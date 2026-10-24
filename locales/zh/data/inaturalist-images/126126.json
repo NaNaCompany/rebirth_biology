@@ -1,0 +1,32 @@
+{
+  "id": "inat-126126",
+  "name": "Stephanocystis osmundacea",
+  "scientificName": "Stephanocystis osmundacea",
+  "group": "해조류",
+  "inaturalistId": 126126,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    126125,
+    126128,
+    126126
+  ],
+  "observationRecords": 215,
+  "dataUrl": "https://www.inaturalist.org/taxa/126126",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 748779442,
+    "sourceUrl": "https://www.inaturalist.org/observations/407456074",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748779442/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748779442/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

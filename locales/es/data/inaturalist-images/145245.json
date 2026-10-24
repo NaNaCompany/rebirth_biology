@@ -1,0 +1,32 @@
+{
+  "id": "inat-145245",
+  "name": "Setophaga coronata",
+  "scientificName": "Setophaga coronata",
+  "group": "조류",
+  "inaturalistId": 145245,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    71349,
+    10246,
+    145245
+  ],
+  "observationRecords": 4028,
+  "dataUrl": "https://www.inaturalist.org/taxa/145245",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754774456,
+    "sourceUrl": "https://www.inaturalist.org/observations/410397925",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754774456/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754774456/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

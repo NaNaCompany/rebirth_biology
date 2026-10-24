@@ -1,0 +1,32 @@
+{
+  "id": "inat-69838",
+  "name": "Cyanea capillata",
+  "scientificName": "Cyanea capillata",
+  "group": "기타동물",
+  "inaturalistId": 69838,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    48332,
+    551480,
+    48331,
+    154710,
+    154711,
+    69838
+  ],
+  "observationRecords": 130,
+  "dataUrl": "https://www.inaturalist.org/taxa/69838",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749475247,
+    "sourceUrl": "https://www.inaturalist.org/observations/407797910",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749475247/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749475247/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

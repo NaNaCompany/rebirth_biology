@@ -1,0 +1,40 @@
+{
+  "id": "inat-202861",
+  "name": "Otala lactea",
+  "scientificName": "Otala lactea",
+  "group": "연체동물",
+  "inaturalistId": 202861,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781352,
+    68625,
+    47484,
+    906896,
+    910289,
+    131834,
+    202861
+  ],
+  "observationRecords": 437,
+  "dataUrl": "https://www.inaturalist.org/taxa/202861",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754027207,
+    "sourceUrl": "https://www.inaturalist.org/observations/410031277",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754027207/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754027207/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

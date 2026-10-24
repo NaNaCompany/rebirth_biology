@@ -1,0 +1,37 @@
+{
+  "id": "inat-132887",
+  "name": "큰거세미나방",
+  "scientificName": "Agrotis exclamationis",
+  "group": "곤충",
+  "inaturalistId": 132887,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47607,
+    48670,
+    122224,
+    117747,
+    210553,
+    61739,
+    132887
+  ],
+  "observationRecords": 2421,
+  "dataUrl": "https://www.inaturalist.org/taxa/132887",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 736133890,
+    "sourceUrl": "https://www.inaturalist.org/observations/401091569",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/736133890/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/736133890/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

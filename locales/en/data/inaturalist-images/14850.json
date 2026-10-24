@@ -1,0 +1,32 @@
+{
+  "id": "inat-14850",
+  "name": "흰점찌르레기",
+  "scientificName": "Sturnus vulgaris",
+  "group": "조류",
+  "inaturalistId": 14850,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    14841,
+    14842,
+    14850
+  ],
+  "observationRecords": 5812,
+  "dataUrl": "https://www.inaturalist.org/taxa/14850",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754819705,
+    "sourceUrl": "https://www.inaturalist.org/observations/410419816",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754819705/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754819705/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

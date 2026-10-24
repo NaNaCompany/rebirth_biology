@@ -1,0 +1,46 @@
+{
+  "status": "sources-found-not-yet-integrated",
+  "source": {
+    "title": "The global distribution and environmental drivers of aboveground versus belowground plant biomass",
+    "year": 2021,
+    "doi": "https://doi.org/10.1038/s41559-021-01485-1",
+    "code": "https://github.com/haozhima95/Global_mapping_root_shoot_ratio"
+  },
+  "scope": "Forests, shrublands and grasslands; cropland excluded from global RMF mapping. Habitat categories are not taxonomic tree/shrub/grass species fractions.",
+  "categories": [
+    {
+      "name": "Forest vegetation",
+      "rootMassGtC": 93.9,
+      "rootMassRange": [
+        77.5,
+        113.8
+      ],
+      "rootFractionReported": 0.22
+    },
+    {
+      "name": "Shrubland vegetation",
+      "rootMassGtC": 11.5,
+      "rootMassRange": [
+        9.1,
+        14.4
+      ],
+      "rootFractionReported": 0.47
+    },
+    {
+      "name": "Grassland vegetation",
+      "rootMassGtC": 5.2,
+      "rootMassRange": [
+        3.7,
+        7
+      ],
+      "rootFractionReported": 0.67
+    }
+  ],
+  "warnings": [
+    "Root masses and root fractions are not probabilities among plant categories",
+    "Do not treat an ecosystem carbon stock as a single species biomass",
+    "Need integrated aboveground plus belowground totals and a non-overlapping partition including omitted habitats before adopting weights",
+    "Do not infer a global category total by dividing a root total by an unverified spatially averaged RMF"
+  ],
+  "activeGameWeightsChanged": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "inat-85365",
+  "name": "Lepomis auritus",
+  "scientificName": "Lepomis auritus",
+  "group": "어류",
+  "inaturalistId": 85365,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303731,
+    1303755,
+    49588,
+    1303639,
+    49592,
+    85365
+  ],
+  "observationRecords": 236,
+  "dataUrl": "https://www.inaturalist.org/taxa/85365",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754031392,
+    "sourceUrl": "https://www.inaturalist.org/observations/410029704",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754031392/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754031392/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

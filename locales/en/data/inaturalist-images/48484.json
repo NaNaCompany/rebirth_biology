@@ -1,0 +1,38 @@
+{
+  "id": "inat-48484",
+  "name": "무당벌레",
+  "scientificName": "Harmonia axyridis",
+  "group": "곤충",
+  "inaturalistId": 48484,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47208,
+    71130,
+    372852,
+    471714,
+    48486,
+    333790,
+    333796,
+    48487,
+    48484
+  ],
+  "observationRecords": 15921,
+  "dataUrl": "https://www.inaturalist.org/taxa/48484",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754827199,
+    "sourceUrl": "https://www.inaturalist.org/observations/410423140",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754827199/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754827199/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

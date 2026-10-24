@@ -1,0 +1,35 @@
+{
+  "id": "inat-56061",
+  "name": "마늘냉이",
+  "scientificName": "Alliaria petiolata",
+  "group": "식물",
+  "inaturalistId": 56061,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    71275,
+    47204,
+    1473853,
+    1473856,
+    902660,
+    56062,
+    56061
+  ],
+  "observationRecords": 8370,
+  "dataUrl": "https://www.inaturalist.org/taxa/56061",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754194004,
+    "sourceUrl": "https://www.inaturalist.org/observations/410119058",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754194004/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754194004/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

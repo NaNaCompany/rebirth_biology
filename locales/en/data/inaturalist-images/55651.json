@@ -1,0 +1,37 @@
+{
+  "id": "inat-55651",
+  "name": "비녀은무늬밤나방",
+  "scientificName": "Autographa gamma",
+  "group": "곤충",
+  "inaturalistId": 55651,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47607,
+    48670,
+    122455,
+    62792,
+    124044,
+    55652,
+    55651
+  ],
+  "observationRecords": 2258,
+  "dataUrl": "https://www.inaturalist.org/taxa/55651",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753625535,
+    "sourceUrl": "https://www.inaturalist.org/observations/409830751",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753625535/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753625535/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

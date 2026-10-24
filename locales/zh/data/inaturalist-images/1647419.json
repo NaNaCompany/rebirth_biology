@@ -1,0 +1,37 @@
+{
+  "id": "inat-1647419",
+  "name": "Dasypus mexicanus",
+  "scientificName": "Dasypus mexicanus",
+  "group": "포유류",
+  "inaturalistId": 1647419,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848322,
+    67639,
+    1714770,
+    47069,
+    47070,
+    1431530,
+    1647419
+  ],
+  "observationRecords": 531,
+  "dataUrl": "https://www.inaturalist.org/taxa/1647419",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752995687,
+    "sourceUrl": "https://www.inaturalist.org/observations/409524600",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752995687/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752995687/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

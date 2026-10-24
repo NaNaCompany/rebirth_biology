@@ -1,0 +1,39 @@
+{
+  "id": "inat-47776",
+  "name": "Ariolimax columbianus",
+  "scientificName": "Ariolimax columbianus",
+  "group": "연체동물",
+  "inaturalistId": 47776,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781350,
+    487049,
+    629866,
+    916897,
+    47777,
+    47776
+  ],
+  "observationRecords": 1879,
+  "dataUrl": "https://www.inaturalist.org/taxa/47776",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753143318,
+    "sourceUrl": "https://www.inaturalist.org/observations/409594228",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753143318/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753143318/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

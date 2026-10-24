@@ -1,0 +1,39 @@
+{
+  "id": "inat-124432",
+  "name": "회색작은뾰족민달팽이",
+  "scientificName": "Deroceras reticulatum",
+  "group": "연체동물",
+  "inaturalistId": 124432,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781353,
+    512198,
+    322379,
+    1105651,
+    87902,
+    124432
+  ],
+  "observationRecords": 434,
+  "dataUrl": "https://www.inaturalist.org/taxa/124432",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 746307582,
+    "sourceUrl": "https://www.inaturalist.org/observations/406226953",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746307582/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746307582/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

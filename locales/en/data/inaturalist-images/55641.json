@@ -1,0 +1,38 @@
+{
+  "id": "inat-55641",
+  "name": "연푸른부전나비",
+  "scientificName": "Polyommatus icarus",
+  "group": "곤충",
+  "inaturalistId": 55641,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47923,
+    58558,
+    125833,
+    522678,
+    55642,
+    1468172,
+    55641
+  ],
+  "observationRecords": 3079,
+  "dataUrl": "https://www.inaturalist.org/taxa/55641",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754540198,
+    "sourceUrl": "https://www.inaturalist.org/observations/410282713",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754540198/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754540198/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

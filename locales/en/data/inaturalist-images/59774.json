@@ -1,0 +1,35 @@
+{
+  "id": "inat-59774",
+  "name": "Pachydiplax longipennis",
+  "scientificName": "Pachydiplax longipennis",
+  "group": "곤충",
+  "inaturalistId": 59774,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47792,
+    47927,
+    1317176,
+    47819,
+    59775,
+    59774
+  ],
+  "observationRecords": 2738,
+  "dataUrl": "https://www.inaturalist.org/taxa/59774",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751583028,
+    "sourceUrl": "https://www.inaturalist.org/observations/408830126",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751583028/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751583028/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

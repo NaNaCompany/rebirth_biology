@@ -1,0 +1,34 @@
+{
+  "id": "inat-47251",
+  "name": "Sphyraena barracuda",
+  "scientificName": "Sphyraena barracuda",
+  "group": "어류",
+  "inaturalistId": 47251,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303727,
+    1303752,
+    47264,
+    47263,
+    47251
+  ],
+  "observationRecords": 128,
+  "dataUrl": "https://www.inaturalist.org/taxa/47251",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745886311,
+    "sourceUrl": "https://www.inaturalist.org/observations/406019047",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745886311/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745886311/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

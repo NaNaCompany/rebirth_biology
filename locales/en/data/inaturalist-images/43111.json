@@ -1,0 +1,35 @@
+{
+  "id": "inat-43111",
+  "name": "동부솜꼬리토끼",
+  "scientificName": "Sylvilagus floridanus",
+  "group": "포유류",
+  "inaturalistId": 43111,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848323,
+    43094,
+    43095,
+    43096,
+    43111
+  ],
+  "observationRecords": 3002,
+  "dataUrl": "https://www.inaturalist.org/taxa/43111",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754760347,
+    "sourceUrl": "https://www.inaturalist.org/observations/410394451",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754760347/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754760347/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

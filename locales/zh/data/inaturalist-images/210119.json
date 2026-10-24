@@ -1,0 +1,38 @@
+{
+  "id": "inat-210119",
+  "name": "큰이마공벌레",
+  "scientificName": "Armadillidium nasatum",
+  "group": "갑각류",
+  "inaturalistId": 210119,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144114,
+    48147,
+    84718,
+    343783,
+    343798,
+    48296,
+    48295,
+    210119
+  ],
+  "observationRecords": 735,
+  "dataUrl": "https://www.inaturalist.org/taxa/210119",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751516062,
+    "sourceUrl": "https://www.inaturalist.org/observations/408797551",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751516062/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751516062/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

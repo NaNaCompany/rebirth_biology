@@ -1,0 +1,34 @@
+{
+  "id": "inat-792988",
+  "name": "솜털딱따구리",
+  "scientificName": "Dryobates pubescens",
+  "group": "조류",
+  "inaturalistId": 792988,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    17550,
+    17599,
+    1653299,
+    1653311,
+    792976,
+    792988
+  ],
+  "observationRecords": 4288,
+  "dataUrl": "https://www.inaturalist.org/taxa/792988",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754797649,
+    "sourceUrl": "https://www.inaturalist.org/observations/410408544",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754797649/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754797649/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

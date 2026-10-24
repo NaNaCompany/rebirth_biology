@@ -1,0 +1,32 @@
+{
+  "id": "inat-39682",
+  "name": "늑대거북",
+  "scientificName": "Chelydra serpentina",
+  "group": "파충류",
+  "inaturalistId": 39682,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    39532,
+    39680,
+    39681,
+    39682
+  ],
+  "observationRecords": 1800,
+  "dataUrl": "https://www.inaturalist.org/taxa/39682",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751514223,
+    "sourceUrl": "https://www.inaturalist.org/observations/408796614",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751514223/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751514223/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

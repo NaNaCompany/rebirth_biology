@@ -1,0 +1,34 @@
+{
+  "id": "inat-55882",
+  "name": "서양송악",
+  "scientificName": "Hedera helix",
+  "group": "식물",
+  "inaturalistId": 55882,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48700,
+    52849,
+    525719,
+    55883,
+    1719371,
+    55882
+  ],
+  "observationRecords": 5820,
+  "dataUrl": "https://www.inaturalist.org/taxa/55882",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754549395,
+    "sourceUrl": "https://www.inaturalist.org/observations/410292351",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549395/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549395/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

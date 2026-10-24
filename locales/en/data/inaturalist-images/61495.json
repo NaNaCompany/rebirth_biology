@@ -1,0 +1,35 @@
+{
+  "id": "inat-61495",
+  "name": "Erythemis simplicicollis",
+  "scientificName": "Erythemis simplicicollis",
+  "group": "곤충",
+  "inaturalistId": 61495,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47792,
+    47927,
+    1317176,
+    47819,
+    53868,
+    61495
+  ],
+  "observationRecords": 2389,
+  "dataUrl": "https://www.inaturalist.org/taxa/61495",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754708983,
+    "sourceUrl": "https://www.inaturalist.org/observations/410368229",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754708983/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754708983/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

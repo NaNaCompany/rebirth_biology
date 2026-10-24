@@ -1,0 +1,32 @@
+{
+  "id": "inat-326296",
+  "name": "유럽두꺼비",
+  "scientificName": "Bufo bufo",
+  "group": "양서류",
+  "inaturalistId": 326296,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    21359,
+    21360,
+    326296
+  ],
+  "observationRecords": 2135,
+  "dataUrl": "https://www.inaturalist.org/taxa/326296",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754841463,
+    "sourceUrl": "https://www.inaturalist.org/observations/410430082",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754841463/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754841463/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "inat-83290",
+  "name": "깃대돔",
+  "scientificName": "Zanclus cornutus",
+  "group": "어류",
+  "inaturalistId": 83290,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303726,
+    83291,
+    83292,
+    83290
+  ],
+  "observationRecords": 206,
+  "dataUrl": "https://www.inaturalist.org/taxa/83290",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 746796073,
+    "sourceUrl": "https://www.inaturalist.org/observations/405974320",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746796073/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746796073/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

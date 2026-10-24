@@ -1,0 +1,32 @@
+{
+  "id": "inat-49202",
+  "name": "Fagus grandifolia",
+  "scientificName": "Fagus grandifolia",
+  "group": "식물",
+  "inaturalistId": 49202,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47853,
+    47852,
+    49203,
+    49202
+  ],
+  "observationRecords": 3441,
+  "dataUrl": "https://www.inaturalist.org/taxa/49202",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753472985,
+    "sourceUrl": "https://www.inaturalist.org/observations/409754447",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753472985/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753472985/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

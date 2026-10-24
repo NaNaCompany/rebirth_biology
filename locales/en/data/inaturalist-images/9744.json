@@ -1,0 +1,32 @@
+{
+  "id": "inat-9744",
+  "name": "붉은날개검은새",
+  "scientificName": "Agelaius phoeniceus",
+  "group": "조류",
+  "inaturalistId": 9744,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    11989,
+    9740,
+    9744
+  ],
+  "observationRecords": 5494,
+  "dataUrl": "https://www.inaturalist.org/taxa/9744",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754820497,
+    "sourceUrl": "https://www.inaturalist.org/observations/410420178",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754820497/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754820497/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

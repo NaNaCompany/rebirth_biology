@@ -1,0 +1,32 @@
+{
+  "id": "inat-13858",
+  "name": "집참새",
+  "scientificName": "Passer domesticus",
+  "group": "조류",
+  "inaturalistId": 13858,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    13685,
+    13847,
+    13858
+  ],
+  "observationRecords": 8713,
+  "dataUrl": "https://www.inaturalist.org/taxa/13858",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754627653,
+    "sourceUrl": "https://www.inaturalist.org/observations/410327690",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754627653/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754627653/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

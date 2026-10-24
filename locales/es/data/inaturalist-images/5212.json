@@ -1,0 +1,33 @@
+{
+  "id": "inat-5212",
+  "name": "붉은꼬리말똥가리",
+  "scientificName": "Buteo jamaicensis",
+  "group": "조류",
+  "inaturalistId": 5212,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    71261,
+    5067,
+    1542783,
+    5179,
+    5212
+  ],
+  "observationRecords": 5071,
+  "dataUrl": "https://www.inaturalist.org/taxa/5212",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754491471,
+    "sourceUrl": "https://www.inaturalist.org/observations/410259481",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754491471/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754491471/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

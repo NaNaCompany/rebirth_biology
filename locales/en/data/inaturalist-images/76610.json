@@ -1,0 +1,35 @@
+{
+  "id": "inat-76610",
+  "name": "산당근",
+  "scientificName": "Daucus carota",
+  "group": "식물",
+  "inaturalistId": 76610,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48700,
+    48699,
+    790553,
+    790591,
+    1043617,
+    56727,
+    76610
+  ],
+  "observationRecords": 4940,
+  "dataUrl": "https://www.inaturalist.org/taxa/76610",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754089113,
+    "sourceUrl": "https://www.inaturalist.org/observations/410059196",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754089113/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754089113/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

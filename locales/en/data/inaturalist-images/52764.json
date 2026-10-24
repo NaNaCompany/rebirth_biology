@@ -1,0 +1,35 @@
+{
+  "id": "inat-52764",
+  "name": "두메꿀풀",
+  "scientificName": "Prunella vulgaris",
+  "group": "식물",
+  "inaturalistId": 52764,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48151,
+    48623,
+    520502,
+    918917,
+    919181,
+    52765,
+    52764
+  ],
+  "observationRecords": 6129,
+  "dataUrl": "https://www.inaturalist.org/taxa/52764",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754679654,
+    "sourceUrl": "https://www.inaturalist.org/observations/410353803",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754679654/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754679654/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

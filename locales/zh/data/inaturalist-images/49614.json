@@ -1,0 +1,35 @@
+{
+  "id": "inat-49614",
+  "name": "Lepomis gibbosus",
+  "scientificName": "Lepomis gibbosus",
+  "group": "어류",
+  "inaturalistId": 49614,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303731,
+    1303755,
+    49588,
+    1303639,
+    49592,
+    49614
+  ],
+  "observationRecords": 238,
+  "dataUrl": "https://www.inaturalist.org/taxa/49614",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752942223,
+    "sourceUrl": "https://www.inaturalist.org/observations/409498607",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752942223/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752942223/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

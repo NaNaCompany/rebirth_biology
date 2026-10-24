@@ -1,0 +1,33 @@
+{
+  "id": "inat-117302",
+  "name": "작은부레관해파리",
+  "scientificName": "Physalia physalis",
+  "group": "기타동물",
+  "inaturalistId": 117302,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    48921,
+    551473,
+    152823,
+    777050,
+    117304,
+    117305,
+    117302
+  ],
+  "observationRecords": 159,
+  "dataUrl": "https://www.inaturalist.org/taxa/117302",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 713270416,
+    "sourceUrl": "https://www.inaturalist.org/observations/389401038",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/713270416/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/713270416/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

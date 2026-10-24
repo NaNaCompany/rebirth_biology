@@ -1,0 +1,38 @@
+{
+  "id": "inat-62060",
+  "name": "Palomena prasina",
+  "scientificName": "Palomena prasina",
+  "group": "곤충",
+  "inaturalistId": 62060,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47744,
+    61267,
+    372868,
+    47743,
+    47742,
+    51276,
+    712842,
+    62061,
+    62060
+  ],
+  "observationRecords": 2675,
+  "dataUrl": "https://www.inaturalist.org/taxa/62060",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752327823,
+    "sourceUrl": "https://www.inaturalist.org/observations/409197429",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752327823/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752327823/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

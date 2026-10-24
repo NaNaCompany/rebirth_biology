@@ -1,0 +1,32 @@
+{
+  "id": "inat-1454382",
+  "name": "쌍뿔가마우지",
+  "scientificName": "Nannopterum auritum",
+  "group": "조류",
+  "inaturalistId": 1454382,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    71268,
+    4262,
+    1289332,
+    1454382
+  ],
+  "observationRecords": 3495,
+  "dataUrl": "https://www.inaturalist.org/taxa/1454382",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754484085,
+    "sourceUrl": "https://www.inaturalist.org/observations/410255564",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754484085/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754484085/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "inat-120215",
+  "name": "Bombus griseocollis",
+  "scientificName": "Bombus griseocollis",
+  "group": "곤충",
+  "inaturalistId": 120215,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47201,
+    124417,
+    326777,
+    47222,
+    630955,
+    47221,
+    199939,
+    538883,
+    52775,
+    538890,
+    120215
+  ],
+  "observationRecords": 2415,
+  "dataUrl": "https://www.inaturalist.org/taxa/120215",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754172333,
+    "sourceUrl": "https://www.inaturalist.org/observations/410101837",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754172333/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754172333/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

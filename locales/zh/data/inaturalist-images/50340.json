@@ -1,0 +1,37 @@
+{
+  "id": "inat-50340",
+  "name": "Hylephila phyleus",
+  "scientificName": "Hylephila phyleus",
+  "group": "곤충",
+  "inaturalistId": 50340,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47653,
+    122493,
+    320552,
+    1363159,
+    50341,
+    50340
+  ],
+  "observationRecords": 1988,
+  "dataUrl": "https://www.inaturalist.org/taxa/50340",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754667628,
+    "sourceUrl": "https://www.inaturalist.org/observations/410347591",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754667628/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754667628/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

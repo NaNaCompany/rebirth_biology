@@ -1,0 +1,33 @@
+{
+  "id": "inat-55267",
+  "name": "콩꼬투리버섯",
+  "scientificName": "Xylaria hypoxylon",
+  "group": "균류",
+  "inaturalistId": 55267,
+  "ancestors": [
+    48460,
+    47170,
+    48250,
+    372740,
+    53539,
+    792674,
+    48805,
+    48806,
+    55268,
+    55267
+  ],
+  "observationRecords": 1197,
+  "dataUrl": "https://www.inaturalist.org/taxa/55267",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754211386,
+    "sourceUrl": "https://www.inaturalist.org/observations/410121423",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754211386/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754211386/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

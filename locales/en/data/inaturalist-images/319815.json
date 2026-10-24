@@ -1,0 +1,32 @@
+{
+  "id": "inat-319815",
+  "name": "Nostoc commune",
+  "scientificName": "Nostoc commune",
+  "group": "현미경생물",
+  "inaturalistId": 319815,
+  "ancestors": [
+    48460,
+    67333,
+    67334,
+    196963,
+    1513634,
+    67336,
+    67337,
+    67332,
+    319815
+  ],
+  "observationRecords": 552,
+  "dataUrl": "https://www.inaturalist.org/taxa/319815",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 748510818,
+    "sourceUrl": "https://www.inaturalist.org/observations/407333234",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748510818/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748510818/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "inat-360314",
+  "name": "Chrysaora hysoscella",
+  "scientificName": "Chrysaora hysoscella",
+  "group": "기타동물",
+  "inaturalistId": 360314,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    48332,
+    551480,
+    48331,
+    48482,
+    48483,
+    360314
+  ],
+  "observationRecords": 144,
+  "dataUrl": "https://www.inaturalist.org/taxa/360314",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 724796472,
+    "sourceUrl": "https://www.inaturalist.org/observations/395300107",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/724796472/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/724796472/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

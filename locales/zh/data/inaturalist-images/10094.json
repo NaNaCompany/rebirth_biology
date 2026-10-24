@@ -1,0 +1,32 @@
+{
+  "id": "inat-10094",
+  "name": "Junco hyemalis",
+  "scientificName": "Junco hyemalis",
+  "group": "조류",
+  "inaturalistId": 10094,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    559248,
+    10093,
+    10094
+  ],
+  "observationRecords": 5679,
+  "dataUrl": "https://www.inaturalist.org/taxa/10094",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754469635,
+    "sourceUrl": "https://www.inaturalist.org/observations/410440781",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754469635/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754469635/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

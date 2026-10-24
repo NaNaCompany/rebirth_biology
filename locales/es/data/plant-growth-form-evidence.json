@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-10-24",
+  "status": "partial-evidence-no-eight-way-partition",
+  "sources": [
+    {
+      "id": "seagrass-2025",
+      "title": "Global estimates of seagrass blue carbon stocks in biomass and net primary production",
+      "year": 2025,
+      "doi": "https://doi.org/10.1038/s41467-025-64667-6",
+      "dataUrl": "https://doi.org/10.6084/m9.figshare.29327630",
+      "license": "CC-BY-4.0 (raw dataset; article has a different license)",
+      "downloadUrl": "https://ndownloader.figshare.com/files/55414433",
+      "sha256": "f943668d99d948a938610d1d51484c46271edee1f979b2d402acf02c877a66db",
+      "globalBiomassGtC": [
+        0.024,
+        0.04
+      ],
+      "scope": "Living seagrass aboveground and belowground biomass; excludes sediment carbon, freshwater plants and seaweeds",
+      "use": "Suitable global subgroup stock; does not partition all aquatic plants"
+    },
+    {
+      "id": "cryptogams-2013",
+      "doi": "https://doi.org/10.5194/bg-10-6989-2013",
+      "globalBiomassGtCByModelWeighting": {
+        "average": 4,
+        "maximum": 46
+      },
+      "scope": "Lichens and bryophytes combined, process-based model",
+      "use": "Not a bryophyte-only estimate. Weighting alternatives are not confidence bounds; no automatic insertion into plant weights"
+    },
+    {
+      "id": "bryophytes-2025-regional",
+      "doi": "https://doi.org/10.1007/s44246-025-00224-6",
+      "scope": "413 subtropical forest sites in Sichuan, China",
+      "use": "Regional measurements only; cannot extrapolate as a fixed global percentage"
+    },
+    {
+      "id": "jules-2018",
+      "doi": "https://doi.org/10.5194/gmd-11-2857-2018",
+      "scope": "Global vegetation simulation, nine plant functional types",
+      "use": "Potential modeled tree/shrub/grass partition; no global group carbon totals extracted. Coverage fractions must not be treated as biomass fractions"
+    },
+    {
+      "id": "arctic-2024",
+      "doi": "https://doi.org/10.1038/s41597-024-03139-w",
+      "scope": "Arctic aboveground plant biomass by functional type",
+      "use": "Regional and aboveground only, not global whole-plant partition"
+    },
+    {
+      "id": "lifeforms-2023",
+      "doi": "https://doi.org/10.1111/nph.19011",
+      "scope": "Growth-form richness",
+      "use": "Rejected for biomass weights: counts classifications rather than biomass"
+    }
+  ],
+  "groups": [
+    {
+      "id": "tree",
+      "name": "나무",
+      "status": "Global forest/woody biomass products found; tree-only global whole-plant value not extracted"
+    },
+    {
+      "id": "shrub",
+      "name": "관목",
+      "status": "Global shrubland and vegetation-model sources found; shrubland is not shrub-only biomass"
+    },
+    {
+      "id": "grass",
+      "name": "풀",
+      "status": "Global grassland sources found; includes other growth forms, not grass-only"
+    },
+    {
+      "id": "forb",
+      "name": "꽃풀",
+      "status": "No compatible global standing carbon stock found in this search"
+    },
+    {
+      "id": "vine",
+      "name": "덩굴",
+      "status": "Regional/pantropical allometry and forest studies found; no compatible worldwide whole-plant total"
+    },
+    {
+      "id": "bryophyte",
+      "name": "이끼",
+      "status": "Regional observations and combined lichen-bryophyte global model found; not standalone worldwide stock"
+    },
+    {
+      "id": "fern",
+      "name": "고사리",
+      "status": "No compatible global standing carbon stock found in this search"
+    },
+    {
+      "id": "aquatic",
+      "name": "수초",
+      "status": "Global seagrass stock found; all freshwater aquatic plants unresolved"
+    }
+  ],
+  "activeWeightsChanged": false,
+  "notes": [
+    "Search not exhaustive proof that data do not exist",
+    "No missing category is assigned zero or equal weight",
+    "No part/whole, habitat/growth-form, stock/flux or richness/biomass substitutions"
+  ]
+}

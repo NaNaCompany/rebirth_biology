@@ -1,0 +1,12 @@
+[
+  {
+    "categoryId": "bio-10",
+    "tool": "OpenAI image generation (built-in)",
+    "prompt": "Create ONE square scientific educational illustration for a playful fictional organism ID card: marine fungi (해양 균류), not a land mushroom. A small graceful network of branching translucent cream fungal hyphae, a few rounded spores, attached to a tiny fragment of submerged brown driftwood, underwater pale turquoise background. Close-up microscope-inspired natural history illustration, beautifully rendered and clear at 300 by 300 pixels. Center all important structures within middle 70% of canvas, no text, no labels, no frame, no watermark, no logos. It is a conceptual illustration of the marine fungi category, do not pretend it is an exact photographed species. Asset will be cropped to 300x300 for a commercial game."
+  },
+  {
+    "categoryId": "bio-24-1",
+    "tool": "OpenAI image generation (built-in)",
+    "prompt": "ONE square conceptual scientific illustration for the category 'pico and nano protists', tiny marine eukaryotic plankton, for a playful organism ID card. Show a single translucent rounded green cell with one internal chloroplast and subtle organelles, with two smaller out-of-focus spherical cells behind it, on a clean pale aqua microscopic watery backdrop. A tasteful natural-history editorial illustration, detailed but readable at 300x300, centered subject with generous margin, no text, no label, no border, no watermark, no logos. Not a photograph, not a claim of exact species anatomy. Original commercial game artwork. Square composition."
+  }
+]

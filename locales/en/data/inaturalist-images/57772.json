@@ -1,0 +1,32 @@
+{
+  "id": "inat-57772",
+  "name": "Fucus serratus",
+  "scientificName": "Fucus serratus",
+  "group": "해조류",
+  "inaturalistId": 57772,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    48218,
+    48217,
+    57772
+  ],
+  "observationRecords": 290,
+  "dataUrl": "https://www.inaturalist.org/taxa/57772",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 747348093,
+    "sourceUrl": "https://www.inaturalist.org/observations/406743218",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/747348093/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/747348093/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

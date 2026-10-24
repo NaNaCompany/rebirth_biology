@@ -1,0 +1,32 @@
+{
+  "id": "inat-775410",
+  "name": "Fomitopsis betulina",
+  "scientificName": "Fomitopsis betulina",
+  "group": "균류",
+  "inaturalistId": 775410,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    47380,
+    55974,
+    118056,
+    775410
+  ],
+  "observationRecords": 1495,
+  "dataUrl": "https://www.inaturalist.org/taxa/775410",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753287356,
+    "sourceUrl": "https://www.inaturalist.org/observations/409663562",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753287356/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753287356/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

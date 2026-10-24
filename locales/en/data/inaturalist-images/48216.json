@@ -1,0 +1,32 @@
+{
+  "id": "inat-48216",
+  "name": "Fucus vesiculosus",
+  "scientificName": "Fucus vesiculosus",
+  "group": "해조류",
+  "inaturalistId": 48216,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    48218,
+    48217,
+    48216
+  ],
+  "observationRecords": 520,
+  "dataUrl": "https://www.inaturalist.org/taxa/48216",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754207675,
+    "sourceUrl": "https://www.inaturalist.org/observations/410118091",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754207675/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754207675/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

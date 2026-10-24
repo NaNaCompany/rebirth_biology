@@ -1,0 +1,34 @@
+{
+  "id": "inat-119791",
+  "name": "Acer pseudoplatanus",
+  "scientificName": "Acer pseudoplatanus",
+  "group": "식물",
+  "inaturalistId": 119791,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47729,
+    58321,
+    47727,
+    1419769,
+    1466281,
+    119791
+  ],
+  "observationRecords": 4423,
+  "dataUrl": "https://www.inaturalist.org/taxa/119791",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754560421,
+    "sourceUrl": "https://www.inaturalist.org/observations/410298939",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754560421/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754560421/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kelp",
+    "name": "다시마",
+    "scientificName": "Saccharina japonica",
+    "imageScientificName": "Laminaria japonica",
+    "synonymSource": "https://www.wikidata.org/wiki/Q11260230",
+    "file": "src/images/kelp-original.jpeg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMIB_41730_Laminaria_japonica.jpeg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/FMIB_41730_Laminaria_japonica.jpeg",
+    "license": "Public domain",
+    "artist": "Hugh McCormick Smith",
+    "date": "1905 date QS:P571,+1905-00-00T00:00:00Z/9",
+    "licenseExplanation": "False",
+    "checkedAt": "2026-10-24"
+  }
+]

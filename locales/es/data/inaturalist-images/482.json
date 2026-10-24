@@ -1,0 +1,32 @@
+{
+  "id": "inat-482",
+  "name": "물닭",
+  "scientificName": "Fulica atra",
+  "group": "조류",
+  "inaturalistId": 482,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    4,
+    154,
+    472,
+    482
+  ],
+  "observationRecords": 3286,
+  "dataUrl": "https://www.inaturalist.org/taxa/482",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754574514,
+    "sourceUrl": "https://www.inaturalist.org/observations/410300761",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754574514/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754574514/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

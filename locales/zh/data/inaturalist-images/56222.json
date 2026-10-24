@@ -1,0 +1,35 @@
+{
+  "id": "inat-56222",
+  "name": "Tussilago farfara",
+  "scientificName": "Tussilago farfara",
+  "group": "식물",
+  "inaturalistId": 56222,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47605,
+    47604,
+    632790,
+    568270,
+    936861,
+    56223,
+    56222
+  ],
+  "observationRecords": 4219,
+  "dataUrl": "https://www.inaturalist.org/taxa/56222",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753950900,
+    "sourceUrl": "https://www.inaturalist.org/observations/409991581",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753950900/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753950900/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

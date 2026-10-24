@@ -1,0 +1,39 @@
+{
+  "id": "inat-45763",
+  "name": "사향쥐",
+  "scientificName": "Ondatra zibethicus",
+  "group": "포유류",
+  "inaturalistId": 45763,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848323,
+    43698,
+    870778,
+    488924,
+    55986,
+    179534,
+    1317289,
+    45762,
+    45763
+  ],
+  "observationRecords": 819,
+  "dataUrl": "https://www.inaturalist.org/taxa/45763",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754804302,
+    "sourceUrl": "https://www.inaturalist.org/observations/410411665",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754804302/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754804302/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "inat-82003",
+  "name": "Arion ater",
+  "scientificName": "Arion ater",
+  "group": "연체동물",
+  "inaturalistId": 82003,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781350,
+    487049,
+    47778,
+    54582,
+    549548,
+    82003
+  ],
+  "observationRecords": 615,
+  "dataUrl": "https://www.inaturalist.org/taxa/82003",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753137874,
+    "sourceUrl": "https://www.inaturalist.org/observations/409592060",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753137874/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753137874/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

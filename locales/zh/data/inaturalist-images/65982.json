@@ -1,0 +1,32 @@
+{
+  "id": "inat-65982",
+  "name": "Lithobates clamitans",
+  "scientificName": "Lithobates clamitans",
+  "group": "양서류",
+  "inaturalistId": 65982,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    25473,
+    60340,
+    65982
+  ],
+  "observationRecords": 2309,
+  "dataUrl": "https://www.inaturalist.org/taxa/65982",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 750843855,
+    "sourceUrl": "https://www.inaturalist.org/observations/408463202",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750843855/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750843855/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

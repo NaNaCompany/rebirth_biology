@@ -1,0 +1,42 @@
+{
+  "id": "inat-555975",
+  "name": "농게",
+  "scientificName": "Tubuca arcuata",
+  "group": "갑각류",
+  "inaturalistId": 555975,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    706188,
+    51931,
+    51932,
+    555951,
+    963211,
+    555964,
+    555975
+  ],
+  "observationRecords": 308,
+  "dataUrl": "https://www.inaturalist.org/taxa/555975",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 737564392,
+    "sourceUrl": "https://www.inaturalist.org/observations/401821474",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/737564392/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/737564392/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

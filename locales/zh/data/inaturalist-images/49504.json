@@ -1,0 +1,41 @@
+{
+  "id": "inat-49504",
+  "name": "Callinectes sapidus",
+  "scientificName": "Callinectes sapidus",
+  "group": "갑각류",
+  "inaturalistId": 49504,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    447514,
+    49505,
+    49506,
+    773636,
+    49507,
+    49504
+  ],
+  "observationRecords": 316,
+  "dataUrl": "https://www.inaturalist.org/taxa/49504",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745447867,
+    "sourceUrl": "https://www.inaturalist.org/observations/405805935",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745447867/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745447867/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

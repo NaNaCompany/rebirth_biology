@@ -1,0 +1,38 @@
+{
+  "id": "inat-203479",
+  "name": "Trachelipus rathkii",
+  "scientificName": "Trachelipus rathkii",
+  "group": "갑각류",
+  "inaturalistId": 203479,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144114,
+    48147,
+    84718,
+    343783,
+    343798,
+    171569,
+    171555,
+    203479
+  ],
+  "observationRecords": 536,
+  "dataUrl": "https://www.inaturalist.org/taxa/203479",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749867056,
+    "sourceUrl": "https://www.inaturalist.org/observations/407988960",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749867056/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749867056/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

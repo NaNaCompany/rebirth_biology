@@ -1,0 +1,35 @@
+{
+  "id": "inat-124544",
+  "name": "전호",
+  "scientificName": "Anthriscus sylvestris",
+  "group": "식물",
+  "inaturalistId": 124544,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48700,
+    48699,
+    790553,
+    790591,
+    1043615,
+    52847,
+    124544
+  ],
+  "observationRecords": 4393,
+  "dataUrl": "https://www.inaturalist.org/taxa/124544",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754549370,
+    "sourceUrl": "https://www.inaturalist.org/observations/410292350",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549370/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549370/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

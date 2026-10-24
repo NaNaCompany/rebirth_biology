@@ -1,0 +1,33 @@
+{
+  "id": "inat-4954",
+  "name": "왜가리",
+  "scientificName": "Ardea cinerea",
+  "group": "조류",
+  "inaturalistId": 4954,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    67566,
+    4929,
+    597395,
+    4950,
+    4954
+  ],
+  "observationRecords": 3824,
+  "dataUrl": "https://www.inaturalist.org/taxa/4954",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754536206,
+    "sourceUrl": "https://www.inaturalist.org/observations/410281129",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754536206/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754536206/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

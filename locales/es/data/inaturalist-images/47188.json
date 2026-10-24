@@ -1,0 +1,40 @@
+{
+  "id": "inat-47188",
+  "name": "바위게",
+  "scientificName": "Pachygrapsus crassipes",
+  "group": "갑각류",
+  "inaturalistId": 47188,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    706188,
+    47191,
+    47190,
+    47189,
+    47188
+  ],
+  "observationRecords": 634,
+  "dataUrl": "https://www.inaturalist.org/taxa/47188",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749299724,
+    "sourceUrl": "https://www.inaturalist.org/observations/407712448",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749299724/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749299724/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

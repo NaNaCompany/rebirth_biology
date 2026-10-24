@@ -1,0 +1,33 @@
+{
+  "id": "inat-27805",
+  "name": "동부영원",
+  "scientificName": "Notophthalmus viridescens",
+  "group": "양서류",
+  "inaturalistId": 27805,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    26718,
+    27701,
+    787591,
+    27800,
+    27805
+  ],
+  "observationRecords": 1553,
+  "dataUrl": "https://www.inaturalist.org/taxa/27805",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754772402,
+    "sourceUrl": "https://www.inaturalist.org/observations/410396964",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754772402/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754772402/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

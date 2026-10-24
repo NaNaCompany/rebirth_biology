@@ -1,0 +1,38 @@
+{
+  "id": "inat-48715",
+  "name": "광대버섯",
+  "scientificName": "Amanita muscaria",
+  "group": "균류",
+  "inaturalistId": 48715,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    1094814,
+    47167,
+    785522,
+    118249,
+    1149497,
+    48419,
+    1142599,
+    954920,
+    1155969,
+    48715
+  ],
+  "observationRecords": 2416,
+  "dataUrl": "https://www.inaturalist.org/taxa/48715",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754773619,
+    "sourceUrl": "https://www.inaturalist.org/observations/410397426",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754773619/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754773619/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

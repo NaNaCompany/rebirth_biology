@@ -1,0 +1,35 @@
+{
+  "id": "inat-101204",
+  "name": "Gambusia holbrooki",
+  "scientificName": "Gambusia holbrooki",
+  "group": "어류",
+  "inaturalistId": 101204,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    49333,
+    1303581,
+    59116,
+    788516,
+    59117,
+    101204
+  ],
+  "observationRecords": 419,
+  "dataUrl": "https://www.inaturalist.org/taxa/101204",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753021292,
+    "sourceUrl": "https://www.inaturalist.org/observations/409539158",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753021292/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753021292/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

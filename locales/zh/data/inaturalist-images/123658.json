@@ -1,0 +1,36 @@
+{
+  "id": "inat-123658",
+  "name": "Idaea aversata",
+  "scientificName": "Idaea aversata",
+  "group": "곤충",
+  "inaturalistId": 123658,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    49531,
+    49530,
+    123037,
+    123078,
+    52091,
+    123658
+  ],
+  "observationRecords": 2526,
+  "dataUrl": "https://www.inaturalist.org/taxa/123658",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 746832181,
+    "sourceUrl": "https://www.inaturalist.org/observations/406487616",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746832181/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746832181/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

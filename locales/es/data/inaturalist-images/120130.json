@@ -1,0 +1,32 @@
+{
+  "id": "inat-120130",
+  "name": "Gorgonia ventalina",
+  "scientificName": "Gorgonia ventalina",
+  "group": "기타동물",
+  "inaturalistId": 120130,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    47533,
+    340493,
+    1435134,
+    120131,
+    120132,
+    120130
+  ],
+  "observationRecords": 122,
+  "dataUrl": "https://www.inaturalist.org/taxa/120130",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 684967588,
+    "sourceUrl": "https://www.inaturalist.org/observations/374732173",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684967588/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684967588/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

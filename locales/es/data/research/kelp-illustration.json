@@ -1,0 +1,94 @@
+{
+  "size": 44756,
+  "width": 445,
+  "height": 754,
+  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/68/FMIB_41730_Laminaria_japonica.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "thumbwidth": 900,
+  "thumbheight": 1525,
+  "thumbattribs": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/FMIB_41730_Laminaria_japonica.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "decoding": "async",
+    "loading": "lazy",
+    "width": 900,
+    "height": 1525
+  },
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/FMIB_41730_Laminaria_japonica.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "descriptionurl": "https://commons.wikimedia.org/wiki/File:FMIB_41730_Laminaria_japonica.jpeg",
+  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42449759",
+  "extmetadata": {
+    "DateTime": {
+      "value": "2015-08-17 23:15:00",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "FMIB 41730 Laminaria japonica",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Saccharina japonica|Hugh McCormick Smith|Artworks without Wikidata item|Artworks with known accession number|Phaeophyceae botanical illustrations|PD-UWASH-FMIB|Images from the Freshwater and Marine Image Bank",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Artist": {
+      "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hugh_McCormick_Smith\" class=\"extiw\" title=\"w:en:Hugh McCormick Smith\"><span title=\"American ichthyologist (1865-1941)\">Hugh McCormick Smith</span></a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "ImageDescription": {
+      "value": "Laminaria japonica\n<ul><li>Subject: Marine algae, Laminaria</li>\n<li>Tag: Aquatic Botany</li></ul>",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "1905<div style=\"display: none;\">date QS:P571,+1905-00-00T00:00:00Z/9</div>",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<cite class=\"book\" style=\"font-style:normal\" id=\"Reference-Smith-1905\">Smith, Hugh M. (1905)      <i> Seaweed Industries of Japan</i>, Bulletin of the Bureau of Fisheries, Vol.24, 1904, <a href=\"https://en.wikipedia.org/wiki/en:Washington,_D.C.\" class=\"extiw\" title=\"w:en:Washington, D.C.\"><span title=\"capital city of the United States of America\">Washington, D.C.</span></a>:  Government Printing Office, p. 146  <small></small></cite>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td><i>This is a photograph from the <a rel=\"nofollow\" class=\"external text\" href=\"http://digitalcollections.lib.washington.edu/cdm/search/collection/fishimages\">Freshwater and Marine Image Bank</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/University_of_Washington\" class=\"extiw\" title=\"en:University of Washington\"><span lang=\"en\" dir=\"ltr\">University of Washington</span></a></span>. Materials in the Freshwater and Marine Image Bank are in the public domain. No copyright permissions are needed. Acknowledgement of the Freshwater and Marine Image Bank as a source for borrowed images is requested.</i>\n</td></tr></tbody></table>",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "Public domain",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Public domain",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Copyrighted": {
+      "value": "False",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "pd",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

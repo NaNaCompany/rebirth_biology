@@ -1,0 +1,35 @@
+{
+  "id": "inat-55563",
+  "name": "데이지",
+  "scientificName": "Bellis perennis",
+  "group": "식물",
+  "inaturalistId": 55563,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47605,
+    47604,
+    632790,
+    461542,
+    1265661,
+    55564,
+    55563
+  ],
+  "observationRecords": 5879,
+  "dataUrl": "https://www.inaturalist.org/taxa/55563",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754112125,
+    "sourceUrl": "https://www.inaturalist.org/observations/410070019",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754112125/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754112125/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

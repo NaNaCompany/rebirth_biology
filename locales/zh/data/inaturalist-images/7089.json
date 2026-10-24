@@ -1,0 +1,32 @@
+{
+  "id": "inat-7089",
+  "name": "캐나다기러기",
+  "scientificName": "Branta canadensis",
+  "group": "조류",
+  "inaturalistId": 7089,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    6888,
+    6912,
+    7086,
+    7089
+  ],
+  "observationRecords": 9278,
+  "dataUrl": "https://www.inaturalist.org/taxa/7089",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754758190,
+    "sourceUrl": "https://www.inaturalist.org/observations/410390320",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754758190/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754758190/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

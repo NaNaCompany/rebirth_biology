@@ -1,0 +1,32 @@
+{
+  "id": "inat-9176",
+  "name": "흰정수리북미멧새",
+  "scientificName": "Zonotrichia leucophrys",
+  "group": "조류",
+  "inaturalistId": 9176,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    559248,
+    9175,
+    9176
+  ],
+  "observationRecords": 3038,
+  "dataUrl": "https://www.inaturalist.org/taxa/9176",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754750991,
+    "sourceUrl": "https://www.inaturalist.org/observations/410386986",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754750991/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754750991/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

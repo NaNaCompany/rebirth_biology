@@ -1,0 +1,35 @@
+{
+  "id": "inat-49491",
+  "name": "Thalassoma bifasciatum",
+  "scientificName": "Thalassoma bifasciatum",
+  "group": "어류",
+  "inaturalistId": 49491,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1555654,
+    1303565,
+    49284,
+    1624586,
+    49494,
+    49491
+  ],
+  "observationRecords": 191,
+  "dataUrl": "https://www.inaturalist.org/taxa/49491",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 667287825,
+    "sourceUrl": "https://www.inaturalist.org/observations/365485007",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/667287825/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/667287825/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

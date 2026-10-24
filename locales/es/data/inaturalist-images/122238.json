@@ -1,0 +1,39 @@
+{
+  "id": "inat-122238",
+  "name": "거친양쥐며느리",
+  "scientificName": "Porcellio scaber",
+  "group": "갑각류",
+  "inaturalistId": 122238,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144114,
+    48147,
+    84718,
+    343783,
+    343798,
+    122239,
+    122240,
+    1606518,
+    122238
+  ],
+  "observationRecords": 2083,
+  "dataUrl": "https://www.inaturalist.org/taxa/122238",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754550496,
+    "sourceUrl": "https://www.inaturalist.org/observations/410288264",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754550496/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754550496/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "inat-81559",
+  "name": "Epargyreus clarus",
+  "scientificName": "Epargyreus clarus",
+  "group": "곤충",
+  "inaturalistId": 81559,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47653,
+    320509,
+    1070950,
+    1456838,
+    81560,
+    81559
+  ],
+  "observationRecords": 2118,
+  "dataUrl": "https://www.inaturalist.org/taxa/81559",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753309285,
+    "sourceUrl": "https://www.inaturalist.org/observations/409675250",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753309285/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753309285/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

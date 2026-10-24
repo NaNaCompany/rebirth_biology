@@ -1,0 +1,32 @@
+{
+  "id": "inat-6921",
+  "name": "혹고니",
+  "scientificName": "Cygnus olor",
+  "group": "조류",
+  "inaturalistId": 6921,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    6888,
+    6912,
+    6913,
+    6921
+  ],
+  "observationRecords": 4244,
+  "dataUrl": "https://www.inaturalist.org/taxa/6921",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753876320,
+    "sourceUrl": "https://www.inaturalist.org/observations/409956445",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753876320/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753876320/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

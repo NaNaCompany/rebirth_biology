@@ -1,0 +1,33 @@
+{
+  "id": "inat-50813",
+  "name": "Auricularia auricula-judae",
+  "scientificName": "Auricularia auricula-judae",
+  "group": "균류",
+  "inaturalistId": 50813,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    50815,
+    50816,
+    50817,
+    1138427,
+    50813
+  ],
+  "observationRecords": 1257,
+  "dataUrl": "https://www.inaturalist.org/taxa/50813",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753245000,
+    "sourceUrl": "https://www.inaturalist.org/observations/409643174",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753245000/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753245000/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

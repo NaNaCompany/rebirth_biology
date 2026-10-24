@@ -1,0 +1,32 @@
+{
+  "id": "inat-447777",
+  "name": "Cyanea lamarckii",
+  "scientificName": "Cyanea lamarckii",
+  "group": "기타동물",
+  "inaturalistId": 447777,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    48332,
+    551480,
+    48331,
+    154710,
+    154711,
+    447777
+  ],
+  "observationRecords": 112,
+  "dataUrl": "https://www.inaturalist.org/taxa/447777",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 737798372,
+    "sourceUrl": "https://www.inaturalist.org/observations/401841804",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/737798372/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/737798372/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

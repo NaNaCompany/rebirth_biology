@@ -1,0 +1,35 @@
+{
+  "id": "inat-117633",
+  "name": "Mopalia muscosa",
+  "scientificName": "Mopalia muscosa",
+  "group": "연체동물",
+  "inaturalistId": 117633,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47429,
+    47428,
+    533431,
+    372790,
+    533483,
+    47631,
+    1067211,
+    47630,
+    117633
+  ],
+  "observationRecords": 471,
+  "dataUrl": "https://www.inaturalist.org/taxa/117633",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 732822087,
+    "sourceUrl": "https://www.inaturalist.org/observations/399424997",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/732822087/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/732822087/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

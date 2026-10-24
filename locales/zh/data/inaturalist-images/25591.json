@@ -1,0 +1,32 @@
+{
+  "id": "inat-25591",
+  "name": "유럽산개구리",
+  "scientificName": "Rana temporaria",
+  "group": "양서류",
+  "inaturalistId": 25591,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    25473,
+    25474,
+    25591
+  ],
+  "observationRecords": 2392,
+  "dataUrl": "https://www.inaturalist.org/taxa/25591",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751630416,
+    "sourceUrl": "https://www.inaturalist.org/observations/408853747",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751630416/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751630416/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "inat-53911",
+  "name": "유럽잉어",
+  "scientificName": "Cyprinus carpio",
+  "group": "어류",
+  "inaturalistId": 53911,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1543570,
+    49216,
+    1303592,
+    49609,
+    607661,
+    53912,
+    53911
+  ],
+  "observationRecords": 518,
+  "dataUrl": "https://www.inaturalist.org/taxa/53911",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754382757,
+    "sourceUrl": "https://www.inaturalist.org/observations/410205229",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754382757/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754382757/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "inat-47516",
+  "name": "무지개송어",
+  "scientificName": "Oncorhynchus mykiss",
+  "group": "어류",
+  "inaturalistId": 47516,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    47521,
+    1555655,
+    47520,
+    342904,
+    47522,
+    47516
+  ],
+  "observationRecords": 290,
+  "dataUrl": "https://www.inaturalist.org/taxa/47516",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753993811,
+    "sourceUrl": "https://www.inaturalist.org/observations/410011979",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753993811/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753993811/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

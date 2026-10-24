@@ -1,0 +1,35 @@
+{
+  "id": "inat-116461",
+  "name": "Anolis sagrei",
+  "scientificName": "Anolis sagrei",
+  "group": "파충류",
+  "inaturalistId": 116461,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    26172,
+    85552,
+    1563907,
+    1567779,
+    200152,
+    36362,
+    116461
+  ],
+  "observationRecords": 2142,
+  "dataUrl": "https://www.inaturalist.org/taxa/116461",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754489662,
+    "sourceUrl": "https://www.inaturalist.org/observations/410259467",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754489662/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754489662/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

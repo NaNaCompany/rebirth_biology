@@ -1,0 +1,36 @@
+{
+  "id": "inat-67706",
+  "name": "Argiope argentata",
+  "scientificName": "Argiope argentata",
+  "group": "거미류",
+  "inaturalistId": 67706,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    245097,
+    47119,
+    47118,
+    120474,
+    342614,
+    319384,
+    47535,
+    1004912,
+    47552,
+    67706
+  ],
+  "observationRecords": 725,
+  "dataUrl": "https://www.inaturalist.org/taxa/67706",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752833992,
+    "sourceUrl": "https://www.inaturalist.org/observations/409447444",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752833992/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752833992/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

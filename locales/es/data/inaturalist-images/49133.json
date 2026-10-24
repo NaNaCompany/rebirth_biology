@@ -1,0 +1,36 @@
+{
+  "id": "inat-49133",
+  "name": "Vanessa atalanta",
+  "scientificName": "Vanessa atalanta",
+  "group": "곤충",
+  "inaturalistId": 49133,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47922,
+    202067,
+    202066,
+    48507,
+    49133
+  ],
+  "observationRecords": 6377,
+  "dataUrl": "https://www.inaturalist.org/taxa/49133",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754535959,
+    "sourceUrl": "https://www.inaturalist.org/observations/410281123",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754535959/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754535959/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

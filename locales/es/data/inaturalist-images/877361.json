@@ -1,0 +1,33 @@
+{
+  "id": "inat-877361",
+  "name": "Fomitopsis mounceae",
+  "scientificName": "Fomitopsis mounceae",
+  "group": "균류",
+  "inaturalistId": 877361,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    47380,
+    55974,
+    118056,
+    1098279,
+    877361
+  ],
+  "observationRecords": 928,
+  "dataUrl": "https://www.inaturalist.org/taxa/877361",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751189306,
+    "sourceUrl": "https://www.inaturalist.org/observations/408633036",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751189306/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751189306/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

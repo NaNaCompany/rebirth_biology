@@ -1,0 +1,33 @@
+{
+  "id": "inat-64977",
+  "name": "Anaxyrus fowleri",
+  "scientificName": "Anaxyrus fowleri",
+  "group": "양서류",
+  "inaturalistId": 64977,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    21359,
+    64747,
+    992298,
+    64977
+  ],
+  "observationRecords": 680,
+  "dataUrl": "https://www.inaturalist.org/taxa/64977",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751740047,
+    "sourceUrl": "https://www.inaturalist.org/observations/408907469",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751740047/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751740047/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

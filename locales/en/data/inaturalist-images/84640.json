@@ -1,0 +1,39 @@
+{
+  "id": "inat-84640",
+  "name": "Polistes dominula",
+  "scientificName": "Polistes dominula",
+  "group": "곤충",
+  "inaturalistId": 84640,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47201,
+    124417,
+    326777,
+    48740,
+    52747,
+    343248,
+    638567,
+    52756,
+    789375,
+    84640
+  ],
+  "observationRecords": 2011,
+  "dataUrl": "https://www.inaturalist.org/taxa/84640",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754269941,
+    "sourceUrl": "https://www.inaturalist.org/observations/410151955",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754269941/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754269941/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "inat-27459",
+  "name": "Batrachoseps attenuatus",
+  "scientificName": "Batrachoseps attenuatus",
+  "group": "양서류",
+  "inaturalistId": 27459,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    26718,
+    26909,
+    787564,
+    27444,
+    27459
+  ],
+  "observationRecords": 709,
+  "dataUrl": "https://www.inaturalist.org/taxa/27459",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 729443905,
+    "sourceUrl": "https://www.inaturalist.org/observations/397690533",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/729443905/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/729443905/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

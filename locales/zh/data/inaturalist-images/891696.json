@@ -1,0 +1,32 @@
+{
+  "id": "inat-891696",
+  "name": "유럽까치",
+  "scientificName": "Pica pica",
+  "group": "조류",
+  "inaturalistId": 891696,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    7823,
+    8318,
+    891696
+  ],
+  "observationRecords": 3394,
+  "dataUrl": "https://www.inaturalist.org/taxa/891696",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754668797,
+    "sourceUrl": "https://www.inaturalist.org/observations/410348323",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754668797/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754668797/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

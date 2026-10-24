@@ -1,0 +1,33 @@
+{
+  "id": "inat-59029",
+  "name": "우단담배풀",
+  "scientificName": "Verbascum thapsus",
+  "group": "식물",
+  "inaturalistId": 59029,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48151,
+    47151,
+    941815,
+    56165,
+    59029
+  ],
+  "observationRecords": 4256,
+  "dataUrl": "https://www.inaturalist.org/taxa/59029",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754651405,
+    "sourceUrl": "https://www.inaturalist.org/observations/410339532",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754651405/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754651405/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "inat-13094",
+  "name": "꼬까울새",
+  "scientificName": "Erithacus rubecula",
+  "group": "조류",
+  "inaturalistId": 13094,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    12704,
+    13093,
+    13094
+  ],
+  "observationRecords": 3435,
+  "dataUrl": "https://www.inaturalist.org/taxa/13094",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754629847,
+    "sourceUrl": "https://www.inaturalist.org/observations/410328807",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754629847/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754629847/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

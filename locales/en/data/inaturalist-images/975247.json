@@ -1,0 +1,31 @@
+{
+  "id": "inat-975247",
+  "name": "Agrobacterium radiobacter",
+  "scientificName": "Agrobacterium radiobacter",
+  "group": "현미경생물",
+  "inaturalistId": 975247,
+  "ancestors": [
+    48460,
+    67333,
+    83702,
+    83703,
+    152383,
+    349868,
+    349872,
+    975247
+  ],
+  "observationRecords": 166,
+  "dataUrl": "https://www.inaturalist.org/taxa/975247",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 740852786,
+    "sourceUrl": "https://www.inaturalist.org/observations/403494859",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740852786/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740852786/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

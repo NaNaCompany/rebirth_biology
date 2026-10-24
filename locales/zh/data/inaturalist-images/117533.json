@@ -1,0 +1,34 @@
+{
+  "id": "inat-117533",
+  "name": "Clinocottus analis",
+  "scientificName": "Clinocottus analis",
+  "group": "어류",
+  "inaturalistId": 117533,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    47233,
+    1303567,
+    86030,
+    87526,
+    117533
+  ],
+  "observationRecords": 122,
+  "dataUrl": "https://www.inaturalist.org/taxa/117533",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749343525,
+    "sourceUrl": "https://www.inaturalist.org/observations/407734576",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749343525/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749343525/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

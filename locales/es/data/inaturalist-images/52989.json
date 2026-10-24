@@ -1,0 +1,35 @@
+{
+  "id": "inat-52989",
+  "name": "서양가시엉겅퀴",
+  "scientificName": "Cirsium vulgare",
+  "group": "식물",
+  "inaturalistId": 52989,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47605,
+    47604,
+    201654,
+    632883,
+    632885,
+    48561,
+    52989
+  ],
+  "observationRecords": 6511,
+  "dataUrl": "https://www.inaturalist.org/taxa/52989",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754806480,
+    "sourceUrl": "https://www.inaturalist.org/observations/410412614",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754806480/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754806480/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

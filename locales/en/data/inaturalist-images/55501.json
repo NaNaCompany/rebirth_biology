@@ -1,0 +1,32 @@
+{
+  "id": "inat-55501",
+  "name": "꽃구름버섯",
+  "scientificName": "Stereum hirsutum",
+  "group": "균류",
+  "inaturalistId": 55501,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    48341,
+    55502,
+    55503,
+    55501
+  ],
+  "observationRecords": 932,
+  "dataUrl": "https://www.inaturalist.org/taxa/55501",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754303473,
+    "sourceUrl": "https://www.inaturalist.org/observations/410171529",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754303473/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754303473/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

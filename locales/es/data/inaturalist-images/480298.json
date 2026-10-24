@@ -1,0 +1,40 @@
+{
+  "id": "inat-480298",
+  "name": "Cornu aspersum",
+  "scientificName": "Cornu aspersum",
+  "group": "연체동물",
+  "inaturalistId": 480298,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781352,
+    68625,
+    47484,
+    906896,
+    910289,
+    87634,
+    480298
+  ],
+  "observationRecords": 3257,
+  "dataUrl": "https://www.inaturalist.org/taxa/480298",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754549283,
+    "sourceUrl": "https://www.inaturalist.org/observations/410292333",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549283/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549283/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

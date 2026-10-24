@@ -1,0 +1,35 @@
+{
+  "id": "inat-102686",
+  "name": "Heterandria formosa",
+  "scientificName": "Heterandria formosa",
+  "group": "어류",
+  "inaturalistId": 102686,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    49333,
+    1303581,
+    59116,
+    788516,
+    88863,
+    102686
+  ],
+  "observationRecords": 114,
+  "dataUrl": "https://www.inaturalist.org/taxa/102686",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 711007360,
+    "sourceUrl": "https://www.inaturalist.org/observations/388227596",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/711007360/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/711007360/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

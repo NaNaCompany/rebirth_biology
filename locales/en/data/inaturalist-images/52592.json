@@ -1,0 +1,37 @@
+{
+  "id": "inat-52592",
+  "name": "Pararge aegeria",
+  "scientificName": "Pararge aegeria",
+  "group": "곤충",
+  "inaturalistId": 52592,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47922,
+    58597,
+    58598,
+    58599,
+    52593,
+    52592
+  ],
+  "observationRecords": 4894,
+  "dataUrl": "https://www.inaturalist.org/taxa/52592",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753848641,
+    "sourceUrl": "https://www.inaturalist.org/observations/409942059",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753848641/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753848641/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "inat-55620",
+  "name": "왕배풍등",
+  "scientificName": "Solanum dulcamara",
+  "group": "식물",
+  "inaturalistId": 55620,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48515,
+    48516,
+    634936,
+    634950,
+    50641,
+    55620
+  ],
+  "observationRecords": 3776,
+  "dataUrl": "https://www.inaturalist.org/taxa/55620",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754515936,
+    "sourceUrl": "https://www.inaturalist.org/observations/410271072",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754515936/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754515936/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

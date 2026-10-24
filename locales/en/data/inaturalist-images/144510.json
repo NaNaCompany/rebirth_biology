@@ -1,0 +1,33 @@
+{
+  "id": "inat-144510",
+  "name": "붉은부리갈매기",
+  "scientificName": "Chroicocephalus ridibundus",
+  "group": "조류",
+  "inaturalistId": 144510,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    67561,
+    4342,
+    447155,
+    144320,
+    144510
+  ],
+  "observationRecords": 3142,
+  "dataUrl": "https://www.inaturalist.org/taxa/144510",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754705612,
+    "sourceUrl": "https://www.inaturalist.org/observations/410366103",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754705612/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754705612/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

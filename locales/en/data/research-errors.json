@@ -1,0 +1,150 @@
+[
+  {
+    "id": "capybara",
+    "error": "Not a named taxon: capybara"
+  },
+  {
+    "id": "whale",
+    "error": "429 https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Balaenoptera+musculus%22&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=900&format=json"
+  },
+  {
+    "id": "raven",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Corvus+corax&language=en&format=json&limit=5"
+  },
+  {
+    "id": "penguin",
+    "error": "429 https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Aptenodytes+forsteri%22&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=900&format=json"
+  },
+  {
+    "id": "pigeon",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Columba+livia&language=en&format=json&limit=5"
+  },
+  {
+    "id": "flamingo",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Phoenicopterus+roseus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "octopus",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Octopus+vulgaris&language=en&format=json&limit=5"
+  },
+  {
+    "id": "jellyfish",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Aurelia+aurita&language=en&format=json&limit=5"
+  },
+  {
+    "id": "starfish",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Asterias+rubens&language=en&format=json&limit=5"
+  },
+  {
+    "id": "seahorse",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Hippocampus+kuda&language=en&format=json&limit=5"
+  },
+  {
+    "id": "clownfish",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Amphiprion+ocellaris&language=en&format=json&limit=5"
+  },
+  {
+    "id": "butterfly",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Danaus+plexippus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "bee",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Apis+mellifera&language=en&format=json&limit=5"
+  },
+  {
+    "id": "ant",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Lasius+niger&language=en&format=json&limit=5"
+  },
+  {
+    "id": "duck",
+    "error": "429 https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Anas+platyrhynchos%22&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=900&format=json"
+  },
+  {
+    "id": "ladybug",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Coccinella+septempunctata&language=en&format=json&limit=5"
+  },
+  {
+    "id": "snail",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Cornu+aspersum&language=en&format=json&limit=5"
+  },
+  {
+    "id": "ginkgo",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ginkgo+biloba&language=en&format=json&limit=5"
+  },
+  {
+    "id": "sunflower",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Helianthus+annuus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "dandelion",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Taraxacum+officinale&language=en&format=json&limit=5"
+  },
+  {
+    "id": "monstera",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Monstera+deliciosa&language=en&format=json&limit=5"
+  },
+  {
+    "id": "cactus",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Carnegiea+gigantea&language=en&format=json&limit=5"
+  },
+  {
+    "id": "kelp",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Saccharina+japonica&language=en&format=json&limit=5"
+  },
+  {
+    "id": "wakame",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Undaria+pinnatifida&language=en&format=json&limit=5"
+  },
+  {
+    "id": "nori",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Pyropia+yezoensis&language=en&format=json&limit=5"
+  },
+  {
+    "id": "duckweed",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Lemna+minor&language=en&format=json&limit=5"
+  },
+  {
+    "id": "lotus",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Nelumbo+nucifera&language=en&format=json&limit=5"
+  },
+  {
+    "id": "shiitake",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Lentinula+edodes&language=en&format=json&limit=5"
+  },
+  {
+    "id": "oyster-mushroom",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Pleurotus+ostreatus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "fly-agaric",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Amanita+muscaria&language=en&format=json&limit=5"
+  },
+  {
+    "id": "yeast",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Saccharomyces+cerevisiae&language=en&format=json&limit=5"
+  },
+  {
+    "id": "mold",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Penicillium+chrysogenum&language=en&format=json&limit=5"
+  },
+  {
+    "id": "paramecium",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Paramecium+caudatum&language=en&format=json&limit=5"
+  },
+  {
+    "id": "amoeba",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Amoeba+proteus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "ecoli",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Escherichia+coli&language=en&format=json&limit=5"
+  },
+  {
+    "id": "tardigrade",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ramazzottius+varieornatus&language=en&format=json&limit=5"
+  },
+  {
+    "id": "euglena",
+    "error": "429 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Euglena+gracilis&language=en&format=json&limit=5"
+  }
+]

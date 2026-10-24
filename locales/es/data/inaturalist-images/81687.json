@@ -1,0 +1,37 @@
+{
+  "id": "inat-81687",
+  "name": "Noctua pronuba",
+  "scientificName": "Noctua pronuba",
+  "group": "곤충",
+  "inaturalistId": 81687,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47607,
+    48670,
+    122224,
+    117747,
+    320201,
+    81688,
+    81687
+  ],
+  "observationRecords": 5737,
+  "dataUrl": "https://www.inaturalist.org/taxa/81687",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753628100,
+    "sourceUrl": "https://www.inaturalist.org/observations/409831916",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753628100/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753628100/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

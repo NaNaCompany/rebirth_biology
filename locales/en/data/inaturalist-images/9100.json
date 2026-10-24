@@ -1,0 +1,32 @@
+{
+  "id": "inat-9100",
+  "name": "Melospiza melodia",
+  "scientificName": "Melospiza melodia",
+  "group": "조류",
+  "inaturalistId": 9100,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    559248,
+    9091,
+    9100
+  ],
+  "observationRecords": 5437,
+  "dataUrl": "https://www.inaturalist.org/taxa/9100",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754797964,
+    "sourceUrl": "https://www.inaturalist.org/observations/410408709",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754797964/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754797964/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

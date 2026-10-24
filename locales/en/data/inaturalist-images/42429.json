@@ -1,0 +1,36 @@
+{
+  "id": "inat-42429",
+  "name": "가지뿔영양",
+  "scientificName": "Antilocapra americana",
+  "group": "포유류",
+  "inaturalistId": 42429,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848324,
+    152870,
+    424850,
+    42427,
+    42428,
+    42429
+  ],
+  "observationRecords": 597,
+  "dataUrl": "https://www.inaturalist.org/taxa/42429",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754396624,
+    "sourceUrl": "https://www.inaturalist.org/observations/410211298",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754396624/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754396624/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

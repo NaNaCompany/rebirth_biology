@@ -1,0 +1,34 @@
+{
+  "id": "inat-48403",
+  "name": "Gasterosteus aculeatus",
+  "scientificName": "Gasterosteus aculeatus",
+  "group": "어류",
+  "inaturalistId": 48403,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    47233,
+    1303586,
+    48405,
+    48404,
+    48403
+  ],
+  "observationRecords": 190,
+  "dataUrl": "https://www.inaturalist.org/taxa/48403",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745507348,
+    "sourceUrl": "https://www.inaturalist.org/observations/405835733",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745507348/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745507348/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

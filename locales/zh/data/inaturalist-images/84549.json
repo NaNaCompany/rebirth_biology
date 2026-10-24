@@ -1,0 +1,35 @@
+{
+  "id": "inat-84549",
+  "name": "Plathemis lydia",
+  "scientificName": "Plathemis lydia",
+  "group": "곤충",
+  "inaturalistId": 84549,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47792,
+    47927,
+    1317176,
+    47819,
+    84550,
+    84549
+  ],
+  "observationRecords": 2344,
+  "dataUrl": "https://www.inaturalist.org/taxa/84549",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745368504,
+    "sourceUrl": "https://www.inaturalist.org/observations/405765925",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745368504/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745368504/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

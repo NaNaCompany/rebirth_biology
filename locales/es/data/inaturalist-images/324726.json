@@ -1,0 +1,38 @@
+{
+  "id": "inat-324726",
+  "name": "꽃매미",
+  "scientificName": "Lycorma delicatula",
+  "group": "곤충",
+  "inaturalistId": 324726,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47744,
+    125816,
+    372860,
+    52073,
+    54944,
+    708488,
+    708491,
+    324727,
+    324726
+  ],
+  "observationRecords": 2289,
+  "dataUrl": "https://www.inaturalist.org/taxa/324726",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754507915,
+    "sourceUrl": "https://www.inaturalist.org/observations/410267316",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754507915/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754507915/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

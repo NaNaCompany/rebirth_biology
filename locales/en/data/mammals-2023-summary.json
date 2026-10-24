@@ -1,0 +1,77 @@
+{
+  "publicationYear": 2023,
+  "sourceUrl": "https://doi.org/10.1073/pnas.2204892120",
+  "dataUrl": "https://zenodo.org/records/7594807",
+  "unit": "Mt wet mass",
+  "landSpeciesCount": 4795,
+  "marineReportedSpecies": 39,
+  "landTotalMt": 22.435157043914042,
+  "marineReportedTotalMt": 39.0,
+  "humanAndDomestic": [
+    {
+      "name": "Cattle",
+      "biomassMt": 416.0
+    },
+    {
+      "name": "Human",
+      "biomassMt": 393.7
+    },
+    {
+      "name": "Buffaloes",
+      "biomassMt": 67.6
+    },
+    {
+      "name": "Sheep",
+      "biomassMt": 38.9
+    },
+    {
+      "name": "Swine",
+      "biomassMt": 38.2
+    },
+    {
+      "name": "Goats",
+      "biomassMt": 32.0
+    },
+    {
+      "name": "Dog",
+      "biomassMt": 21.6
+    },
+    {
+      "name": "Horses",
+      "biomassMt": 16.1
+    },
+    {
+      "name": "Camels",
+      "biomassMt": 7.7
+    },
+    {
+      "name": "Asses",
+      "biomassMt": 6.5
+    },
+    {
+      "name": "Cat",
+      "biomassMt": 2.2
+    },
+    {
+      "name": "Camelids, other",
+      "biomassMt": 1.0
+    },
+    {
+      "name": "Mules",
+      "biomassMt": 1.0
+    },
+    {
+      "name": "Rabbits and hares",
+      "biomassMt": 0.5
+    },
+    {
+      "name": "Rats",
+      "biomassMt": 0.4
+    },
+    {
+      "name": "Mouse",
+      "biomassMt": 0.2
+    }
+  ],
+  "note": "Research facts normalized from author outputs. Marine reported table excludes separately inferred species. Not directly mixed into carbon denominator."
+}

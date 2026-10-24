@@ -1,0 +1,59 @@
+{
+  "id": "panda",
+  "name": "판다",
+  "scientificName": "Ailuropoda melanoleuca",
+  "requestedScientificName": "Ailuropoda melanoleuca",
+  "group": "포유류",
+  "motto": "먹고 눕는 일에 진심",
+  "address": "지구특별시 대나무숲 4번지",
+  "badge": "오늘도 귀여움 근무",
+  "wikidataId": "Q33602",
+  "dataUrl": "https://www.wikidata.org/wiki/Q33602",
+  "dataLicense": "CC0-1.0",
+  "preferredImage": "Giant Panda 2004-03-2.jpg",
+  "images": [
+    {
+      "title": "File:Giant Panda 2004-03-2.jpg",
+      "index": 1,
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Giant_Panda_2004-03-2.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Giant_Panda_2004-03-2.jpg/960px-Giant_Panda_2004-03-2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Panda_2004-03-2.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "copyrighted": "False",
+      "artist": "Jeff Kubina",
+      "description": "Male Giant Panda \"Tian Tian\" (*1997) at the Smithsonian National Zoological Park in Washington, D.C.",
+      "width": 2095,
+      "height": 1394
+    },
+    {
+      "title": "File:A Panda eating.jpg",
+      "index": 4,
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/A_Panda_eating.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_Panda_eating.jpg/960px-A_Panda_eating.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Panda_eating.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "copyrighted": "False",
+      "artist": "PhotoStockEditor",
+      "description": "A Panda eating grass near a probable cave or den.",
+      "width": 3648,
+      "height": 4864
+    },
+    {
+      "title": "File:Stamp of Indonesia - 2019 - Colnect 869402 - Panda.jpeg",
+      "index": 10,
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stamp_of_Indonesia_-_2019_-_Colnect_869402_-_Panda.jpeg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stamp_of_Indonesia_-_2019_-_Colnect_869402_-_Panda.jpeg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stamp_of_Indonesia_-_2019_-_Colnect_869402_-_Panda.jpeg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "copyrighted": "False",
+      "artist": "Post of Indonesia",
+      "description": "stamp from souvenir sheet",
+      "width": 368,
+      "height": 493
+    }
+  ],
+  "reviewStatus": "pending"
+}

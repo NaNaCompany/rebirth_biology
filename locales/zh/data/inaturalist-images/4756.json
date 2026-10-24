@@ -1,0 +1,32 @@
+{
+  "id": "inat-4756",
+  "name": "칠면조수리",
+  "scientificName": "Cathartes aura",
+  "group": "조류",
+  "inaturalistId": 4756,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    559244,
+    71306,
+    4755,
+    4756
+  ],
+  "observationRecords": 5694,
+  "dataUrl": "https://www.inaturalist.org/taxa/4756",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754724345,
+    "sourceUrl": "https://www.inaturalist.org/observations/410375074",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754724345/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754724345/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

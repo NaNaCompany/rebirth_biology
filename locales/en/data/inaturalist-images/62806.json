@@ -1,0 +1,35 @@
+{
+  "id": "inat-62806",
+  "name": "캘리포니아담치",
+  "scientificName": "Mytilus californianus",
+  "group": "연체동물",
+  "inaturalistId": 62806,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47584,
+    1051154,
+    372769,
+    775839,
+    775840,
+    50600,
+    871438,
+    62807,
+    62806
+  ],
+  "observationRecords": 623,
+  "dataUrl": "https://www.inaturalist.org/taxa/62806",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 747537955,
+    "sourceUrl": "https://www.inaturalist.org/observations/406840898",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/747537955/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/747537955/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -13,3 +13,6 @@ data/group-entities.json
 data/taxon-roots.json
 data/research-errors.json
 artifacts/
+
+locales/*/docs/
+locales/*/node_modules/

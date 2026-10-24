@@ -1,0 +1,1045 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "name",
+      "image"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lasius niger"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L1375480-S1"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Nelumbo nucifera"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16528"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacred%20lotus%20Nelumbo%20nucifera.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Asterias rubens"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21120"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Asterias%20rubens.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Anas platyrhynchos"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25348"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Anas%20platyrhynchos%20%28mixed%20pair%29%20%2832428014687%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Anas platyrhynchos"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25348"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Anas%20platyrhynchos%20near%20City%20Lake%2C%20Ivano-Frankivsk.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Anas platyrhynchos"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25348"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20mallard3.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Corvus corax"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25357"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Corvus%20corax%20ad%20berlin%20090516.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Corvus corax"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25357"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Common%20Raven%20%28Corvus%20corax%29%20%2811793963694%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Corvus corax"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25357"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Common%20Raven%20%28Corvus%20corax%29%20%2839638261481%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Corvus corax"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25357"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Corvus%20corax%20tingitanus%20MHNT%20232%20HdB%20Djebel%20Messaad%20Algerie.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Escherichia coli"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25419"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Escherichia coli"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25419"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/202502%20Escherichia%20coli.svg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aurelia aurita"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26864"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Jellyfish%20%2814278816210%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aurelia aurita"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26864"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vandmaend.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lemna minor"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26875"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Eendekroos%20dicht%20bijeen.JPG"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Apis mellifera"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30034"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Apis%20mellifera%20%28female%29%20-%20on%20viburnum%20tinus%20flowers.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Ailuropoda melanoleuca"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33602"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Grosser%20Panda.JPG"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Ailuropoda melanoleuca"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33602"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Giant%20Panda%202004-03-2.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Balaenoptera musculus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42196"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/202501%20Blue%20whale.svg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Balaenoptera musculus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42196"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Anim1755%20-%20Flickr%20-%20NOAA%20Photo%20Library.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Balaenoptera musculus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42196"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20stamp%20402%20blue%20whale%20%28Balaenoptera%20musculus%29%20crop.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Columba livia"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42326"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Columba%20livia%20%28Rock%20Dove%2C%20wild%29%2C%20Duncansby%20Head%2C%20Caithness%2C%20Scotland%201.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Ginkgo biloba"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43284"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/GINKGOBAUM-2.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Ginkgo biloba"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43284"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginkgo%20biloba.%20filare.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Taraxacum officinale"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131219"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Maskros%202.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Taraxacum officinale"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131219"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Taraxacum%20officinale%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-135.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Amanita muscaria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131227"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Amanita%20muscaria%203%20vliegenzwammen%20op%20rij.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Amanita muscaria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131227"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Amanita%20muscaria%2C%20Kyiv%20Region%2C%20Pushcha-Vodytsia%20Forestry.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Hydrochoerus hydrochaeris"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131538"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Capybara%20%28Hydrochoerus%20hydrochaeris%29%20alpha%20male.JPG"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Hydrochoerus hydrochaeris"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131538"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Capybaras%20%28Hydrochoerus%20hydrachaeris%29%20female%20and%20young%20suckling%20...%20%2848427191032%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Penicillium chrysogenum"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137155"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Penicillium%20notatum.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Bradypus variegatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148752"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Bradypus.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Bradypus variegatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148752"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MC%20Drei-Finger-Faultier.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Coccinella septempunctata"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q159543"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/BIEDRONA.JPG"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Monstera deliciosa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161077"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Monstera%20deliciosa2.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aptenodytes forsteri"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161829"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Aptenodytes%20forsteri%20-Snow%20Hill%20Island%2C%20Antarctica%20-adults%20and%20juvenile-8.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aptenodytes forsteri"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161829"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Penguin%20diving%20statistics.svg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aptenodytes forsteri"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161829"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Penguin%20in%20Antarctica%20jumping%20out%20of%20the%20water.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Aptenodytes forsteri"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161829"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/202501%20Emperor%20penguin.svg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Helianthus annuus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171497"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Helianthus%20annuus%20exposed%202004-05-22.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Phoenicopterus roseus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179863"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flamant%20rose%20Thyna009.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Pleurotus ostreatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186451"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Austern%20Sabine%20u.%20Holger.JPG"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Pleurotus ostreatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186451"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Oyster%20mushoom%20fells.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Pleurotus ostreatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186451"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pleurotus%20ostreatus%20JPG7.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Danaus plexippus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212398"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Danaus%20plexippus%20MHNT.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Danaus plexippus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212398"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Danaus%20plexippus%20MHNT%20femelle.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Danaus plexippus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212398"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Monarch%20caterpillar%20%2823229%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Carnegiea gigantea"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q275573"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/CarnegieaGigantea.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Carnegiea gigantea"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q275573"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saguaro%20cactus%20in%20Arizona.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Carnegiea gigantea"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q275573"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sahuaros%20en%20%C3%8Dmuris.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Euglena gracilis"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309852"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Euglena%20gracilis.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lentinula edodes"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320999"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lentinula%20edodes.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lentinula edodes"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320999"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Funghi%20Shiitake.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lentinula edodes"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320999"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiitakegrowing.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Octopus vulgaris"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q651361"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Octopus%20vulgaris%20Merculiano.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Octopus vulgaris"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q651361"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Octopus%20vulgaris2.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Hippocampus kuda"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q716470"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20kuda%20%28Estuary%20seahorse%29%20-%20yellow.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Hippocampus kuda"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q716470"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20kuda%20%28Yellow%20estuary%20seahorse%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/S%20cerevisiae%20under%20DIC%20microscopy.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/202502%20Saccharomyces%20cerevisiae.svg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saccharomyces%20cerevisiae%20SEM.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Budding%20yeast%20%28Saccharomyces%20cerevisiae%29.png"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saccharomyces%20cerevisiae%20YGC%20colonies%2050.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharomyces cerevisiae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q719725"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Saccharomyces%20cerevisiae%20100x%20phase-contrast%20microscopy2.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lasius niger"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839823"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lasius.niger.-.lindsey.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Lasius niger"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839823"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lasius%20niger.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Amphiprion ocellaris"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1126155"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Clownfisch%20%28Amphiprion%20ocellaris%29.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Amoeba proteus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1190338"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Amoeba%20proteus%20with%20many%20pseudopodia.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Ramazzottius varieornatus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2203851"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/41598%202019%2056965%20Fig1%20HTML.webp"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Paramecium caudatum"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2706492"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Paramecium%20caudatum%20Ehrenberg%2C%201833.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Undaria pinnatifida"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3549232"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/CSIRO%20ScienceImage%20952%20Undaria%20pinnatifida%20Japanese%20kelp.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Saccharina japonica"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11260230"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelp%20in%20Neskowin.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Felis catus"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20980826"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg"
+        }
+      },
+      {
+        "name": {
+          "type": "literal",
+          "value": "Cornu aspersum"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22019793"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Snail-wiki-120-Zachi-Evenor.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "inat-64006",
+  "name": "재첩",
+  "scientificName": "Corbicula fluminea",
+  "group": "연체동물",
+  "inaturalistId": 64006,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47584,
+    1051154,
+    1051155,
+    551316,
+    551317,
+    50586,
+    534851,
+    534850,
+    64009,
+    64006
+  ],
+  "observationRecords": 583,
+  "dataUrl": "https://www.inaturalist.org/taxa/64006",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749834214,
+    "sourceUrl": "https://www.inaturalist.org/observations/407972752",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749834214/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749834214/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

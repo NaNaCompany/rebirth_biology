@@ -1,0 +1,35 @@
+{
+  "id": "inat-914922",
+  "name": "호장근",
+  "scientificName": "Reynoutria japonica",
+  "group": "식물",
+  "inaturalistId": 914922,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47366,
+    48382,
+    922206,
+    922238,
+    922240,
+    379255,
+    914922
+  ],
+  "observationRecords": 3161,
+  "dataUrl": "https://www.inaturalist.org/taxa/914922",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752646881,
+    "sourceUrl": "https://www.inaturalist.org/observations/409355520",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752646881/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752646881/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

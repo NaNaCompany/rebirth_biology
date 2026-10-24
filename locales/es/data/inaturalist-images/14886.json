@@ -1,0 +1,32 @@
+{
+  "id": "inat-14886",
+  "name": "북부흉내지빠귀",
+  "scientificName": "Mimus polyglottos",
+  "group": "조류",
+  "inaturalistId": 14886,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    59911,
+    14877,
+    14886
+  ],
+  "observationRecords": 3706,
+  "dataUrl": "https://www.inaturalist.org/taxa/14886",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754690755,
+    "sourceUrl": "https://www.inaturalist.org/observations/410359092",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754690755/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754690755/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

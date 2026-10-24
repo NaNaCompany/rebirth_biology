@@ -1,0 +1,40 @@
+{
+  "id": "inat-55719",
+  "name": "꽃등에",
+  "scientificName": "Eristalis tenax",
+  "group": "곤충",
+  "inaturalistId": 55719,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47822,
+    48091,
+    372853,
+    414448,
+    49995,
+    326181,
+    364082,
+    520020,
+    52491,
+    520029,
+    55719
+  ],
+  "observationRecords": 3592,
+  "dataUrl": "https://www.inaturalist.org/taxa/55719",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754843676,
+    "sourceUrl": "https://www.inaturalist.org/observations/410431164",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754843676/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754843676/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

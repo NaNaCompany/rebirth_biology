@@ -1,0 +1,37 @@
+{
+  "id": "inat-48786",
+  "name": "Pollicipes polymerus",
+  "scientificName": "Pollicipes polymerus",
+  "group": "갑각류",
+  "inaturalistId": 48786,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    1091452,
+    144117,
+    210289,
+    464038,
+    1040842,
+    1044946,
+    48787,
+    48788,
+    48786
+  ],
+  "observationRecords": 521,
+  "dataUrl": "https://www.inaturalist.org/taxa/48786",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 744755202,
+    "sourceUrl": "https://www.inaturalist.org/observations/405460603",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/744755202/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/744755202/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

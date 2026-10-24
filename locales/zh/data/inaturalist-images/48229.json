@@ -1,0 +1,36 @@
+{
+  "id": "inat-48229",
+  "name": "Ranunculus repens",
+  "scientificName": "Ranunculus repens",
+  "group": "식물",
+  "inaturalistId": 48229,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    48232,
+    48231,
+    746709,
+    746715,
+    48230,
+    1365503,
+    1567664,
+    48229
+  ],
+  "observationRecords": 3483,
+  "dataUrl": "https://www.inaturalist.org/taxa/48229",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753823493,
+    "sourceUrl": "https://www.inaturalist.org/observations/409926979",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753823493/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753823493/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "inat-44576",
+  "name": "집쥐",
+  "scientificName": "Rattus norvegicus",
+  "group": "포유류",
+  "inaturalistId": 44576,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848323,
+    43698,
+    870778,
+    488924,
+    44185,
+    735171,
+    846293,
+    44540,
+    44576
+  ],
+  "observationRecords": 719,
+  "dataUrl": "https://www.inaturalist.org/taxa/44576",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754515503,
+    "sourceUrl": "https://www.inaturalist.org/observations/410271742",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754515503/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754515503/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

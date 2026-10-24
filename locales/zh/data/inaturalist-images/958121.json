@@ -1,0 +1,31 @@
+{
+  "id": "inat-958121",
+  "name": "Lonsdalea quercina",
+  "scientificName": "Lonsdalea quercina",
+  "group": "현미경생물",
+  "inaturalistId": 958121,
+  "ancestors": [
+    48460,
+    67333,
+    83702,
+    126705,
+    126706,
+    958119,
+    958120,
+    958121
+  ],
+  "observationRecords": 12,
+  "dataUrl": "https://www.inaturalist.org/taxa/958121",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 714460435,
+    "sourceUrl": "https://www.inaturalist.org/observations/390008462",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/714460435/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/714460435/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

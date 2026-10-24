@@ -1,0 +1,41 @@
+{
+  "id": "inat-53875",
+  "name": "Ocypode quadrata",
+  "scientificName": "Ocypode quadrata",
+  "group": "갑각류",
+  "inaturalistId": 53875,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    706188,
+    51931,
+    51932,
+    447039,
+    53738,
+    53875
+  ],
+  "observationRecords": 344,
+  "dataUrl": "https://www.inaturalist.org/taxa/53875",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745196966,
+    "sourceUrl": "https://www.inaturalist.org/observations/405679506",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745196966/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745196966/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

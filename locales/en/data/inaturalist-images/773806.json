@@ -1,0 +1,31 @@
+{
+  "id": "inat-773806",
+  "name": "Phytoplasma asteris",
+  "scientificName": "Phytoplasma asteris",
+  "group": "현미경생물",
+  "inaturalistId": 773806,
+  "ancestors": [
+    48460,
+    67333,
+    151853,
+    151986,
+    152308,
+    356489,
+    479641,
+    773806
+  ],
+  "observationRecords": 34,
+  "dataUrl": "https://www.inaturalist.org/taxa/773806",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753539085,
+    "sourceUrl": "https://www.inaturalist.org/observations/409788483",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753539085/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753539085/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

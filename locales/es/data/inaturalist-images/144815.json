@@ -1,0 +1,32 @@
+{
+  "id": "inat-144815",
+  "name": "Poecile atricapillus",
+  "scientificName": "Poecile atricapillus",
+  "group": "조류",
+  "inaturalistId": 144815,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    13547,
+    144351,
+    144815
+  ],
+  "observationRecords": 7318,
+  "dataUrl": "https://www.inaturalist.org/taxa/144815",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754633791,
+    "sourceUrl": "https://www.inaturalist.org/observations/410330585",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754633791/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754633791/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

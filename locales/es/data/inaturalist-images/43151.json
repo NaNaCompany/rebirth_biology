@@ -1,0 +1,35 @@
+{
+  "id": "inat-43151",
+  "name": "굴토끼",
+  "scientificName": "Oryctolagus cuniculus",
+  "group": "포유류",
+  "inaturalistId": 43151,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848320,
+    848323,
+    43094,
+    43095,
+    43150,
+    43151
+  ],
+  "observationRecords": 1305,
+  "dataUrl": "https://www.inaturalist.org/taxa/43151",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754263505,
+    "sourceUrl": "https://www.inaturalist.org/observations/410148770",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754263505/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754263505/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

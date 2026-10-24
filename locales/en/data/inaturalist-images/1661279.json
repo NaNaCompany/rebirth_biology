@@ -1,0 +1,35 @@
+{
+  "id": "inat-1661279",
+  "name": "Pantherophis alleghaniensis",
+  "scientificName": "Pantherophis alleghaniensis",
+  "group": "파충류",
+  "inaturalistId": 1661279,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    26172,
+    85553,
+    26504,
+    797520,
+    59649,
+    857190,
+    1661279
+  ],
+  "observationRecords": 771,
+  "dataUrl": "https://www.inaturalist.org/taxa/1661279",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 750721981,
+    "sourceUrl": "https://www.inaturalist.org/observations/408404225",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750721981/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750721981/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

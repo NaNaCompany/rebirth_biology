@@ -1,0 +1,45 @@
+{
+  "basis": "carbon biomass, not individual population",
+  "publicationYear": 2018,
+  "sourceUrl": "https://doi.org/10.1073/pnas.1711842115",
+  "authors": "Yinon M. Bar-On, Rob Phillips, Ron Milo",
+  "unit": "Gt C",
+  "excluded": "Viruses",
+  "normalization": "Sum of six rounded cellular group estimates = 545 Gt C; paper total approx 550 Gt C",
+  "approvedForPopulationWeights": false,
+  "groups": [
+    {
+      "name": "식물",
+      "biomass": 450,
+      "normalizedPercent": 82.56880733944955
+    },
+    {
+      "name": "세균",
+      "biomass": 70,
+      "normalizedPercent": 12.844036697247708
+    },
+    {
+      "name": "균류",
+      "biomass": 12,
+      "normalizedPercent": 2.2018348623853212
+    },
+    {
+      "name": "고세균",
+      "biomass": 7,
+      "normalizedPercent": 1.2844036697247707
+    },
+    {
+      "name": "원생생물",
+      "biomass": 4,
+      "normalizedPercent": 0.7339449541284404
+    },
+    {
+      "name": "동물",
+      "biomass": 2,
+      "normalizedPercent": 0.3669724770642202
+    }
+  ],
+  "status": "superseded-rounded-draft",
+  "activeDataset": "biomass-categories.json",
+  "approvedForBiomassWeights": true
+}

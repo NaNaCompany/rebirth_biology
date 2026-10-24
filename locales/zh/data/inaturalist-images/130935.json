@@ -1,0 +1,32 @@
+{
+  "id": "inat-130935",
+  "name": "Rhytisma acerinum",
+  "scientificName": "Rhytisma acerinum",
+  "group": "균류",
+  "inaturalistId": 130935,
+  "ancestors": [
+    48460,
+    47170,
+    48250,
+    372740,
+    55523,
+    125771,
+    125772,
+    130943,
+    130935
+  ],
+  "observationRecords": 1406,
+  "dataUrl": "https://www.inaturalist.org/taxa/130935",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754559898,
+    "sourceUrl": "https://www.inaturalist.org/observations/410298878",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754559898/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754559898/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

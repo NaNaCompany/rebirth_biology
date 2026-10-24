@@ -1,0 +1,33 @@
+{
+  "id": "inat-52681",
+  "name": "고사리",
+  "scientificName": "Pteridium aquilinum",
+  "group": "식물",
+  "inaturalistId": 52681,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    121943,
+    764796,
+    47754,
+    1224539,
+    52682,
+    52683,
+    52681
+  ],
+  "observationRecords": 4074,
+  "dataUrl": "https://www.inaturalist.org/taxa/52681",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754761628,
+    "sourceUrl": "https://www.inaturalist.org/observations/410392052",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754761628/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754761628/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

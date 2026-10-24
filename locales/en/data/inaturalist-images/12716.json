@@ -1,0 +1,32 @@
+{
+  "id": "inat-12716",
+  "name": "유라시아대륙검은지빠귀",
+  "scientificName": "Turdus merula",
+  "group": "조류",
+  "inaturalistId": 12716,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    15977,
+    12705,
+    12716
+  ],
+  "observationRecords": 4428,
+  "dataUrl": "https://www.inaturalist.org/taxa/12716",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754663737,
+    "sourceUrl": "https://www.inaturalist.org/observations/410345728",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754663737/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754663737/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "inat-4956",
+  "name": "Ardea herodias",
+  "scientificName": "Ardea herodias",
+  "group": "조류",
+  "inaturalistId": 4956,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    67566,
+    4929,
+    597395,
+    4950,
+    4956
+  ],
+  "observationRecords": 8143,
+  "dataUrl": "https://www.inaturalist.org/taxa/4956",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754677765,
+    "sourceUrl": "https://www.inaturalist.org/observations/410352882",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754677765/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754677765/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

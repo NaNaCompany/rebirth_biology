@@ -1,0 +1,39 @@
+{
+  "id": "inat-130169",
+  "name": "Porcellio spinicornis",
+  "scientificName": "Porcellio spinicornis",
+  "group": "갑각류",
+  "inaturalistId": 130169,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144114,
+    48147,
+    84718,
+    343783,
+    343798,
+    122239,
+    122240,
+    1616669,
+    130169
+  ],
+  "observationRecords": 395,
+  "dataUrl": "https://www.inaturalist.org/taxa/130169",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754572476,
+    "sourceUrl": "https://www.inaturalist.org/observations/410299593",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754572476/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754572476/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

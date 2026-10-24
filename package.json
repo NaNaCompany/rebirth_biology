@@ -7,7 +7,7 @@
     "research": "node scripts/research.mjs",
     "build": "node scripts/build.mjs",
     "dev": "node scripts/serve.mjs",
-    "test": "node --test",
+    "test": "node --test tests/*.test.js",
     "assets:verify": "node scripts/verify-assets.mjs",
     "assets:gallery": "node scripts/asset-gallery.mjs"
   },

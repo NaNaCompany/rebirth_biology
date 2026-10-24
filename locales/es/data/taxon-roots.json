@@ -1,0 +1,162 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "scientific"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Crustacea"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25364"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Arachnida"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1358"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Euglenozoa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q499086"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Euglenozoa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25834462"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Rhodophyta"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103169"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Bacteria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10876"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Bacteria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4034791"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Ciliophora"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106345"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Ciliophora"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18608370"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Cnidaria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25441"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Cnidaria"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119788837"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Actinopterygii"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q127282"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Phaeophyceae"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184573"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Echinodermata"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44631"
+        }
+      },
+      {
+        "scientific": {
+          "type": "literal",
+          "value": "Tardigrada"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5194"
+        }
+      }
+    ]
+  }
+}

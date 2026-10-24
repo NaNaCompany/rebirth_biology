@@ -1,0 +1,37 @@
+{
+  "id": "inat-42888",
+  "name": "Macropus giganteus",
+  "scientificName": "Macropus giganteus",
+  "group": "포유류",
+  "inaturalistId": 42888,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    40151,
+    848317,
+    848319,
+    42711,
+    1539327,
+    42864,
+    846231,
+    1317293,
+    42865,
+    42888
+  ],
+  "observationRecords": 534,
+  "dataUrl": "https://www.inaturalist.org/taxa/42888",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752720672,
+    "sourceUrl": "https://www.inaturalist.org/observations/409388077",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752720672/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752720672/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

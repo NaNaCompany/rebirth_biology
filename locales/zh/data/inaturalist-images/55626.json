@@ -1,0 +1,37 @@
+{
+  "id": "inat-55626",
+  "name": "배추흰나비",
+  "scientificName": "Pieris rapae",
+  "group": "곤충",
+  "inaturalistId": 55626,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    48508,
+    209720,
+    321384,
+    475032,
+    55690,
+    55626
+  ],
+  "observationRecords": 6023,
+  "dataUrl": "https://www.inaturalist.org/taxa/55626",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754778036,
+    "sourceUrl": "https://www.inaturalist.org/observations/410399505",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754778036/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754778036/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

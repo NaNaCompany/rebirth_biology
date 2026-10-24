@@ -1,0 +1,39 @@
+{
+  "id": "inat-55617",
+  "name": "Arianta arbustorum",
+  "scientificName": "Arianta arbustorum",
+  "group": "연체동물",
+  "inaturalistId": 55617,
+  "ancestors": [
+    48460,
+    1,
+    47115,
+    47114,
+    551391,
+    775797,
+    775800,
+    775812,
+    47485,
+    781349,
+    781352,
+    68625,
+    47484,
+    906904,
+    55618,
+    55617
+  ],
+  "observationRecords": 504,
+  "dataUrl": "https://www.inaturalist.org/taxa/55617",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 749351153,
+    "sourceUrl": "https://www.inaturalist.org/observations/407737380",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749351153/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749351153/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

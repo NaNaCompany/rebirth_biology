@@ -1,0 +1,32 @@
+{
+  "id": "inat-199840",
+  "name": "멕시코양진이",
+  "scientificName": "Haemorhous mexicanus",
+  "group": "조류",
+  "inaturalistId": 199840,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    9079,
+    199910,
+    199840
+  ],
+  "observationRecords": 5550,
+  "dataUrl": "https://www.inaturalist.org/taxa/199840",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754774486,
+    "sourceUrl": "https://www.inaturalist.org/observations/410397945",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754774486/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754774486/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

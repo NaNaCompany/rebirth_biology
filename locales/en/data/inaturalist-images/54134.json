@@ -1,0 +1,33 @@
+{
+  "id": "inat-54134",
+  "name": "구름버섯",
+  "scientificName": "Trametes versicolor",
+  "group": "균류",
+  "inaturalistId": 54134,
+  "ancestors": [
+    48460,
+    47170,
+    47169,
+    492000,
+    50814,
+    47380,
+    47379,
+    47378,
+    1153556,
+    54134
+  ],
+  "observationRecords": 3011,
+  "dataUrl": "https://www.inaturalist.org/taxa/54134",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754320905,
+    "sourceUrl": "https://www.inaturalist.org/observations/410176528",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754320905/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754320905/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

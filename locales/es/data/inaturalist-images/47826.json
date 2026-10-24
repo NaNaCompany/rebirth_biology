@@ -1,0 +1,40 @@
+{
+  "id": "inat-47826",
+  "name": "Cancer productus",
+  "scientificName": "Cancer productus",
+  "group": "갑각류",
+  "inaturalistId": 47826,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    447514,
+    47829,
+    47828,
+    47827,
+    47826
+  ],
+  "observationRecords": 385,
+  "dataUrl": "https://www.inaturalist.org/taxa/47826",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 751608886,
+    "sourceUrl": "https://www.inaturalist.org/observations/408842937",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751608886/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751608886/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

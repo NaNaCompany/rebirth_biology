@@ -1,0 +1,32 @@
+{
+  "id": "inat-9083",
+  "name": "홍관조",
+  "scientificName": "Cardinalis cardinalis",
+  "group": "조류",
+  "inaturalistId": 9083,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    71305,
+    9080,
+    9083
+  ],
+  "observationRecords": 7201,
+  "dataUrl": "https://www.inaturalist.org/taxa/9083",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754762129,
+    "sourceUrl": "https://www.inaturalist.org/observations/410392736",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754762129/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754762129/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

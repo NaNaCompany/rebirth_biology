@@ -1,0 +1,32 @@
+{
+  "id": "inat-129756",
+  "name": "Pelvetia canaliculata",
+  "scientificName": "Pelvetia canaliculata",
+  "group": "해조류",
+  "inaturalistId": 129756,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    48218,
+    129757,
+    129756
+  ],
+  "observationRecords": 215,
+  "dataUrl": "https://www.inaturalist.org/taxa/129756",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754204856,
+    "sourceUrl": "https://www.inaturalist.org/observations/410117929",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754204856/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754204856/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

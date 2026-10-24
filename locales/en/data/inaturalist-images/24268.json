@@ -1,0 +1,32 @@
+{
+  "id": "inat-24268",
+  "name": "Pseudacris crucifer",
+  "scientificName": "Pseudacris crucifer",
+  "group": "양서류",
+  "inaturalistId": 24268,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    1658175,
+    24253,
+    24268
+  ],
+  "observationRecords": 736,
+  "dataUrl": "https://www.inaturalist.org/taxa/24268",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 752858449,
+    "sourceUrl": "https://www.inaturalist.org/observations/409457547",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752858449/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/752858449/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "inat-118669",
+  "name": "Diplodus sargus",
+  "scientificName": "Diplodus sargus",
+  "group": "어류",
+  "inaturalistId": 118669,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303726,
+    49238,
+    49983,
+    118669
+  ],
+  "observationRecords": 123,
+  "dataUrl": "https://www.inaturalist.org/taxa/118669",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 740803335,
+    "sourceUrl": "https://www.inaturalist.org/observations/403468865",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740803335/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740803335/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

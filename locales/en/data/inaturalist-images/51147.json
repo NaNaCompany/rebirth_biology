@@ -1,0 +1,38 @@
+{
+  "id": "inat-51147",
+  "name": "Crataegus monogyna",
+  "scientificName": "Crataegus monogyna",
+  "group": "식물",
+  "inaturalistId": 51147,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47132,
+    47148,
+    922110,
+    723302,
+    51148,
+    1437484,
+    1437522,
+    1577961,
+    1437600,
+    51147
+  ],
+  "observationRecords": 3817,
+  "dataUrl": "https://www.inaturalist.org/taxa/51147",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754549336,
+    "sourceUrl": "https://www.inaturalist.org/observations/410292340",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549336/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754549336/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

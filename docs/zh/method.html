@@ -1,0 +1,72 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>概率计算方法 · 来生研究所</title><style>body{max-width:1000px;margin:40px auto;padding:0 24px;background:#f7f5ed;color:#244536;font-family:Arial,'Malgun Gothic',sans-serif;line-height:1.8}a{color:#306b4e}h1{font-size:30px}p,li{font-size:13px}article{background:#fffef7;padding:22px;border:1px solid #d8e0cd;border-radius:12px;margin:18px 0;overflow:hidden}article img{width:120px;height:120px;object-fit:cover;float:left;margin:0 22px 12px 0}article p{overflow-wrap:anywhere}h2{font-size:19px}</style>
+<!-- NaNa publisher: AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9767176956440077"
+        crossorigin="anonymous"></script>
+<!-- /NaNa publisher: AdSense -->
+<!-- NaNa publisher: GTM -->
+<script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+            (window, document, 'script', 'dataLayer', 'GTM-NV2WWQXB');
+    </script>
+<!-- /NaNa publisher: GTM -->
+<!-- NaNa publisher: Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZYSF0173P"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-2ZYSF0173P');
+    </script>
+<!-- /NaNa publisher: Analytics -->
+<style>.language-links{display:flex;justify-content:flex-end;align-items:center;gap:12px;flex-wrap:wrap;font-size:11px;color:#75836b;padding:14px 0}.language-links a[aria-current]{font-weight:700;text-decoration:underline;text-underline-offset:4px}.language-suggestion{border:1px solid #dbe1d1;background:#f9faf4;padding:12px 15px;border-radius:6px;font-size:11px;line-height:1.8;color:#627457;margin:5px 0 15px}.language-suggestion a{text-decoration:underline;margin-left:10px}.language-suggestion small{display:block;color:#8b9581;font-size:9px}</style><link rel="alternate" hreflang="ko" href="https://nanalab.kr/rebirth_biology/ko/"><link rel="alternate" hreflang="en" href="https://nanalab.kr/rebirth_biology/en/"><link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/rebirth_biology/zh/"><link rel="alternate" hreflang="es" href="https://nanalab.kr/rebirth_biology/es/"></head><body><nav class="language-links" aria-label="Language"><a data-language="ko" href="https://nanalab.kr/rebirth_biology/ko/" >한국어</a><span>·</span><a data-language="en" href="https://nanalab.kr/rebirth_biology/en/" >English</a><span>·</span><a data-language="zh" href="https://nanalab.kr/rebirth_biology/zh/" aria-current="page">简体中文</a><span>·</span><a data-language="es" href="https://nanalab.kr/rebirth_biology/es/" >Español</a></nav><div id="language-suggestion" class="language-suggestion" hidden></div>
+<!-- NaNa publisher: GTM fallback -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV2WWQXB" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+<!-- /NaNa publisher: GTM fallback -->
+<a href="https://nanalab.kr/rebirth_biology/zh/">← 到主要</a><h1>概率计算方法</h1><pre style="white-space:pre-wrap;font:inherit;font-size:13px"># 碳生物量抽签方法
+
+这是按估计碳生物量加权的游戏，并非按个体数量或真实出生概率抽签。共有 72 个互不重叠的结果类别，植物保留为一个类群，排除病毒。
+
+父类群采用作者未取整的 2018 年碳生物量估计：总计 549.0807681063422 Gt C，人类为 0.05537256615 Gt C。人类概率约 0.0100846%，约为 1/9,916。小数位用于复现计算，不代表生态学估计具有同等精度。
+
+野生陆地哺乳动物细分为 40 个物种与其余物种类群，保留 2018 年父类群权重，内部采用 2023 年物种湿重相对比例。这是混合近似模型，假设此细分中的碳与湿重转换比相同。海洋原生生物与磷虾细分同样保留父类群权重。研究不确定性与调查覆盖差异依然存在。
+
+类群图片仅为代表示例，照片中的物种不拥有整个类群概率。共使用 50 张 CC0/公有领域图片、20 张 CC BY 图片及 2 张 AI 概念插画。结果页与分享图保留作者、许可链接及裁剪声明。
+
+来源：
+- Bar-On, Phillips &amp; Milo (2018): https://doi.org/10.1073/pnas.1711842115
+- 作者数据与 MIT 许可：https://github.com/milo-lab/biomass_distribution
+- Greenspoon et al. (2023): https://doi.org/10.1073/pnas.2204892120
+- 哺乳动物作者数据：https://zenodo.org/records/7594807
+
+权重与韩语版本完全一致。排除当前结果后，剩余权重重新归一化；卡片与 OG 仍显示排除前全部类别的基础概率。
+</pre>
+<!-- NaNa publisher: Cloudflare fallback -->
+<script>
+(function () {
+  function ensureBeacon() {
+    // Cloudflare may inject its beacon at the edge. Reuse that script when present.
+    if (document.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]')) return;
+    var beacon = document.createElement('script');
+    beacon.defer = true;
+    beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+    beacon.setAttribute('data-cf-beacon', JSON.stringify({token: '9f3423bb0d034d91bbe1a12afeff2429'}));
+    document.head.appendChild(beacon);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', ensureBeacon, {once: true});
+  else ensureBeacon();
+})();
+</script>
+<!-- /NaNa publisher: Cloudflare fallback -->
+<script type="module" src="https://nanalab.kr/rebirth_biology/language-widget.2a3a0f9bd4a7.js" data-game="rebirth_biology" data-language="zh" data-base="https://nanalab.kr/rebirth_biology/"></script></body></html>

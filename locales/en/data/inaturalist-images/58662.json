@@ -1,0 +1,35 @@
+{
+  "id": "inat-58662",
+  "name": "Semotilus atromaculatus",
+  "scientificName": "Semotilus atromaculatus",
+  "group": "어류",
+  "inaturalistId": 58662,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1543570,
+    49216,
+    1303592,
+    1303618,
+    1303668,
+    58667,
+    58662
+  ],
+  "observationRecords": 278,
+  "dataUrl": "https://www.inaturalist.org/taxa/58662",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 730294034,
+    "sourceUrl": "https://www.inaturalist.org/observations/398126295",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/730294034/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/730294034/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

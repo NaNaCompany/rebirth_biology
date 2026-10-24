@@ -1,0 +1,35 @@
+{
+  "id": "inat-50972",
+  "name": "Thalassoma pavo",
+  "scientificName": "Thalassoma pavo",
+  "group": "어류",
+  "inaturalistId": 50972,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1555654,
+    1303565,
+    49284,
+    1624586,
+    49494,
+    50972
+  ],
+  "observationRecords": 124,
+  "dataUrl": "https://www.inaturalist.org/taxa/50972",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 740801785,
+    "sourceUrl": "https://www.inaturalist.org/observations/403468201",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740801785/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740801785/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

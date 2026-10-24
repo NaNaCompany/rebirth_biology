@@ -1,0 +1,32 @@
+{
+  "id": "inat-8021",
+  "name": "미국까마귀",
+  "scientificName": "Corvus brachyrhynchos",
+  "group": "조류",
+  "inaturalistId": 8021,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    7823,
+    7998,
+    8021
+  ],
+  "observationRecords": 4054,
+  "dataUrl": "https://www.inaturalist.org/taxa/8021",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754809921,
+    "sourceUrl": "https://www.inaturalist.org/observations/410414812",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754809921/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754809921/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

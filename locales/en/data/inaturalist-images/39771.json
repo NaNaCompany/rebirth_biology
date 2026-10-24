@@ -1,0 +1,33 @@
+{
+  "id": "inat-39771",
+  "name": "비단거북",
+  "scientificName": "Chrysemys picta",
+  "group": "파충류",
+  "inaturalistId": 39771,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    26036,
+    39532,
+    39760,
+    797544,
+    39770,
+    39771
+  ],
+  "observationRecords": 1591,
+  "dataUrl": "https://www.inaturalist.org/taxa/39771",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754728365,
+    "sourceUrl": "https://www.inaturalist.org/observations/410376763",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754728365/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754728365/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

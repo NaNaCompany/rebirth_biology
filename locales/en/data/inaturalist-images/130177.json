@@ -1,0 +1,32 @@
+{
+  "id": "inat-130177",
+  "name": "경단구슬모자반",
+  "scientificName": "Sargassum muticum",
+  "group": "해조류",
+  "inaturalistId": 130177,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    126125,
+    130178,
+    130177
+  ],
+  "observationRecords": 439,
+  "dataUrl": "https://www.inaturalist.org/taxa/130177",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 748865745,
+    "sourceUrl": "https://www.inaturalist.org/observations/407524141",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748865745/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748865745/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

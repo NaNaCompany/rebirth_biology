@@ -1,0 +1,33 @@
+{
+  "id": "inat-27186",
+  "name": "Plethodon cinereus",
+  "scientificName": "Plethodon cinereus",
+  "group": "양서류",
+  "inaturalistId": 27186,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    26718,
+    26909,
+    787551,
+    27135,
+    27186
+  ],
+  "observationRecords": 1331,
+  "dataUrl": "https://www.inaturalist.org/taxa/27186",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753574713,
+    "sourceUrl": "https://www.inaturalist.org/observations/409805839",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753574713/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753574713/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

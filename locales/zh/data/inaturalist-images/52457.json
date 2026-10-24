@@ -1,0 +1,34 @@
+{
+  "id": "inat-52457",
+  "name": "가시나비고기",
+  "scientificName": "Chaetodon auriga",
+  "group": "어류",
+  "inaturalistId": 52457,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303726,
+    47318,
+    1544594,
+    47317,
+    52457
+  ],
+  "observationRecords": 132,
+  "dataUrl": "https://www.inaturalist.org/taxa/52457",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 728816481,
+    "sourceUrl": "https://www.inaturalist.org/observations/397371484",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/728816481/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/728816481/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

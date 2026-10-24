@@ -1,0 +1,33 @@
+{
+  "id": "inat-27818",
+  "name": "캘리포니아상어피부영원",
+  "scientificName": "Taricha torosa",
+  "group": "양서류",
+  "inaturalistId": 27818,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    26718,
+    27701,
+    787591,
+    27816,
+    27818
+  ],
+  "observationRecords": 787,
+  "dataUrl": "https://www.inaturalist.org/taxa/27818",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 676227395,
+    "sourceUrl": "https://www.inaturalist.org/observations/370170822",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/676227395/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/676227395/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

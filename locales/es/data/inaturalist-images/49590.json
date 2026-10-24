@@ -1,0 +1,36 @@
+{
+  "id": "inat-49590",
+  "name": "Micropterus dolomieu",
+  "scientificName": "Micropterus dolomieu",
+  "group": "어류",
+  "inaturalistId": 49590,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303731,
+    1303755,
+    49588,
+    1303639,
+    49589,
+    1632937,
+    49590
+  ],
+  "observationRecords": 237,
+  "dataUrl": "https://www.inaturalist.org/taxa/49590",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753867711,
+    "sourceUrl": "https://www.inaturalist.org/observations/409956015",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753867711/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753867711/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "inat-63697",
+  "name": "Metacarcinus magister",
+  "scientificName": "Metacarcinus magister",
+  "group": "갑각류",
+  "inaturalistId": 63697,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    447514,
+    47829,
+    47828,
+    116719,
+    63697
+  ],
+  "observationRecords": 387,
+  "dataUrl": "https://www.inaturalist.org/taxa/63697",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 748181551,
+    "sourceUrl": "https://www.inaturalist.org/observations/407163015",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748181551/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748181551/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

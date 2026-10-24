@@ -1,0 +1,36 @@
+{
+  "id": "inat-105822",
+  "name": "Micropterus treculii",
+  "scientificName": "Micropterus treculii",
+  "group": "어류",
+  "inaturalistId": 105822,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    1303731,
+    1303755,
+    49588,
+    1303639,
+    49589,
+    1627796,
+    105822
+  ],
+  "observationRecords": 181,
+  "dataUrl": "https://www.inaturalist.org/taxa/105822",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 691476467,
+    "sourceUrl": "https://www.inaturalist.org/observations/378095808",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691476467/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691476467/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

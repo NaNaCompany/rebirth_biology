@@ -1,0 +1,33 @@
+{
+  "id": "inat-48711",
+  "name": "Lobaria pulmonaria",
+  "scientificName": "Lobaria pulmonaria",
+  "group": "균류",
+  "inaturalistId": 48711,
+  "ancestors": [
+    48460,
+    47170,
+    48250,
+    372740,
+    54743,
+    952186,
+    48712,
+    48713,
+    48714,
+    48711
+  ],
+  "observationRecords": 1122,
+  "dataUrl": "https://www.inaturalist.org/taxa/48711",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753623908,
+    "sourceUrl": "https://www.inaturalist.org/observations/409832544",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753623908/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753623908/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

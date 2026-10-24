@@ -1,0 +1,37 @@
+{
+  "id": "inat-59675",
+  "name": "Pyrrharctia isabella",
+  "scientificName": "Pyrrharctia isabella",
+  "group": "곤충",
+  "inaturalistId": 59675,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47607,
+    121850,
+    47606,
+    82089,
+    123834,
+    59676,
+    59675
+  ],
+  "observationRecords": 1883,
+  "dataUrl": "https://www.inaturalist.org/taxa/59675",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754681093,
+    "sourceUrl": "https://www.inaturalist.org/observations/410354395",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754681093/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754681093/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

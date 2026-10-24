@@ -1,0 +1,35 @@
+{
+  "id": "inat-55971",
+  "name": "Tanacetum vulgare",
+  "scientificName": "Tanacetum vulgare",
+  "group": "식물",
+  "inaturalistId": 55971,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    47605,
+    47604,
+    632790,
+    373844,
+    900982,
+    54521,
+    55971
+  ],
+  "observationRecords": 3318,
+  "dataUrl": "https://www.inaturalist.org/taxa/55971",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754175786,
+    "sourceUrl": "https://www.inaturalist.org/observations/410103655",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754175786/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754175786/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

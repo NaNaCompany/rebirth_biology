@@ -1,0 +1,32 @@
+{
+  "id": "inat-906",
+  "name": "들칠면조",
+  "scientificName": "Meleagris gallopavo",
+  "group": "조류",
+  "inaturalistId": 906,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    573,
+    574,
+    905,
+    906
+  ],
+  "observationRecords": 3766,
+  "dataUrl": "https://www.inaturalist.org/taxa/906",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753923733,
+    "sourceUrl": "https://www.inaturalist.org/observations/409979091",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753923733/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753923733/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

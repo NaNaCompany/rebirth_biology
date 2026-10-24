@@ -1,0 +1,31 @@
+{
+  "id": "inat-337405",
+  "name": "Pseudomonas syringae",
+  "scientificName": "Pseudomonas syringae",
+  "group": "현미경생물",
+  "inaturalistId": 337405,
+  "ancestors": [
+    48460,
+    67333,
+    83702,
+    126705,
+    152369,
+    337406,
+    337407,
+    337405
+  ],
+  "observationRecords": 74,
+  "dataUrl": "https://www.inaturalist.org/taxa/337405",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 742391624,
+    "sourceUrl": "https://www.inaturalist.org/observations/404277162",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/742391624/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/742391624/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

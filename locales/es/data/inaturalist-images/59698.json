@@ -1,0 +1,33 @@
+{
+  "id": "inat-59698",
+  "name": "Velella velella",
+  "scientificName": "Velella velella",
+  "group": "기타동물",
+  "inaturalistId": 59698,
+  "ancestors": [
+    48460,
+    1,
+    47534,
+    48921,
+    551473,
+    48922,
+    813988,
+    59692,
+    59699,
+    59698
+  ],
+  "observationRecords": 330,
+  "dataUrl": "https://www.inaturalist.org/taxa/59698",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 740572529,
+    "sourceUrl": "https://www.inaturalist.org/observations/403355497",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740572529/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/740572529/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

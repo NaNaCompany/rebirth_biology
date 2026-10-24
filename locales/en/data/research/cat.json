@@ -1,0 +1,16 @@
+{
+  "id": "cat",
+  "name": "고양이",
+  "scientificName": "Felis catus",
+  "requestedScientificName": "Felis catus",
+  "group": "포유류",
+  "motto": "낮잠도 경력입니다",
+  "address": "지구특별시 햇볕드는창가 1번지",
+  "badge": "집사 채용 중",
+  "wikidataId": "Q20980826",
+  "dataUrl": "https://www.wikidata.org/wiki/Q20980826",
+  "dataLicense": "CC0-1.0",
+  "preferredImage": "Cat November 2010-1a.jpg",
+  "images": [],
+  "reviewStatus": "pending"
+}

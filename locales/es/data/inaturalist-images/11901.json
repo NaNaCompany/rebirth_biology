@@ -1,0 +1,32 @@
+{
+  "id": "inat-11901",
+  "name": "제비",
+  "scientificName": "Hirundo rustica",
+  "group": "조류",
+  "inaturalistId": 11901,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    11853,
+    11880,
+    11901
+  ],
+  "observationRecords": 3233,
+  "dataUrl": "https://www.inaturalist.org/taxa/11901",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754190448,
+    "sourceUrl": "https://www.inaturalist.org/observations/410110988",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754190448/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754190448/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

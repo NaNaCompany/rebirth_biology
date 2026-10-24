@@ -1,0 +1,33 @@
+{
+  "id": "inat-53856",
+  "name": "서양호랑가시나무",
+  "scientificName": "Ilex aquifolium",
+  "group": "식물",
+  "inaturalistId": 53856,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    47125,
+    47124,
+    71272,
+    53855,
+    53854,
+    1674205,
+    53856
+  ],
+  "observationRecords": 4592,
+  "dataUrl": "https://www.inaturalist.org/taxa/53856",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754074585,
+    "sourceUrl": "https://www.inaturalist.org/observations/410059820",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754074585/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754074585/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

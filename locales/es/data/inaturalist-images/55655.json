@@ -1,0 +1,37 @@
+{
+  "id": "inat-55655",
+  "name": "작은주홍부전나비",
+  "scientificName": "Lycaena phlaeas",
+  "group": "곤충",
+  "inaturalistId": 55655,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47923,
+    125835,
+    125818,
+    54010,
+    1360268,
+    55655
+  ],
+  "observationRecords": 2245,
+  "dataUrl": "https://www.inaturalist.org/taxa/55655",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754477896,
+    "sourceUrl": "https://www.inaturalist.org/observations/410251542",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754477896/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754477896/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

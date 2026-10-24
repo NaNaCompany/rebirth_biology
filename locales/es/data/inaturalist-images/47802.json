@@ -1,0 +1,37 @@
+{
+  "id": "inat-47802",
+  "name": "매미나방",
+  "scientificName": "Lymantria dispar",
+  "group": "곤충",
+  "inaturalistId": 47802,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47607,
+    121850,
+    48847,
+    82039,
+    48848,
+    1552378,
+    47802
+  ],
+  "observationRecords": 1860,
+  "dataUrl": "https://www.inaturalist.org/taxa/47802",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 744821208,
+    "sourceUrl": "https://www.inaturalist.org/observations/405555366",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/744821208/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/744821208/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

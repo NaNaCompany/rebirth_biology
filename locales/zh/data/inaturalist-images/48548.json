@@ -1,0 +1,36 @@
+{
+  "id": "inat-48548",
+  "name": "작은멋쟁이나비",
+  "scientificName": "Vanessa cardui",
+  "group": "곤충",
+  "inaturalistId": 48548,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    372739,
+    47158,
+    184884,
+    47157,
+    47224,
+    47922,
+    202067,
+    202066,
+    48507,
+    48548
+  ],
+  "observationRecords": 4749,
+  "dataUrl": "https://www.inaturalist.org/taxa/48548",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754778122,
+    "sourceUrl": "https://www.inaturalist.org/observations/410399517",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754778122/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754778122/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

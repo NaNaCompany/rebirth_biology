@@ -1,0 +1,31 @@
+{
+  "id": "inat-955853",
+  "name": "Protea witches broom phytoplasma",
+  "scientificName": "Protea witches broom phytoplasma",
+  "group": "현미경생물",
+  "inaturalistId": 955853,
+  "ancestors": [
+    48460,
+    67333,
+    151853,
+    151986,
+    152308,
+    356489,
+    479641,
+    955853
+  ],
+  "observationRecords": 14,
+  "dataUrl": "https://www.inaturalist.org/taxa/955853",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 718944700,
+    "sourceUrl": "https://www.inaturalist.org/observations/392316065",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/718944700/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/718944700/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

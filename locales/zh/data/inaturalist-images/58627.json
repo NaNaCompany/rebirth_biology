@@ -1,0 +1,35 @@
+{
+  "id": "inat-58627",
+  "name": "Perca flavescens",
+  "scientificName": "Perca flavescens",
+  "group": "어류",
+  "inaturalistId": 58627,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    47233,
+    1303566,
+    48158,
+    788529,
+    58629,
+    58627
+  ],
+  "observationRecords": 147,
+  "dataUrl": "https://www.inaturalist.org/taxa/58627",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753580345,
+    "sourceUrl": "https://www.inaturalist.org/observations/409209812",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753580345/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753580345/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

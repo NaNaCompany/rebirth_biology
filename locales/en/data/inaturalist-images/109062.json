@@ -1,0 +1,35 @@
+{
+  "id": "inat-109062",
+  "name": "Perca fluviatilis",
+  "scientificName": "Perca fluviatilis",
+  "group": "어류",
+  "inaturalistId": 109062,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    47178,
+    1632273,
+    47233,
+    1303566,
+    48158,
+    788529,
+    58629,
+    109062
+  ],
+  "observationRecords": 151,
+  "dataUrl": "https://www.inaturalist.org/taxa/109062",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 746477216,
+    "sourceUrl": "https://www.inaturalist.org/observations/406308666",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746477216/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/746477216/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "inat-8229",
+  "name": "파랑어치",
+  "scientificName": "Cyanocitta cristata",
+  "group": "조류",
+  "inaturalistId": 8229,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    3,
+    7251,
+    7823,
+    8228,
+    8229
+  ],
+  "observationRecords": 3591,
+  "dataUrl": "https://www.inaturalist.org/taxa/8229",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 754230315,
+    "sourceUrl": "https://www.inaturalist.org/observations/410132097",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754230315/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/754230315/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

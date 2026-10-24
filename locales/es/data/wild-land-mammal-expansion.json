@@ -1,0 +1,343 @@
+{
+  "status": "explicit-hybrid-model-draft",
+  "parentCategory": "bio-22",
+  "parentName": "Wild land mammals",
+  "parentBudgetSourceYear": 2018,
+  "relativeCompositionSourceYear": 2023,
+  "sourceUrl": "https://doi.org/10.1073/pnas.2204892120",
+  "dataUrl": "https://zenodo.org/records/7594807",
+  "method": "Preserve 2018 wild-land-mammal carbon budget; apply 2023 estimated wet-mass species fractions as an approximation to carbon fractions. Assumes equal mean carbon fractions across species. Not directly measured species carbon biomass.",
+  "totalLandSpecies": 4795,
+  "children": [
+    {
+      "id": "land-mammal-1",
+      "name": "Odocoileus virginianus",
+      "rank": "species",
+      "conditionalProbability": 0.11950937767013889,
+      "estimatedWetMassMt": 2.68121165625,
+      "globalGameProbability": 6.291593250187208e-07
+    },
+    {
+      "id": "land-mammal-2",
+      "name": "Sus scrofa",
+      "rank": "species",
+      "conditionalProbability": 0.08681849347094525,
+      "estimatedWetMassMt": 1.9477865353366826,
+      "globalGameProbability": 4.5705756164246495e-07
+    },
+    {
+      "id": "land-mammal-3",
+      "name": "Loxodonta africana",
+      "rank": "species",
+      "conditionalProbability": 0.059105912415949244,
+      "estimatedWetMassMt": 1.3260504272756501,
+      "globalGameProbability": 3.111641670737774e-07
+    },
+    {
+      "id": "land-mammal-4",
+      "name": "Macropus giganteus",
+      "rank": "species",
+      "conditionalProbability": 0.025718063803637115,
+      "estimatedWetMassMt": 0.5769888003,
+      "globalGameProbability": 1.3539322167793124e-07
+    },
+    {
+      "id": "land-mammal-5",
+      "name": "Odocoileus hemionus",
+      "rank": "species",
+      "conditionalProbability": 0.02219063387434818,
+      "estimatedWetMassMt": 0.4978503558750001,
+      "globalGameProbability": 1.1682300169496176e-07
+    },
+    {
+      "id": "land-mammal-6",
+      "name": "Alces alces",
+      "rank": "species",
+      "conditionalProbability": 0.0218184063450889,
+      "estimatedWetMassMt": 0.48949937280000005,
+      "globalGameProbability": 1.1486340299544758e-07
+    },
+    {
+      "id": "land-mammal-7",
+      "name": "Cervus elaphus",
+      "rank": "species",
+      "conditionalProbability": 0.02052608677567385,
+      "estimatedWetMassMt": 0.46050598030925005,
+      "globalGameProbability": 1.0805996276462446e-07
+    },
+    {
+      "id": "land-mammal-8",
+      "name": "Capreolus capreolus",
+      "rank": "species",
+      "conditionalProbability": 0.017715131249006057,
+      "estimatedWetMassMt": 0.39744175162500006,
+      "globalGameProbability": 9.32616355011578e-08
+    },
+    {
+      "id": "land-mammal-9",
+      "name": "Macropus rufus",
+      "rank": "species",
+      "conditionalProbability": 0.01636191951237435,
+      "estimatedWetMassMt": 0.3670822338,
+      "globalGameProbability": 8.613762733188634e-08
+    },
+    {
+      "id": "land-mammal-10",
+      "name": "Phacochoerus africanus",
+      "rank": "species",
+      "conditionalProbability": 0.013904688335291796,
+      "estimatedWetMassMt": 0.3119538664489512,
+      "globalGameProbability": 7.320148843695087e-08
+    },
+    {
+      "id": "land-mammal-11",
+      "name": "Loxodonta cyclotis",
+      "rank": "species",
+      "conditionalProbability": 0.013381960706240837,
+      "estimatedWetMassMt": 0.30022639000000007,
+      "globalGameProbability": 7.044957918368637e-08
+    },
+    {
+      "id": "land-mammal-12",
+      "name": "Hydrochoerus hydrochaeris",
+      "rank": "species",
+      "conditionalProbability": 0.012453642662852224,
+      "estimatedWetMassMt": 0.2793994289098775,
+      "globalGameProbability": 6.55624317064971e-08
+    },
+    {
+      "id": "land-mammal-13",
+      "name": "Syncerus caffer",
+      "rank": "species",
+      "conditionalProbability": 0.011840870247477188,
+      "estimatedWetMassMt": 0.26565178353876007,
+      "globalGameProbability": 6.23364800133039e-08
+    },
+    {
+      "id": "land-mammal-14",
+      "name": "Rangifer tarandus",
+      "rank": "species",
+      "conditionalProbability": 0.011032627726841302,
+      "estimatedWetMassMt": 0.247518735658725,
+      "globalGameProbability": 5.80814723423723e-08
+    },
+    {
+      "id": "land-mammal-15",
+      "name": "Cervus canadensis",
+      "rank": "species",
+      "conditionalProbability": 0.010956236012472184,
+      "estimatedWetMassMt": 0.24580487555000002,
+      "globalGameProbability": 5.7679306751801187e-08
+    },
+    {
+      "id": "land-mammal-16",
+      "name": "Connochaetes taurinus",
+      "rank": "species",
+      "conditionalProbability": 0.010771955796964557,
+      "estimatedWetMassMt": 0.24167051997500005,
+      "globalGameProbability": 5.6709160155246256e-08
+    },
+    {
+      "id": "land-mammal-17",
+      "name": "Orycteropus afer",
+      "rank": "species",
+      "conditionalProbability": 0.010587756945207747,
+      "estimatedWetMassMt": 0.23753798980852744,
+      "globalGameProbability": 5.573944189965957e-08
+    },
+    {
+      "id": "land-mammal-18",
+      "name": "Eidolon helvum",
+      "rank": "species",
+      "conditionalProbability": 0.010188743602046146,
+      "estimatedWetMassMt": 0.22858606279207971,
+      "globalGameProbability": 5.363882878836108e-08
+    },
+    {
+      "id": "land-mammal-19",
+      "name": "Procyon lotor",
+      "rank": "species",
+      "conditionalProbability": 0.008920588681784615,
+      "estimatedWetMassMt": 0.200134808,
+      "globalGameProbability": 4.696260379911261e-08
+    },
+    {
+      "id": "land-mammal-20",
+      "name": "Hylochoerus meinertzhageni",
+      "rank": "species",
+      "conditionalProbability": 0.00891235683632848,
+      "estimatedWetMassMt": 0.1999501252544304,
+      "globalGameProbability": 4.6919267096739885e-08
+    },
+    {
+      "id": "land-mammal-21",
+      "name": "Lama guanicoe",
+      "rank": "species",
+      "conditionalProbability": 0.007627438384542991,
+      "estimatedWetMassMt": 0.17112277800000003,
+      "globalGameProbability": 4.0154790186310347e-08
+    },
+    {
+      "id": "land-mammal-22",
+      "name": "Equus quagga",
+      "rank": "species",
+      "conditionalProbability": 0.006997945220204697,
+      "estimatedWetMassMt": 0.157,
+      "globalGameProbability": 3.684081180151671e-08
+    },
+    {
+      "id": "land-mammal-23",
+      "name": "Hippopotamus amphibius",
+      "rank": "species",
+      "conditionalProbability": 0.006572631932812824,
+      "estimatedWetMassMt": 0.1474580296045,
+      "globalGameProbability": 3.460174214829213e-08
+    },
+    {
+      "id": "land-mammal-24",
+      "name": "Potamochoerus porcus",
+      "rank": "species",
+      "conditionalProbability": 0.006407184661419207,
+      "estimatedWetMassMt": 0.14374619408829714,
+      "globalGameProbability": 3.373074193370222e-08
+    },
+    {
+      "id": "land-mammal-25",
+      "name": "Aepyceros melampus",
+      "rank": "species",
+      "conditionalProbability": 0.005520506484869807,
+      "estimatedWetMassMt": 0.12385342995000001,
+      "globalGameProbability": 2.9062808304205625e-08
+    },
+    {
+      "id": "land-mammal-26",
+      "name": "Elephas maximus",
+      "rank": "species",
+      "conditionalProbability": 0.005326613029053431,
+      "estimatedWetMassMt": 0.1195033998189724,
+      "globalGameProbability": 2.8042052626574316e-08
+    },
+    {
+      "id": "land-mammal-27",
+      "name": "Redunca redunca",
+      "rank": "species",
+      "conditionalProbability": 0.004778529464515013,
+      "estimatedWetMassMt": 0.10720705897536481,
+      "globalGameProbability": 2.5156656582837688e-08
+    },
+    {
+      "id": "land-mammal-28",
+      "name": "Macropus fuliginosus",
+      "rank": "species",
+      "conditionalProbability": 0.004472509254274176,
+      "estimatedWetMassMt": 0.10034144750000001,
+      "globalGameProbability": 2.3545607536555858e-08
+    },
+    {
+      "id": "land-mammal-29",
+      "name": "Pecari tajacu",
+      "rank": "species",
+      "conditionalProbability": 0.00433319315628987,
+      "estimatedWetMassMt": 0.09721586896297679,
+      "globalGameProbability": 2.281217536678941e-08
+    },
+    {
+      "id": "land-mammal-30",
+      "name": "Dama dama",
+      "rank": "species",
+      "conditionalProbability": 0.0042631278077793835,
+      "estimatedWetMassMt": 0.09564394186580746,
+      "globalGameProbability": 2.2443315046072725e-08
+    },
+    {
+      "id": "land-mammal-31",
+      "name": "Castor canadensis",
+      "rank": "species",
+      "conditionalProbability": 0.00417054880162052,
+      "estimatedWetMassMt": 0.09356691732366387,
+      "globalGameProbability": 2.1955931159039326e-08
+    },
+    {
+      "id": "land-mammal-32",
+      "name": "Macropus robustus",
+      "rank": "species",
+      "conditionalProbability": 0.0040904788284018044,
+      "estimatedWetMassMt": 0.0917705349,
+      "globalGameProbability": 2.1534401306849816e-08
+    },
+    {
+      "id": "land-mammal-33",
+      "name": "Mazama americana",
+      "rank": "species",
+      "conditionalProbability": 0.004075849415321689,
+      "estimatedWetMassMt": 0.09144232172008733,
+      "globalGameProbability": 2.1457384491614526e-08
+    },
+    {
+      "id": "land-mammal-34",
+      "name": "Potamochoerus larvatus",
+      "rank": "species",
+      "conditionalProbability": 0.003950184725310976,
+      "estimatedWetMassMt": 0.08862301466482221,
+      "globalGameProbability": 2.0795820411145033e-08
+    },
+    {
+      "id": "land-mammal-35",
+      "name": "Papio anubis",
+      "rank": "species",
+      "conditionalProbability": 0.003821234559869467,
+      "estimatedWetMassMt": 0.08572999745230325,
+      "globalGameProbability": 2.011695988461663e-08
+    },
+    {
+      "id": "land-mammal-36",
+      "name": "Hystrix cristata",
+      "rank": "species",
+      "conditionalProbability": 0.003480248851176698,
+      "estimatedWetMassMt": 0.07807992952805066,
+      "globalGameProbability": 1.832183432623313e-08
+    },
+    {
+      "id": "land-mammal-37",
+      "name": "Tragelaphus strepsiceros",
+      "rank": "species",
+      "conditionalProbability": 0.0034751510727289345,
+      "estimatedWetMassMt": 0.077965560068,
+      "globalGameProbability": 1.8294996977484294e-08
+    },
+    {
+      "id": "land-mammal-38",
+      "name": "Ursus americanus",
+      "rank": "species",
+      "conditionalProbability": 0.0034743540137662987,
+      "estimatedWetMassMt": 0.077947677925,
+      "globalGameProbability": 1.8290800845860912e-08
+    },
+    {
+      "id": "land-mammal-39",
+      "name": "Macropus antilopinus",
+      "rank": "species",
+      "conditionalProbability": 0.0033684922261235646,
+      "estimatedWetMassMt": 0.07557265209428578,
+      "globalGameProbability": 1.7733489510490956e-08
+    },
+    {
+      "id": "land-mammal-40",
+      "name": "Chironectes minimus",
+      "rank": "species",
+      "conditionalProbability": 0.0033577739457223074,
+      "estimatedWetMassMt": 0.07533218579024288,
+      "globalGameProbability": 1.7677062925447317e-08
+    },
+    {
+      "id": "land-mammal-other",
+      "name": "Other wild land mammals",
+      "rank": "remainder",
+      "conditionalProbability": 0.39372055149352747,
+      "includedSpecies": 4755,
+      "globalGameProbability": 2.072749111851168e-06
+    }
+  ],
+  "resultingLeafCount": 66,
+  "uncertaintyNote": "Includes model inference. Raw confidence bounds are not adopted."
+}

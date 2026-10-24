@@ -1,0 +1,33 @@
+{
+  "id": "inat-66479",
+  "name": "Platyplectrum ornatum",
+  "scientificName": "Platyplectrum ornatum",
+  "group": "양서류",
+  "inaturalistId": 66479,
+  "ancestors": [
+    48460,
+    1,
+    2,
+    355675,
+    20978,
+    20979,
+    787531,
+    22026,
+    64809,
+    66479
+  ],
+  "observationRecords": 609,
+  "dataUrl": "https://www.inaturalist.org/taxa/66479",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 750619928,
+    "sourceUrl": "https://www.inaturalist.org/observations/408355314",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750619928/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750619928/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

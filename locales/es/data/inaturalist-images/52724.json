@@ -1,0 +1,33 @@
+{
+  "id": "inat-52724",
+  "name": "쇠뜨기",
+  "scientificName": "Equisetum arvense",
+  "group": "식물",
+  "inaturalistId": 52724,
+  "ancestors": [
+    48460,
+    47126,
+    211194,
+    121943,
+    764793,
+    47748,
+    47747,
+    47746,
+    1423802,
+    52724
+  ],
+  "observationRecords": 3159,
+  "dataUrl": "https://www.inaturalist.org/taxa/52724",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 753658014,
+    "sourceUrl": "https://www.inaturalist.org/observations/409847616",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753658014/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/753658014/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "inat-69155",
+  "name": "Fucus distichus",
+  "scientificName": "Fucus distichus",
+  "group": "해조류",
+  "inaturalistId": 69155,
+  "ancestors": [
+    48460,
+    48222,
+    48221,
+    48220,
+    1267990,
+    48219,
+    48218,
+    48217,
+    69155
+  ],
+  "observationRecords": 575,
+  "dataUrl": "https://www.inaturalist.org/taxa/69155",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 748783622,
+    "sourceUrl": "https://www.inaturalist.org/observations/407458201",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748783622/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/748783622/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

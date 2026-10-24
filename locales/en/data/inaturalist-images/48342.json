@@ -1,0 +1,41 @@
+{
+  "id": "inat-48342",
+  "name": "Hemigrapsus nudus",
+  "scientificName": "Hemigrapsus nudus",
+  "group": "갑각류",
+  "inaturalistId": 48342,
+  "ancestors": [
+    48460,
+    1,
+    47120,
+    85493,
+    473790,
+    47187,
+    774775,
+    144113,
+    47186,
+    118451,
+    121639,
+    706185,
+    706188,
+    47191,
+    48344,
+    1071518,
+    48343,
+    48342
+  ],
+  "observationRecords": 364,
+  "dataUrl": "https://www.inaturalist.org/taxa/48342",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 745534064,
+    "sourceUrl": "https://www.inaturalist.org/observations/405850097",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745534064/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/745534064/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}

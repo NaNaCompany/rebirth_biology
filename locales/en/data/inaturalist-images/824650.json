@@ -1,0 +1,30 @@
+{
+  "id": "inat-824650",
+  "name": "Frankia alni",
+  "scientificName": "Frankia alni",
+  "group": "현미경생물",
+  "inaturalistId": 824650,
+  "ancestors": [
+    48460,
+    67333,
+    151842,
+    152340,
+    334079,
+    334078,
+    824650
+  ],
+  "observationRecords": 11,
+  "dataUrl": "https://www.inaturalist.org/taxa/824650",
+  "populationEstimate": null,
+  "image": {
+    "source": "iNaturalist",
+    "photoId": 591557042,
+    "sourceUrl": "https://www.inaturalist.org/observations/326607715",
+    "originalUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/591557042/original.jpg",
+    "downloadUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/591557042/large.jpg",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "artist": "no rights reserved",
+    "checkedAt": "2026-10-24"
+  }
+}
