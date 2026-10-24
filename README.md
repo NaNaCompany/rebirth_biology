@@ -37,3 +37,7 @@ npm run dev
 Google Tag Manager, Google Analytics, AdSense, Cloudflare Web Analytics는 기존 환생 여권과 같은 공개 게시자 설정으로 포함했다.
 
 현재 결과를 제외하는 다시하기 버튼도 제공한다. 잔여 횟수 1회를 사용하고 현재 결과만 후보에서 제외한 뒤 기존 비중을 재정규화한다. 등록증·OG의 확률은 전체 생물량 기준을 유지한다.
+
+## 카카오톡 공유 설정
+
+`src/share-config.json`의 `kakaoJavaScriptKey` 또는 빌드 환경변수 `KAKAO_JAVASCRIPT_KEY`를 설정한다. 브라우저용 공개 JavaScript 키만 사용하며 REST API 키·Admin 키를 넣지 않는다. Kakao Developers에서 JavaScript SDK 도메인과 웹 도메인에 `https://nanalab.kr`를 등록해야 한다. 설정 시 공식 SDK의 `Kakao.Share.sendDefault`로 등록증 이미지·확률·결과 링크를 전달한다. 전송 완료 여부는 확인하지 않으며 공유 요청 기준 보너스 정책을 유지한다. 키가 없으면 기기 공유를 사용하고 미지원 브라우저에서는 별도의 링크 복사 버튼을 안내한다.
