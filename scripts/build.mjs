@@ -1,3 +1,4 @@
+import {createHash} from 'node:crypto';
 import fs from 'node:fs/promises';import sharp from 'sharp';import {percent} from '../src/engine.js';
 const read=async p=>JSON.parse((await fs.readFile(p,'utf8')).replace(/^\uFEFF/,''));const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
 const {categories:raw}=await read('data/categories.json'),sources=await read('data/category-image-sources.json');
@@ -9,7 +10,12 @@ await fs.rm('docs',{recursive:true,force:true});await fs.mkdir('docs/og',{recurs
 for(const file of ['app.js','engine.js','style.css','favicon.svg'])await fs.copyFile('src/'+file,'docs/'+file);
 await fs.cp('src/images/categories','docs/images/categories',{recursive:true});await fs.cp('src/licenses','docs/licenses',{recursive:true});
 await fs.writeFile('docs/categories.json',JSON.stringify(categories));await fs.writeFile('docs/image-sources.json',JSON.stringify(sources.map(r=>({...r,file:r.file.replace(/^src\//,'')}))));
-const template=(await fs.readFile('src/index.html','utf8')).replace('__PUBLISHER_HEAD__',await fs.readFile('src/publisher-head.html','utf8')).replace('__PUBLISHER_BODY__',await fs.readFile('src/publisher-body.html','utf8')).replace('__PUBLISHER_FOOT__',await fs.readFile('src/publisher-foot.html','utf8'));
+const fingerprint=text=>createHash('sha256').update(text).digest('hex').slice(0,12);
+const engineText=await fs.readFile('src/engine.js','utf8'),engineFile='engine.'+fingerprint(engineText)+'.js';
+const appText=(await fs.readFile('src/app.js','utf8')).replace("'./engine.js'", "'./"+engineFile+"'"),appFile='app.'+fingerprint(appText)+'.js';
+const cssText=await fs.readFile('src/style.css','utf8'),cssFile='style.'+fingerprint(cssText)+'.css';
+await fs.writeFile('docs/'+engineFile,engineText);await fs.writeFile('docs/'+appFile,appText);await fs.writeFile('docs/'+cssFile,cssText);
+const template=(await fs.readFile('src/index.html','utf8')).replace('app.js?v=1',appFile).replace('style.css?v=1',cssFile).replace('__PUBLISHER_HEAD__',await fs.readFile('src/publisher-head.html','utf8')).replace('__PUBLISHER_BODY__',await fs.readFile('src/publisher-body.html','utf8')).replace('__PUBLISHER_FOOT__',await fs.readFile('src/publisher-foot.html','utf8'));
 function html(c){const url=c?`${base}/r/${c.id}/`:`${base}/`,title=c?`나의 다음 생은 ${c.name} · 생물등록증`:'다시 태어나면, 어떤 생물? · 다음 생 연구소',desc=c?`${percent(c.probability)}%의 확률로 만난 ${c.name}. 친구의 다음 생도 확인해 보세요. 탄소 생물량 기반 게임.`:'인간으로 돌아올 확률 약 0.01%. 생물량으로 만나는 72개의 다음 생. 나만의 생물등록증을 발급받아 친구와 비교해 보세요.';return template.replaceAll('__BASE__',base+'/').replaceAll('__URL__',url).replaceAll('__TITLE__',esc(title)).replaceAll('__DESCRIPTION__',esc(desc)).replaceAll('__OG__',`${base}/og/${c?.id||'default'}.jpg`);}
 const groups={Bacteria:'세균',Archaea:'고세균',Fungi:'균류',Protists:'원생생물',Animals:'동물',Plants:'식물'};
 const latin={Bacteria:'BACTERIA',Archaea:'ARCHAEA',Fungi:'FUNGI',Protists:'PROTISTS',Animals:'ANIMALIA',Plants:'PLANTAE'};
