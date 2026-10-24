@@ -4,10 +4,10 @@
 
 | 결과 | 제작자 | 라이선스 | 출처 |
 | --- | --- | --- | --- |
-| 지하 깊은 곳의 세균 | Unknown authorUnknown author | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Desulforudis_audaxviator.jpg) |
+| 지하 깊은 곳의 세균 | 저작자 미상 | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Desulforudis_audaxviator.jpg) |
 | 바다 세균 | Elisa Angulo-Cánovas | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Prochlorococcus_SEM.png) |
 | 토양 세균 | Allonweiner at English Wikipedia | [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Bacillus_subtilis.jpg) |
-| 해저 깊은 곳의 세균 | see Source | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Shewanella_oneidensis.png) |
+| 해저 깊은 곳의 세균 | 원본 출처 표기 참고 | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Shewanella_oneidensis.png) |
 | 지하 고세균 | Andreia F. Salvador, Gilberto Martins, Manuel Melle-Franco, Ricardo Serpa, Alfons J.M. Stams, Ana J. Cavaleiro, M. Alcina Pereira, M. Madalena Alves | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Sn%C3%ADmek_ze_skenovac%C3%ADho_elektronov%C3%A9ho_mikroskopu_Methanobacterium_formicicum.jpg) |
 | 바다 고세균 | Yangkai Zhou, An Yan, Jiawen Yang, Wei He, Shuai Guo, Yifan Li, Jing Wu, Yanchao Dai, Xijiang Pan, Dongyu Cui, Olivier Pereira, Wenkai Teng, Ran Bi, Songze Chen, Lu Fan, Peiyi Wang, Yan Liao, Wei Qin, Sen-Fang Sui, Yuanqing Zhu, Chuanlun Zhang, Zheng Liu | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [원본 페이지](https://commons.wikimedia.org/wiki/File:Fmicb-15-1367658-g003.webp) |
 | 토양 고세균 | Michaela Stieglmeier, Andreas Klingl, Ricardo J. E. Alves, Simon K.-M. R. Rittmann, Michael Melcher, Nikolaus Leisch, Christa Schleper | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [원본 페이지](https://commons.wikimedia.org/wiki/File:MicroBioSoc-063172-f2-hc.png) |
