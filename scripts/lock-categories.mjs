@@ -1,0 +1,20 @@
+import fs from 'node:fs/promises';
+const read=async p=>JSON.parse((await fs.readFile(p,'utf8')).replace(/^\uFEFF/,''));
+const base=await read('data/biomass-categories.json'),mammals=await read('data/wild-land-mammal-expansion.json'),marine=await read('data/marine-expansion.json');
+const labels=['지하 깊은 곳의 세균','바다 세균','토양 세균','해저 깊은 곳의 세균','지하 고세균','바다 고세균','토양 고세균','해저 고세균','육상 균류','해양 균류','환형동물','육상 절지동물','','자포동물','연체동물','토양 선충','해양 선충','물고기','가축 포유류','인간','야생 조류','','야생 해양 포유류','','육상 원생생물','식물'];
+const representatives={
+ 'bio-01':['Desulforudis audaxviator','Desulforudis audaxviator'], 'bio-02':['Prochlorococcus','Prochlorococcus'], 'bio-03':['Bacillus subtilis','Bacillus subtilis'], 'bio-04':['Shewanella','Shewanella'],
+ 'bio-05':['Methanobacterium','Methanobacterium'], 'bio-06':['Nitrosopumilus maritimus','Nitrosopumilus maritimus'], 'bio-07':['Nitrososphaera','Nitrososphaera'], 'bio-08':['Methanocaldococcus jannaschii','Methanocaldococcus jannaschii'],
+ 'bio-09':['Amanita muscaria','Amanita muscaria'], 'bio-10':['Lulworthia','Lulworthia'], 'bio-11':['Lumbricus terrestris','Lumbricus terrestris'], 'bio-12':['Apis mellifera','Apis mellifera'], 'bio-14':['Aurelia aurita','Aurelia aurita'], 'bio-15':['Octopus vulgaris','Octopus vulgaris'], 'bio-16':['Caenorhabditis elegans','Caenorhabditis elegans'], 'bio-17':['Enoplida','marine nematode'], 'bio-18':['Amphiprion ocellaris','Amphiprion ocellaris'], 'bio-19':['Bos taurus','Bos taurus'], 'bio-20':['Homo sapiens','human anatomy illustration'], 'bio-21':['Passer domesticus','Passer domesticus'], 'bio-23':['Megaptera novaeangliae','Megaptera novaeangliae'], 'bio-25':['Paramecium','Paramecium'], 'bio-26':['Ginkgo biloba','Ginkgo biloba']
+};
+const mammalNames=['흰꼬리사슴','멧돼지','아프리카사바나코끼리','동부회색캥거루','노새사슴','말코손바닥사슴','붉은사슴','유럽노루','붉은캥거루','혹멧돼지','아프리카숲코끼리','카피바라','아프리카물소','순록','와피티사슴','검은꼬리누','땅돼지','짚색과일박쥐','라쿤','큰숲멧돼지','과나코','얼룩말','하마','붉은강멧돼지','임팔라','아시아코끼리','보호르리드벅','서부회색캥거루','목도리페커리','다마사슴','캐나다비버','왈라루','붉은마자마사슴','덤불멧돼지','올리브개코원숭이','아프리카호저','큰쿠두','아메리카흑곰','안틸로핀캥거루','물주머니쥐','기타 야생 육상 포유류'];
+const out=[];
+for(const row of base.leaves){
+ if(row.id===mammals.parentCategory){for(const [i,c]of mammals.children.entries())out.push({id:c.id,name:mammalNames[i],scientificName:c.rank==='species'?c.name:null,rank:c.rank,group:'Animals',probability:c.globalGameProbability,representativeTaxon:c.rank==='species'?c.name:'Sciurus carolinensis',imageSearch:c.rank==='species'?c.name:'Sciurus carolinensis',imageRole:c.rank==='species'?'species':'representative',weightMethod:'2018-parent-carbon-budget × 2023-relative-wet-mass',sourceUrl:mammals.sourceUrl});continue;}
+ const split=marine.groups.find(g=>g.parentId===row.id);
+ if(split){for(const [i,c]of split.children.entries())out.push({id:`${row.id}-${i+1}`,name:c.korean,scientificName:c.name==='Euphausia superba'?c.name:null,rank:c.name==='Euphausia superba'?'species':'group',group:row.group,probability:c.globalGameProbability,representativeTaxon:({'Pico-nanoprotists':'Ostreococcus','Microzooplankton protists':'Tintinnid','Diatoms':'Diatom','Phaeocystis':'Phaeocystis','Rhizaria':'Radiolaria','Particle-attached protists':'Labyrinthula','Euphausia superba':'Euphausia superba','Other marine arthropods':'Carcinus maenas'})[c.name],imageRole:c.name==='Euphausia superba'?'species':'representative',weightMethod:'2018-carbon-biomass',sourceUrl:marine.sourceUrl});continue;}
+ const [taxon,query]=representatives[row.id];out.push({id:row.id,name:labels[Number(row.id.slice(4))-1],scientificName:row.id==='bio-20'?'Homo sapiens':null,rank:row.id==='bio-20'?'species':'group',group:row.group,probability:row.probability,representativeTaxon:taxon,imageSearch:query,imageRole:row.id==='bio-20'?'species':'representative',weightMethod:'2018-carbon-biomass',sourceUrl:base.sourceUrl});
+}
+if(out.length!==72||Math.abs(out.reduce((s,r)=>s+r.probability,0)-1)>1e-9)throw Error('Invalid locked partition');
+await fs.writeFile('data/categories.json',JSON.stringify({version:'2026-10-24-locked-72',basis:'carbon-biomass',count:72,categories:out},null,2)+'\n');
+console.log('Locked 72 categories; probabilities sum to 1');
