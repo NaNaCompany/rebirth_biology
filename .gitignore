@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.codex/
+.cache/
+data/research/
+data/image-metadata/
+data/taxonomy/
+data/inaturalist/
+data/inaturalist-images/
+data/*-pool.json
+data/taxonomy-query.json
+data/group-entities.json
+data/taxon-roots.json
+data/research-errors.json

@@ -1,0 +1,3748 @@
+[
+  {
+    "id": "inat-46017",
+    "name": "동부회색청서",
+    "scientificName": "Sciurus carolinensis",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42223",
+    "name": "흰꼬리사슴",
+    "scientificName": "Odocoileus virginianus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41663",
+    "name": "라쿤",
+    "scientificName": "Procyon lotor",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43111",
+    "name": "동부솜꼬리토끼",
+    "scientificName": "Sylvilagus floridanus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42069",
+    "name": "여우",
+    "scientificName": "Vulpes vulpes",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43794",
+    "name": "Castor canadensis",
+    "scientificName": "Castor canadensis",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46020",
+    "name": "Sciurus niger",
+    "scientificName": "Sciurus niger",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42051",
+    "name": "코요테",
+    "scientificName": "Canis latrans",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42184",
+    "name": "유럽노루",
+    "scientificName": "Capreolus capreolus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46001",
+    "name": "청설모",
+    "scientificName": "Sciurus vulgaris",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46217",
+    "name": "동부다람쥐",
+    "scientificName": "Tamias striatus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46260",
+    "name": "Tamiasciurus hudsonicus",
+    "scientificName": "Tamiasciurus hudsonicus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118552",
+    "name": "고양이",
+    "scientificName": "Felis catus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42220",
+    "name": "노새사슴",
+    "scientificName": "Odocoileus hemionus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42652",
+    "name": "Didelphis virginiana",
+    "scientificName": "Didelphis virginiana",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43151",
+    "name": "굴토끼",
+    "scientificName": "Oryctolagus cuniculus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41638",
+    "name": "아메리카흑곰",
+    "scientificName": "Ursus americanus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-180007",
+    "name": "캘리포니아땅다람쥐",
+    "scientificName": "Otospermophilus beecheyi",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46095",
+    "name": "Marmota monax",
+    "scientificName": "Marmota monax",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-522193",
+    "name": "말코손바닥사슴",
+    "scientificName": "Alces alces",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43042",
+    "name": "유럽고슴도치",
+    "scientificName": "Erinaceus europaeus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43128",
+    "name": "숲멧토끼",
+    "scientificName": "Lepus europaeus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-46970",
+    "name": "유럽두더지",
+    "scientificName": "Talpa europaea",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-45763",
+    "name": "사향쥐",
+    "scientificName": "Ondatra zibethicus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41880",
+    "name": "줄무늬스컹크",
+    "scientificName": "Mephitis mephitis",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41566",
+    "name": "혹등고래",
+    "scientificName": "Megaptera novaeangliae",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-44576",
+    "name": "집쥐",
+    "scientificName": "Rattus norvegicus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42134",
+    "name": "멧돼지",
+    "scientificName": "Sus scrofa",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43694",
+    "name": "아프리카코끼리",
+    "scientificName": "Loxodonta africana",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41777",
+    "name": "북아메리카수달",
+    "scientificName": "Lontra canadensis",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43997",
+    "name": "뉴트리아",
+    "scientificName": "Myocastor coypus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42429",
+    "name": "가지뿔영양",
+    "scientificName": "Antilocapra americana",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-44026",
+    "name": "Erethizon dorsatum",
+    "scientificName": "Erethizon dorsatum",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-855297",
+    "name": "유럽오소리",
+    "scientificName": "Meles meles",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41740",
+    "name": "캘리포니아바다사자",
+    "scientificName": "Zalophus californianus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-41708",
+    "name": "잔점박이물범",
+    "scientificName": "Phoca vitulina",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-43115",
+    "name": "Sylvilagus audubonii",
+    "scientificName": "Sylvilagus audubonii",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-42888",
+    "name": "Macropus giganteus",
+    "scientificName": "Macropus giganteus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1647419",
+    "name": "Dasypus mexicanus",
+    "scientificName": "Dasypus mexicanus",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-204114",
+    "name": "와피티사슴",
+    "scientificName": "Cervus canadensis",
+    "group": "포유류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-6930",
+    "name": "청둥오리",
+    "scientificName": "Anas platyrhynchos",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Anas platyrhynchos",
+      "commonName": "Mallard",
+      "order": "Anseriformes",
+      "family": "Anatidae (Ducks, Geese, and Waterfowl)",
+      "populationEstimate": 167717060,
+      "lower95": 2617837,
+      "upper95": 12554374607,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-7089",
+    "name": "캐나다기러기",
+    "scientificName": "Branta canadensis",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Branta canadensis",
+      "commonName": "Canada Goose",
+      "order": "Anseriformes",
+      "family": "Anatidae (Ducks, Geese, and Waterfowl)",
+      "populationEstimate": 87184210,
+      "lower95": 1059066,
+      "upper95": 6021713165,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-13858",
+    "name": "집참새",
+    "scientificName": "Passer domesticus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Passer domesticus",
+      "commonName": "House Sparrow",
+      "order": "Passeriformes",
+      "family": "Passeridae (Old World Sparrows)",
+      "populationEstimate": 1618744682,
+      "lower95": 691718494,
+      "upper95": 3795135209,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-12727",
+    "name": "아메리카지빠귀",
+    "scientificName": "Turdus migratorius",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Turdus migratorius",
+      "commonName": "American Robin",
+      "order": "Passeriformes",
+      "family": "Turdidae (Thrushes and Allies)",
+      "populationEstimate": 561290332,
+      "lower95": 141360196,
+      "upper95": 2187840521,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-4956",
+    "name": "Ardea herodias",
+    "scientificName": "Ardea herodias",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Ardea herodias",
+      "commonName": "Great Blue Heron",
+      "order": "Pelecaniformes",
+      "family": "Ardeidae (Herons, Egrets, and Bitterns)",
+      "populationEstimate": 13029336,
+      "lower95": 145448,
+      "upper95": 1216661652,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-144815",
+    "name": "Poecile atricapillus",
+    "scientificName": "Poecile atricapillus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Poecile atricapillus",
+      "commonName": "Black-capped Chickadee",
+      "order": "Passeriformes",
+      "family": "Paridae (Tits, Chickadees, and Titmice)",
+      "populationEstimate": 112012778,
+      "lower95": 13369586,
+      "upper95": 964219149,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-9083",
+    "name": "홍관조",
+    "scientificName": "Cardinalis cardinalis",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Cardinalis cardinalis",
+      "commonName": "Northern Cardinal",
+      "order": "Passeriformes",
+      "family": "Cardinalidae (Cardinals and Allies)",
+      "populationEstimate": 204034397,
+      "lower95": 36260305,
+      "upper95": 1152391014,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-144455",
+    "name": "중대백로",
+    "scientificName": "Ardea alba",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Ardea alba",
+      "commonName": "Great Egret",
+      "order": "Pelecaniformes",
+      "family": "Ardeidae (Herons, Egrets, and Bitterns)",
+      "populationEstimate": 57358864,
+      "lower95": 743715,
+      "upper95": 3921824944,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-14850",
+    "name": "흰점찌르레기",
+    "scientificName": "Sturnus vulgaris",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Sturnus vulgaris",
+      "commonName": "European Starling",
+      "order": "Passeriformes",
+      "family": "Sturnidae (Starlings)",
+      "populationEstimate": 1288846040,
+      "lower95": 428117239,
+      "upper95": 3986525008,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-4756",
+    "name": "칠면조수리",
+    "scientificName": "Cathartes aura",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Cathartes aura",
+      "commonName": "Turkey Vulture",
+      "order": "Cathartiformes",
+      "family": "Cathartidae (New World Vultures)",
+      "populationEstimate": 70786507,
+      "lower95": 14987737,
+      "upper95": 325939178,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-10094",
+    "name": "Junco hyemalis",
+    "scientificName": "Junco hyemalis",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Junco hyemalis",
+      "commonName": "Dark-eyed Junco",
+      "order": "Passeriformes",
+      "family": "Passerellidae (New World Sparrows)",
+      "populationEstimate": 277840118,
+      "lower95": 72199360,
+      "upper95": 1121186709,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-199840",
+    "name": "멕시코양진이",
+    "scientificName": "Haemorhous mexicanus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Haemorhous mexicanus",
+      "commonName": "House Finch",
+      "order": "Passeriformes",
+      "family": "Fringillidae (Finches, Euphonias, and Allies)",
+      "populationEstimate": 82119779,
+      "lower95": 12237847,
+      "upper95": 550010621,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-9744",
+    "name": "붉은날개검은새",
+    "scientificName": "Agelaius phoeniceus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Agelaius phoeniceus",
+      "commonName": "Red-winged Blackbird",
+      "order": "Passeriformes",
+      "family": "Icteridae (Troupials and Allies)",
+      "populationEstimate": 418284484,
+      "lower95": 100159133,
+      "upper95": 1739096158,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-9100",
+    "name": "Melospiza melodia",
+    "scientificName": "Melospiza melodia",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Melospiza melodia",
+      "commonName": "Song Sparrow",
+      "order": "Passeriformes",
+      "family": "Passerellidae (New World Sparrows)",
+      "populationEstimate": 214266112,
+      "lower95": 83148721,
+      "upper95": 540228049,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-5212",
+    "name": "붉은꼬리말똥가리",
+    "scientificName": "Buteo jamaicensis",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Buteo jamaicensis",
+      "commonName": "Red-tailed Hawk",
+      "order": "Accipitriformes",
+      "family": "Accipitridae (Hawks, Eagles, and Kites)",
+      "populationEstimate": 8074880,
+      "lower95": 513585,
+      "upper95": 126804485,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-3454",
+    "name": "우는비둘기",
+    "scientificName": "Zenaida macroura",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Zenaida macroura",
+      "commonName": "Mourning Dove",
+      "order": "Columbiformes",
+      "family": "Columbidae (Pigeons and Doves)",
+      "populationEstimate": 239547974,
+      "lower95": 43627117,
+      "upper95": 1385178327,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-12716",
+    "name": "유라시아대륙검은지빠귀",
+    "scientificName": "Turdus merula",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Turdus merula",
+      "commonName": "Eurasian Blackbird",
+      "order": "Passeriformes",
+      "family": "Turdidae (Thrushes and Allies)",
+      "populationEstimate": 354433630,
+      "lower95": 12798079,
+      "upper95": 10411809875,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-5305",
+    "name": "흰머리수리",
+    "scientificName": "Haliaeetus leucocephalus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Haliaeetus leucocephalus",
+      "commonName": "Bald Eagle",
+      "order": "Accipitriformes",
+      "family": "Accipitridae (Hawks, Eagles, and Kites)",
+      "populationEstimate": 9140160,
+      "lower95": 109014,
+      "upper95": 986456896,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-792988",
+    "name": "솜털딱따구리",
+    "scientificName": "Dryobates pubescens",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Dryobates pubescens",
+      "commonName": "Downy Woodpecker",
+      "order": "Piciformes",
+      "family": "Picidae (Woodpeckers)",
+      "populationEstimate": 28459924,
+      "lower95": 4171675,
+      "upper95": 190237758,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-6921",
+    "name": "혹고니",
+    "scientificName": "Cygnus olor",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Cygnus olor",
+      "commonName": "Mute Swan",
+      "order": "Anseriformes",
+      "family": "Anatidae (Ducks, Geese, and Waterfowl)",
+      "populationEstimate": 7234055,
+      "lower95": 143674,
+      "upper95": 376496762,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-8021",
+    "name": "미국까마귀",
+    "scientificName": "Corvus brachyrhynchos",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Corvus brachyrhynchos",
+      "commonName": "American Crow",
+      "order": "Passeriformes",
+      "family": "Corvidae (Crows, Jays, and Magpies)",
+      "populationEstimate": 91840173,
+      "lower95": 20727486,
+      "upper95": 413722694,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-145245",
+    "name": "Setophaga coronata",
+    "scientificName": "Setophaga coronata",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Setophaga coronata",
+      "commonName": "Yellow-rumped Warbler",
+      "order": "Passeriformes",
+      "family": "Parulidae (New World Warblers)",
+      "populationEstimate": 260880003,
+      "lower95": 30106936,
+      "upper95": 2317948881,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-4954",
+    "name": "왜가리",
+    "scientificName": "Ardea cinerea",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Ardea cinerea",
+      "commonName": "Gray Heron",
+      "order": "Pelecaniformes",
+      "family": "Ardeidae (Herons, Egrets, and Bitterns)",
+      "populationEstimate": 27339046,
+      "lower95": 772296,
+      "upper95": 958703877,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-3048",
+    "name": "숲비둘기",
+    "scientificName": "Columba palumbus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Columba palumbus",
+      "commonName": "Common Wood-Pigeon",
+      "order": "Columbiformes",
+      "family": "Columbidae (Pigeons and Doves)",
+      "populationEstimate": 334511213,
+      "lower95": 13033917,
+      "upper95": 9223836421,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-906",
+    "name": "들칠면조",
+    "scientificName": "Meleagris gallopavo",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Meleagris gallopavo",
+      "commonName": "Wild Turkey",
+      "order": "Galliformes",
+      "family": "Phasianidae (Pheasants, Grouse, and Allies)",
+      "populationEstimate": 4856974,
+      "lower95": 53424,
+      "upper95": 406992189,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-14886",
+    "name": "북부흉내지빠귀",
+    "scientificName": "Mimus polyglottos",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Mimus polyglottos",
+      "commonName": "Northern Mockingbird",
+      "order": "Passeriformes",
+      "family": "Mimidae (Mockingbirds and Thrashers)",
+      "populationEstimate": 124869634,
+      "lower95": 29949059,
+      "upper95": 516236228,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-8229",
+    "name": "파랑어치",
+    "scientificName": "Cyanocitta cristata",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Cyanocitta cristata",
+      "commonName": "Blue Jay",
+      "order": "Passeriformes",
+      "family": "Corvidae (Crows, Jays, and Magpies)",
+      "populationEstimate": 47457226,
+      "lower95": 4336235,
+      "upper95": 533648196,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-116999",
+    "name": "물수리",
+    "scientificName": "Pandion haliaetus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Pandion haliaetus",
+      "commonName": "Osprey",
+      "order": "Accipitriformes",
+      "family": "Pandionidae (Osprey)",
+      "populationEstimate": 2657166,
+      "lower95": 535575,
+      "upper95": 13334642,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-1454382",
+    "name": "쌍뿔가마우지",
+    "scientificName": "Nannopterum auritum",
+    "group": "조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-13094",
+    "name": "꼬까울새",
+    "scientificName": "Erithacus rubecula",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Erithacus rubecula",
+      "commonName": "European Robin",
+      "order": "Passeriformes",
+      "family": "Muscicapidae (Old World Flycatchers)",
+      "populationEstimate": 21261776,
+      "lower95": 255728,
+      "upper95": 1890421805,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-891696",
+    "name": "유럽까치",
+    "scientificName": "Pica pica",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Pica pica",
+      "commonName": "Eurasian Magpie",
+      "order": "Passeriformes",
+      "family": "Corvidae (Crows, Jays, and Magpies)",
+      "populationEstimate": 33377656,
+      "lower95": 399862,
+      "upper95": 2608177216,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-4940",
+    "name": "Egretta thula",
+    "scientificName": "Egretta thula",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Egretta thula",
+      "commonName": "Snowy Egret",
+      "order": "Pelecaniformes",
+      "family": "Ardeidae (Herons, Egrets, and Bitterns)",
+      "populationEstimate": 42498759,
+      "lower95": 508822,
+      "upper95": 4271404483,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-482",
+    "name": "물닭",
+    "scientificName": "Fulica atra",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Fulica atra",
+      "commonName": "Eurasian Coot",
+      "order": "Gruiformes",
+      "family": "Rallidae (Rails, Gallinules, and Coots)",
+      "populationEstimate": 71948892,
+      "lower95": 4017494,
+      "upper95": 1277772954,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-11901",
+    "name": "제비",
+    "scientificName": "Hirundo rustica",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Hirundo rustica",
+      "commonName": "Barn Swallow",
+      "order": "Passeriformes",
+      "family": "Hirundinidae (Swallows)",
+      "populationEstimate": 1076122004,
+      "lower95": 368223376,
+      "upper95": 3248000928,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-18236",
+    "name": "Colaptes auratus",
+    "scientificName": "Colaptes auratus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Colaptes auratus",
+      "commonName": "Northern Flicker",
+      "order": "Piciformes",
+      "family": "Picidae (Woodpeckers)",
+      "populationEstimate": 20923123,
+      "lower95": 2737869,
+      "upper95": 161132335,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-145310",
+    "name": "황금방울새",
+    "scientificName": "Spinus tristis",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Spinus tristis",
+      "commonName": "American Goldfinch",
+      "order": "Passeriformes",
+      "family": "Fringillidae (Finches, Euphonias, and Allies)",
+      "populationEstimate": 76926921,
+      "lower95": 28374369,
+      "upper95": 213010032,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-144510",
+    "name": "붉은부리갈매기",
+    "scientificName": "Chroicocephalus ridibundus",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Chroicocephalus ridibundus",
+      "commonName": "Black-headed Gull",
+      "order": "Charadriiformes",
+      "family": "Laridae (Gulls, Terns, and Skimmers)",
+      "populationEstimate": 78878122,
+      "lower95": 2537682,
+      "upper95": 2386322004,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-203153",
+    "name": "유럽박새",
+    "scientificName": "Parus major",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Parus major",
+      "commonName": "Great Tit",
+      "order": "Passeriformes",
+      "family": "Paridae (Tits, Chickadees, and Titmice)",
+      "populationEstimate": 60442665,
+      "lower95": 749380,
+      "upper95": 5112401919,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-2969",
+    "name": "염주비둘기",
+    "scientificName": "Streptopelia decaocto",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Streptopelia decaocto",
+      "commonName": "Eurasian Collared-Dove",
+      "order": "Columbiformes",
+      "family": "Columbidae (Pigeons and Doves)",
+      "populationEstimate": 203977979,
+      "lower95": 47870947,
+      "upper95": 841621611,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-9176",
+    "name": "흰정수리북미멧새",
+    "scientificName": "Zonotrichia leucophrys",
+    "group": "조류",
+    "populationStatus": "species-estimate",
+    "population": {
+      "scientificName": "Zonotrichia leucophrys",
+      "commonName": "White-crowned Sparrow",
+      "order": "Passeriformes",
+      "family": "Passerellidae (New World Sparrows)",
+      "populationEstimate": 98005211,
+      "lower95": 6085255,
+      "upper95": 1471622012,
+      "unit": "individuals",
+      "scope": "global",
+      "publicationYear": 2021,
+      "sourceUrl": "https://doi.org/10.1073/pnas.2023170118",
+      "dataUrl": "https://zenodo.org/records/4723365",
+      "license": "CC-BY-4.0"
+    }
+  },
+  {
+    "id": "inat-36514",
+    "name": "Anolis carolinensis",
+    "scientificName": "Anolis carolinensis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-36204",
+    "name": "Sceloporus occidentalis",
+    "scientificName": "Sceloporus occidentalis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-116461",
+    "name": "Anolis sagrei",
+    "scientificName": "Anolis sagrei",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-28362",
+    "name": "가터얼룩뱀",
+    "scientificName": "Thamnophis sirtalis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-39682",
+    "name": "늑대거북",
+    "scientificName": "Chelydra serpentina",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55990",
+    "name": "Podarcis muralis",
+    "scientificName": "Podarcis muralis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-39771",
+    "name": "비단거북",
+    "scientificName": "Chrysemys picta",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-39782",
+    "name": "붉은귀거북",
+    "scientificName": "Trachemys scripta",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-26159",
+    "name": "미시시피악어",
+    "scientificName": "Alligator mississippiensis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-28562",
+    "name": "Storeria dekayi",
+    "scientificName": "Storeria dekayi",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-35342",
+    "name": "녹색이구아나",
+    "scientificName": "Iguana iguana",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-343021",
+    "name": "Anguis fragilis",
+    "scientificName": "Anguis fragilis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1661279",
+    "name": "Pantherophis alleghaniensis",
+    "scientificName": "Pantherophis alleghaniensis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-29305",
+    "name": "Nerodia sipedon",
+    "scientificName": "Nerodia sipedon",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-32954",
+    "name": "Bradypodion pumilum",
+    "scientificName": "Bradypodion pumilum",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-35453",
+    "name": "Zootoca vivipara",
+    "scientificName": "Zootoca vivipara",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-73788",
+    "name": "Plestiodon fasciatus",
+    "scientificName": "Plestiodon fasciatus",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-34050",
+    "name": "Phelsuma laticauda",
+    "scientificName": "Phelsuma laticauda",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-33602",
+    "name": "악어도마뱀붙이",
+    "scientificName": "Tarentola mauritanica",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-39659",
+    "name": "바다거북",
+    "scientificName": "Chelonia mydas",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-36094",
+    "name": "Uta stansburiana",
+    "scientificName": "Uta stansburiana",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-966698",
+    "name": "북살모사",
+    "scientificName": "Vipera berus",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-35912",
+    "name": "모래장지뱀",
+    "scientificName": "Lacerta agilis",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-40085",
+    "name": "Gopherus polyphemus",
+    "scientificName": "Gopherus polyphemus",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-68492",
+    "name": "Hemidactylus mabouia",
+    "scientificName": "Hemidactylus mabouia",
+    "group": "파충류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-64968",
+    "name": "Anaxyrus americanus",
+    "scientificName": "Anaxyrus americanus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-25591",
+    "name": "유럽산개구리",
+    "scientificName": "Rana temporaria",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-65982",
+    "name": "Lithobates clamitans",
+    "scientificName": "Lithobates clamitans",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-326296",
+    "name": "유럽두꺼비",
+    "scientificName": "Bufo bufo",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-65979",
+    "name": "황소개구리",
+    "scientificName": "Lithobates catesbeianus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-27805",
+    "name": "동부영원",
+    "scientificName": "Notophthalmus viridescens",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-27186",
+    "name": "Plethodon cinereus",
+    "scientificName": "Plethodon cinereus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-66012",
+    "name": "Lithobates sylvaticus",
+    "scientificName": "Lithobates sylvaticus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-24259",
+    "name": "Pseudacris regilla",
+    "scientificName": "Pseudacris regilla",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-66003",
+    "name": "Lithobates pipiens",
+    "scientificName": "Lithobates pipiens",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1668858",
+    "name": "Dryophytes cinereus",
+    "scientificName": "Dryophytes cinereus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-27818",
+    "name": "캘리포니아상어피부영원",
+    "scientificName": "Taricha torosa",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-553515",
+    "name": "사탕수수두꺼비",
+    "scientificName": "Rhinella marina",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-24268",
+    "name": "Pseudacris crucifer",
+    "scientificName": "Pseudacris crucifer",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-27459",
+    "name": "Batrachoseps attenuatus",
+    "scientificName": "Batrachoseps attenuatus",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-64970",
+    "name": "Anaxyrus boreas",
+    "scientificName": "Anaxyrus boreas",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-64977",
+    "name": "Anaxyrus fowleri",
+    "scientificName": "Anaxyrus fowleri",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-66479",
+    "name": "Platyplectrum ornatum",
+    "scientificName": "Platyplectrum ornatum",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-26790",
+    "name": "Ambystoma maculatum",
+    "scientificName": "Ambystoma maculatum",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-66002",
+    "name": "Lithobates palustris",
+    "scientificName": "Lithobates palustris",
+    "group": "양서류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49591",
+    "name": "블루길",
+    "scientificName": "Lepomis macrochirus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1439808",
+    "name": "큰입배스",
+    "scientificName": "Micropterus nigricans",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53911",
+    "name": "유럽잉어",
+    "scientificName": "Cyprinus carpio",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-101204",
+    "name": "Gambusia holbrooki",
+    "scientificName": "Gambusia holbrooki",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-58636",
+    "name": "Lepomis cyanellus",
+    "scientificName": "Lepomis cyanellus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47516",
+    "name": "무지개송어",
+    "scientificName": "Oncorhynchus mykiss",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-58662",
+    "name": "Semotilus atromaculatus",
+    "scientificName": "Semotilus atromaculatus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-67629",
+    "name": "Oligocottus maculosus",
+    "scientificName": "Oligocottus maculosus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49614",
+    "name": "Lepomis gibbosus",
+    "scientificName": "Lepomis gibbosus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49590",
+    "name": "Micropterus dolomieu",
+    "scientificName": "Micropterus dolomieu",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-104256",
+    "name": "Lepomis punctatus",
+    "scientificName": "Lepomis punctatus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-85365",
+    "name": "Lepomis auritus",
+    "scientificName": "Lepomis auritus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49402",
+    "name": "Abudefduf saxatilis",
+    "scientificName": "Abudefduf saxatilis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-59115",
+    "name": "모기송사리",
+    "scientificName": "Gambusia affinis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55387",
+    "name": "Esox lucius",
+    "scientificName": "Esox lucius",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47518",
+    "name": "브라운송어",
+    "scientificName": "Salmo trutta",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-83290",
+    "name": "깃대돔",
+    "scientificName": "Zanclus cornutus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-121196",
+    "name": "Acanthurus coeruleus",
+    "scientificName": "Acanthurus coeruleus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49491",
+    "name": "Thalassoma bifasciatum",
+    "scientificName": "Thalassoma bifasciatum",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48403",
+    "name": "Gasterosteus aculeatus",
+    "scientificName": "Gasterosteus aculeatus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81554",
+    "name": "찬넬메기",
+    "scientificName": "Ictalurus punctatus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-104252",
+    "name": "Lepomis gulosus",
+    "scientificName": "Lepomis gulosus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-105822",
+    "name": "Micropterus treculii",
+    "scientificName": "Micropterus treculii",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1364008",
+    "name": "Lepomis aquilensis",
+    "scientificName": "Lepomis aquilensis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-112867",
+    "name": "Sparisoma viride",
+    "scientificName": "Sparisoma viride",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49403",
+    "name": "해포리고기",
+    "scientificName": "Abudefduf vaigiensis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-109062",
+    "name": "Perca fluviatilis",
+    "scientificName": "Perca fluviatilis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-58627",
+    "name": "Perca flavescens",
+    "scientificName": "Perca flavescens",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49509",
+    "name": "Lutjanus griseus",
+    "scientificName": "Lutjanus griseus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118667",
+    "name": "Diplodus vulgaris",
+    "scientificName": "Diplodus vulgaris",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118663",
+    "name": "Sarpa salpa",
+    "scientificName": "Sarpa salpa",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1315888",
+    "name": "Acanthurus sandvicensis",
+    "scientificName": "Acanthurus sandvicensis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52457",
+    "name": "가시나비고기",
+    "scientificName": "Chaetodon auriga",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49262",
+    "name": "Haemulon sciurus",
+    "scientificName": "Haemulon sciurus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49596",
+    "name": "Salvelinus fontinalis",
+    "scientificName": "Salvelinus fontinalis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47251",
+    "name": "Sphyraena barracuda",
+    "scientificName": "Sphyraena barracuda",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-50972",
+    "name": "Thalassoma pavo",
+    "scientificName": "Thalassoma pavo",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118669",
+    "name": "Diplodus sargus",
+    "scientificName": "Diplodus sargus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117533",
+    "name": "Clinocottus analis",
+    "scientificName": "Clinocottus analis",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81989",
+    "name": "Lutjanus apodus",
+    "scientificName": "Lutjanus apodus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-102686",
+    "name": "Heterandria formosa",
+    "scientificName": "Heterandria formosa",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-57399",
+    "name": "홍대치",
+    "scientificName": "Fistularia commersonii",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-104251",
+    "name": "Lepisosteus platyrhincus",
+    "scientificName": "Lepisosteus platyrhincus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-123346",
+    "name": "Mulloidichthys flavolineatus",
+    "scientificName": "Mulloidichthys flavolineatus",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52459",
+    "name": "노랑양쥐돔",
+    "scientificName": "Zebrasoma flavescens",
+    "group": "어류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48484",
+    "name": "무당벌레",
+    "scientificName": "Harmonia axyridis",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47219",
+    "name": "양봉꿀벌",
+    "scientificName": "Apis mellifera",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48662",
+    "name": "Danaus plexippus",
+    "scientificName": "Danaus plexippus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51702",
+    "name": "칠성무당벌레",
+    "scientificName": "Coccinella septempunctata",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-119019",
+    "name": "등검은말벌",
+    "scientificName": "Vespa velutina",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54327",
+    "name": "말벌",
+    "scientificName": "Vespa crabro",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118970",
+    "name": "Bombus impatiens",
+    "scientificName": "Bombus impatiens",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49133",
+    "name": "Vanessa atalanta",
+    "scientificName": "Vanessa atalanta",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55626",
+    "name": "배추흰나비",
+    "scientificName": "Pieris rapae",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81687",
+    "name": "Noctua pronuba",
+    "scientificName": "Noctua pronuba",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52592",
+    "name": "Pararge aegeria",
+    "scientificName": "Pararge aegeria",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48548",
+    "name": "작은멋쟁이나비",
+    "scientificName": "Vanessa cardui",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-207977",
+    "name": "공작나비",
+    "scientificName": "Aglais io",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55653",
+    "name": "Maniola jurtina",
+    "scientificName": "Maniola jurtina",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55719",
+    "name": "꽃등에",
+    "scientificName": "Eristalis tenax",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49150",
+    "name": "Dione vanillae",
+    "scientificName": "Dione vanillae",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55641",
+    "name": "연푸른부전나비",
+    "scientificName": "Polyommatus icarus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-60551",
+    "name": "Papilio glaucus",
+    "scientificName": "Papilio glaucus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55637",
+    "name": "Bombus pascuorum",
+    "scientificName": "Bombus pascuorum",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56225",
+    "name": "산네발나비",
+    "scientificName": "Polygonia c-album",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52482",
+    "name": "호리꽃등에",
+    "scientificName": "Episyrphus balteatus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-59774",
+    "name": "Pachydiplax longipennis",
+    "scientificName": "Pachydiplax longipennis",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-83459",
+    "name": "Peribatodes rhomboidaria",
+    "scientificName": "Peribatodes rhomboidaria",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62060",
+    "name": "Palomena prasina",
+    "scientificName": "Palomena prasina",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54087",
+    "name": "줄흰나비",
+    "scientificName": "Pieris napi",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51110",
+    "name": "Xylocopa virginica",
+    "scientificName": "Xylocopa virginica",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54468",
+    "name": "쐐기풀나비",
+    "scientificName": "Aglais urticae",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-123658",
+    "name": "Idaea aversata",
+    "scientificName": "Idaea aversata",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-132887",
+    "name": "큰거세미나방",
+    "scientificName": "Agrotis exclamationis",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-120215",
+    "name": "Bombus griseocollis",
+    "scientificName": "Bombus griseocollis",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-61495",
+    "name": "Erythemis simplicicollis",
+    "scientificName": "Erythemis simplicicollis",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-84549",
+    "name": "Plathemis lydia",
+    "scientificName": "Plathemis lydia",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-324726",
+    "name": "꽃매미",
+    "scientificName": "Lycorma delicatula",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55651",
+    "name": "비녀은무늬밤나방",
+    "scientificName": "Autographa gamma",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55655",
+    "name": "작은주홍부전나비",
+    "scientificName": "Lycaena phlaeas",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81923",
+    "name": "썩덩나무노린재",
+    "scientificName": "Halyomorpha halys",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62456",
+    "name": "Rhagonycha fulva",
+    "scientificName": "Rhagonycha fulva",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62429",
+    "name": "Pyronia tithonus",
+    "scientificName": "Pyronia tithonus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55610",
+    "name": "Pyrrhocoris apterus",
+    "scientificName": "Pyrrhocoris apterus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81559",
+    "name": "Epargyreus clarus",
+    "scientificName": "Epargyreus clarus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48505",
+    "name": "Junonia coenia",
+    "scientificName": "Junonia coenia",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-318545",
+    "name": "Coreus marginatus",
+    "scientificName": "Coreus marginatus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56832",
+    "name": "신선나비",
+    "scientificName": "Nymphalis antiopa",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-84640",
+    "name": "Polistes dominula",
+    "scientificName": "Polistes dominula",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-50340",
+    "name": "Hylephila phyleus",
+    "scientificName": "Hylephila phyleus",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-59675",
+    "name": "Pyrrharctia isabella",
+    "scientificName": "Pyrrharctia isabella",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-119934",
+    "name": "Epiphyas postvittana",
+    "scientificName": "Epiphyas postvittana",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47802",
+    "name": "매미나방",
+    "scientificName": "Lymantria dispar",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51275",
+    "name": "홍다리노린재",
+    "scientificName": "Pentatoma rufipes",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130188",
+    "name": "Chrysoteuchia culmella",
+    "scientificName": "Chrysoteuchia culmella",
+    "group": "곤충",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52628",
+    "name": "Araneus diadematus",
+    "scientificName": "Araneus diadematus",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55746",
+    "name": "민꽃게거미",
+    "scientificName": "Misumena vatia",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53809",
+    "name": "Phidippus audax",
+    "scientificName": "Phidippus audax",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55787",
+    "name": "Pisaura mirabilis",
+    "scientificName": "Pisaura mirabilis",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-68901",
+    "name": "Salticus scenicus",
+    "scientificName": "Salticus scenicus",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-67707",
+    "name": "Argiope aurantia",
+    "scientificName": "Argiope aurantia",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81839",
+    "name": "Platycryptus undatus",
+    "scientificName": "Platycryptus undatus",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-84644",
+    "name": "Phalangium opilio",
+    "scientificName": "Phalangium opilio",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-904336",
+    "name": "Trichonephila clavipes",
+    "scientificName": "Trichonephila clavipes",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-778499",
+    "name": "Leucauge venusta",
+    "scientificName": "Leucauge venusta",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-50867",
+    "name": "긴호랑거미",
+    "scientificName": "Argiope bruennichi",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-67328",
+    "name": "집유령거미",
+    "scientificName": "Pholcus phalangioides",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-84109",
+    "name": "Pisaurina mira",
+    "scientificName": "Pisaurina mira",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49540",
+    "name": "Gasteracantha cancriformis",
+    "scientificName": "Gasteracantha cancriformis",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-67706",
+    "name": "Argiope argentata",
+    "scientificName": "Argiope argentata",
+    "group": "거미류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-480298",
+    "name": "Cornu aspersum",
+    "scientificName": "Cornu aspersum",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48586",
+    "name": "Cepaea nemoralis",
+    "scientificName": "Cepaea nemoralis",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47776",
+    "name": "Ariolimax columbianus",
+    "scientificName": "Ariolimax columbianus",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62470",
+    "name": "수원표범민달팽이",
+    "scientificName": "Limax maximus",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-61523",
+    "name": "Helix pomatia",
+    "scientificName": "Helix pomatia",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51039",
+    "name": "Cepaea hortensis",
+    "scientificName": "Cepaea hortensis",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-81606",
+    "name": "Littorina littorea",
+    "scientificName": "Littorina littorea",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62806",
+    "name": "캘리포니아담치",
+    "scientificName": "Mytilus californianus",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-82003",
+    "name": "Arion ater",
+    "scientificName": "Arion ater",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-64006",
+    "name": "재첩",
+    "scientificName": "Corbicula fluminea",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55617",
+    "name": "Arianta arbustorum",
+    "scientificName": "Arianta arbustorum",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-68624",
+    "name": "Hygromia cinctella",
+    "scientificName": "Hygromia cinctella",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47585",
+    "name": "Crassostrea virginica",
+    "scientificName": "Crassostrea virginica",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117633",
+    "name": "Mopalia muscosa",
+    "scientificName": "Mopalia muscosa",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-502885",
+    "name": "왕달팽이",
+    "scientificName": "Lissachatina fulica",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-202861",
+    "name": "Otala lactea",
+    "scientificName": "Otala lactea",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-124432",
+    "name": "회색작은뾰족민달팽이",
+    "scientificName": "Deroceras reticulatum",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117650",
+    "name": "진주담치",
+    "scientificName": "Mytilus edulis",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-125343",
+    "name": "Crepidula fornicata",
+    "scientificName": "Crepidula fornicata",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-203761",
+    "name": "Nucella lapillus",
+    "scientificName": "Nucella lapillus",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117641",
+    "name": "지느러미옆주름고둥",
+    "scientificName": "Nucella lamellosa",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62803",
+    "name": "Monadenia fidelis",
+    "scientificName": "Monadenia fidelis",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130213",
+    "name": "Buccinum undatum",
+    "scientificName": "Buccinum undatum",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-119608",
+    "name": "Theba pisana",
+    "scientificName": "Theba pisana",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-143291",
+    "name": "Limax cinereoniger",
+    "scientificName": "Limax cinereoniger",
+    "group": "연체동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56083",
+    "name": "공벌레",
+    "scientificName": "Armadillidium vulgare",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-122238",
+    "name": "거친양쥐며느리",
+    "scientificName": "Porcellio scaber",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48284",
+    "name": "Oniscus asellus",
+    "scientificName": "Oniscus asellus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52523",
+    "name": "Carcinus maenas",
+    "scientificName": "Carcinus maenas",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48292",
+    "name": "Philoscia muscorum",
+    "scientificName": "Philoscia muscorum",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-210119",
+    "name": "큰이마공벌레",
+    "scientificName": "Armadillidium nasatum",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47188",
+    "name": "바위게",
+    "scientificName": "Pachygrapsus crassipes",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-203479",
+    "name": "Trachelipus rathkii",
+    "scientificName": "Trachelipus rathkii",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48786",
+    "name": "Pollicipes polymerus",
+    "scientificName": "Pollicipes polymerus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-69170",
+    "name": "Hemigrapsus oregonensis",
+    "scientificName": "Hemigrapsus oregonensis",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130169",
+    "name": "Porcellio spinicornis",
+    "scientificName": "Porcellio spinicornis",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-63697",
+    "name": "Metacarcinus magister",
+    "scientificName": "Metacarcinus magister",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47826",
+    "name": "Cancer productus",
+    "scientificName": "Cancer productus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48342",
+    "name": "Hemigrapsus nudus",
+    "scientificName": "Hemigrapsus nudus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53875",
+    "name": "Ocypode quadrata",
+    "scientificName": "Ocypode quadrata",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49504",
+    "name": "Callinectes sapidus",
+    "scientificName": "Callinectes sapidus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-555975",
+    "name": "농게",
+    "scientificName": "Tubuca arcuata",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51221",
+    "name": "붉은가재",
+    "scientificName": "Procambarus clarkii",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49723",
+    "name": "Pugettia producta",
+    "scientificName": "Pugettia producta",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55295",
+    "name": "Grapsus grapsus",
+    "scientificName": "Grapsus grapsus",
+    "group": "갑각류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52564",
+    "name": "Anthopleura elegantissima",
+    "scientificName": "Anthopleura elegantissima",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49051",
+    "name": "Anthopleura sola",
+    "scientificName": "Anthopleura sola",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51659",
+    "name": "Anthopleura xanthogrammica",
+    "scientificName": "Anthopleura xanthogrammica",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130085",
+    "name": "해변말미잘",
+    "scientificName": "Actinia equina",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-59698",
+    "name": "Velella velella",
+    "scientificName": "Velella velella",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-118895",
+    "name": "Anemonia viridis",
+    "scientificName": "Anemonia viridis",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51658",
+    "name": "Anthopleura artemisia",
+    "scientificName": "Anthopleura artemisia",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48328",
+    "name": "보름달물해파리",
+    "scientificName": "Aurelia aurita",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-492672",
+    "name": "Urticina grebelnyi",
+    "scientificName": "Urticina grebelnyi",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117302",
+    "name": "작은부레관해파리",
+    "scientificName": "Physalia physalis",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-360314",
+    "name": "Chrysaora hysoscella",
+    "scientificName": "Chrysaora hysoscella",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-69838",
+    "name": "Cyanea capillata",
+    "scientificName": "Cyanea capillata",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-126971",
+    "name": "Actinia tenebrosa",
+    "scientificName": "Actinia tenebrosa",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-129493",
+    "name": "Actinia fragacea",
+    "scientificName": "Actinia fragacea",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-752776",
+    "name": "Rhizostoma octopus",
+    "scientificName": "Rhizostoma octopus",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-120130",
+    "name": "Gorgonia ventalina",
+    "scientificName": "Gorgonia ventalina",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52966",
+    "name": "Phacellophora camtschatica",
+    "scientificName": "Phacellophora camtschatica",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-786996",
+    "name": "Cyanea ferruginea",
+    "scientificName": "Cyanea ferruginea",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130235",
+    "name": "Aurelia labiata",
+    "scientificName": "Aurelia labiata",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-447777",
+    "name": "Cyanea lamarckii",
+    "scientificName": "Cyanea lamarckii",
+    "group": "기타동물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52821",
+    "name": "서양톱풀",
+    "scientificName": "Achillea millefolium",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52856",
+    "name": "Artemisia vulgaris",
+    "scientificName": "Artemisia vulgaris",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-204321",
+    "name": "Ficaria verna",
+    "scientificName": "Ficaria verna",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56061",
+    "name": "마늘냉이",
+    "scientificName": "Alliaria petiolata",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53178",
+    "name": "창질경이",
+    "scientificName": "Plantago lanceolata",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-60132",
+    "name": "조뱅이",
+    "scientificName": "Cirsium arvense",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51875",
+    "name": "붉은토끼풀",
+    "scientificName": "Trifolium pratense",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55745",
+    "name": "토끼풀",
+    "scientificName": "Trifolium repens",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55925",
+    "name": "Geranium robertianum",
+    "scientificName": "Geranium robertianum",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51884",
+    "name": "Urtica dioica",
+    "scientificName": "Urtica dioica",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52989",
+    "name": "서양가시엉겅퀴",
+    "scientificName": "Cirsium vulgare",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-57278",
+    "name": "가죽나무",
+    "scientificName": "Ailanthus altissima",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52764",
+    "name": "두메꿀풀",
+    "scientificName": "Prunella vulgaris",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55563",
+    "name": "데이지",
+    "scientificName": "Bellis perennis",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55882",
+    "name": "서양송악",
+    "scientificName": "Hedera helix",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-564969",
+    "name": "분홍바늘꽃",
+    "scientificName": "Chamaenerion angustifolium",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55851",
+    "name": "자주광대나물",
+    "scientificName": "Lamium purpureum",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47726",
+    "name": "네군도단풍",
+    "scientificName": "Acer negundo",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-58961",
+    "name": "왕질경이",
+    "scientificName": "Plantago major",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55830",
+    "name": "Glechoma hederacea",
+    "scientificName": "Glechoma hederacea",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47602",
+    "name": "서양민들레",
+    "scientificName": "Taraxacum officinale",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-76610",
+    "name": "산당근",
+    "scientificName": "Daucus carota",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47911",
+    "name": "Asclepias syriaca",
+    "scientificName": "Asclepias syriaca",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53059",
+    "name": "나도갈퀴덩굴",
+    "scientificName": "Galium aparine",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53856",
+    "name": "서양호랑가시나무",
+    "scientificName": "Ilex aquifolium",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-765394",
+    "name": "Sambucus nigra",
+    "scientificName": "Sambucus nigra",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-119791",
+    "name": "Acer pseudoplatanus",
+    "scientificName": "Acer pseudoplatanus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-124544",
+    "name": "전호",
+    "scientificName": "Anthriscus sylvestris",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-59029",
+    "name": "우단담배풀",
+    "scientificName": "Verbascum thapsus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53211",
+    "name": "개쑥갓",
+    "scientificName": "Senecio vulgaris",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-62498",
+    "name": "Jacobaea vulgaris",
+    "scientificName": "Jacobaea vulgaris",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56222",
+    "name": "Tussilago farfara",
+    "scientificName": "Tussilago farfara",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55891",
+    "name": "Geum urbanum",
+    "scientificName": "Geum urbanum",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52681",
+    "name": "고사리",
+    "scientificName": "Pteridium aquilinum",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47435",
+    "name": "서양벌노랑이",
+    "scientificName": "Lotus corniculatus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48599",
+    "name": "미국자리공",
+    "scientificName": "Phytolacca americana",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55759",
+    "name": "Silene dioica",
+    "scientificName": "Silene dioica",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51147",
+    "name": "Crataegus monogyna",
+    "scientificName": "Crataegus monogyna",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54491",
+    "name": "서양개암나무",
+    "scientificName": "Corylus avellana",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52913",
+    "name": "치커리",
+    "scientificName": "Cichorium intybus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55620",
+    "name": "왕배풍등",
+    "scientificName": "Solanum dulcamara",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52720",
+    "name": "오리새",
+    "scientificName": "Dactylis glomerata",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-61321",
+    "name": "털부처꽃",
+    "scientificName": "Lythrum salicaria",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-163682",
+    "name": "Heracleum sphondylium",
+    "scientificName": "Heracleum sphondylium",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-57056",
+    "name": "잔개자리",
+    "scientificName": "Medicago lupulina",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54412",
+    "name": "Polystichum acrostichoides",
+    "scientificName": "Polystichum acrostichoides",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48229",
+    "name": "Ranunculus repens",
+    "scientificName": "Ranunculus repens",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-49202",
+    "name": "Fagus grandifolia",
+    "scientificName": "Fagus grandifolia",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-119048",
+    "name": "서양등골나물",
+    "scientificName": "Ageratina altissima",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55757",
+    "name": "Chelidonium majus",
+    "scientificName": "Chelidonium majus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55971",
+    "name": "Tanacetum vulgare",
+    "scientificName": "Tanacetum vulgare",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53983",
+    "name": "디기탈리스",
+    "scientificName": "Digitalis purpurea",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55666",
+    "name": "큰개불알풀",
+    "scientificName": "Veronica persica",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47687",
+    "name": "세열유럽쥐손이",
+    "scientificName": "Erodium cicutarium",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55876",
+    "name": "왜광대수염",
+    "scientificName": "Lamium album",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53294",
+    "name": "방가지똥",
+    "scientificName": "Sonchus oleraceus",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-51610",
+    "name": "Veronica chamaedrys",
+    "scientificName": "Veronica chamaedrys",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-56057",
+    "name": "불란서국화",
+    "scientificName": "Leucanthemum vulgare",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-914922",
+    "name": "호장근",
+    "scientificName": "Reynoutria japonica",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-52724",
+    "name": "쇠뜨기",
+    "scientificName": "Equisetum arvense",
+    "group": "식물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-69155",
+    "name": "Fucus distichus",
+    "scientificName": "Fucus distichus",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-68770",
+    "name": "Ascophyllum nodosum",
+    "scientificName": "Ascophyllum nodosum",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-67419",
+    "name": "Egregia menziesii",
+    "scientificName": "Egregia menziesii",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-120499",
+    "name": "Nereocystis luetkeana",
+    "scientificName": "Nereocystis luetkeana",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48216",
+    "name": "Fucus vesiculosus",
+    "scientificName": "Fucus vesiculosus",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-124748",
+    "name": "Macrocystis pyrifera",
+    "scientificName": "Macrocystis pyrifera",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130177",
+    "name": "경단구슬모자반",
+    "scientificName": "Sargassum muticum",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-57772",
+    "name": "Fucus serratus",
+    "scientificName": "Fucus serratus",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-126126",
+    "name": "Stephanocystis osmundacea",
+    "scientificName": "Stephanocystis osmundacea",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-129756",
+    "name": "Pelvetia canaliculata",
+    "scientificName": "Pelvetia canaliculata",
+    "group": "해조류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55576",
+    "name": "Xanthoria parietina",
+    "scientificName": "Xanthoria parietina",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54134",
+    "name": "구름버섯",
+    "scientificName": "Trametes versicolor",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48715",
+    "name": "광대버섯",
+    "scientificName": "Amanita muscaria",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-117943",
+    "name": "노란매화나무지의",
+    "scientificName": "Flavoparmelia caperata",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54573",
+    "name": "치마버섯",
+    "scientificName": "Schizophyllum commune",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-940028",
+    "name": "털구멍장이버섯",
+    "scientificName": "Cerioporus squamosus",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-47392",
+    "name": "먹물버섯",
+    "scientificName": "Coprinus comatus",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-54734",
+    "name": "Parmelia sulcata",
+    "scientificName": "Parmelia sulcata",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-775410",
+    "name": "Fomitopsis betulina",
+    "scientificName": "Fomitopsis betulina",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-53713",
+    "name": "덕다리버섯",
+    "scientificName": "Laetiporus sulphureus",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-130935",
+    "name": "Rhytisma acerinum",
+    "scientificName": "Rhytisma acerinum",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-123175",
+    "name": "진두발지의",
+    "scientificName": "Evernia prunastri",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-50813",
+    "name": "Auricularia auricula-judae",
+    "scientificName": "Auricularia auricula-judae",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55267",
+    "name": "콩꼬투리버섯",
+    "scientificName": "Xylaria hypoxylon",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48711",
+    "name": "Lobaria pulmonaria",
+    "scientificName": "Lobaria pulmonaria",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-632126",
+    "name": "연녹주황접시지의",
+    "scientificName": "Protoparmeliopsis muralis",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-48767",
+    "name": "노란다발",
+    "scientificName": "Hypholoma fasciculare",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-55501",
+    "name": "꽃구름버섯",
+    "scientificName": "Stereum hirsutum",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-877361",
+    "name": "Fomitopsis mounceae",
+    "scientificName": "Fomitopsis mounceae",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-1098280",
+    "name": "소나무잔나비버섯",
+    "scientificName": "Fomitopsis pinicola",
+    "group": "균류",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-319815",
+    "name": "Nostoc commune",
+    "scientificName": "Nostoc commune",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-975247",
+    "name": "Agrobacterium radiobacter",
+    "scientificName": "Agrobacterium radiobacter",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-337405",
+    "name": "Pseudomonas syringae",
+    "scientificName": "Pseudomonas syringae",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-773806",
+    "name": "Phytoplasma asteris",
+    "scientificName": "Phytoplasma asteris",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-479640",
+    "name": "Phytoplasma pini",
+    "scientificName": "Phytoplasma pini",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-700820",
+    "name": "Rivularia bullata",
+    "scientificName": "Rivularia bullata",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-955853",
+    "name": "Protea witches broom phytoplasma",
+    "scientificName": "Protea witches broom phytoplasma",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-900701",
+    "name": "Phytoplasma fraxini",
+    "scientificName": "Phytoplasma fraxini",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-958121",
+    "name": "Lonsdalea quercina",
+    "scientificName": "Lonsdalea quercina",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  },
+  {
+    "id": "inat-824650",
+    "name": "Frankia alni",
+    "scientificName": "Frankia alni",
+    "group": "현미경생물",
+    "populationStatus": "unresolved",
+    "population": null
+  }
+]

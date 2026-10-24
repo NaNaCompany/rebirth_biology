@@ -1,0 +1,1 @@
+{"name":"rebirth-biology","version":"1.0.0","private":true,"type":"module","scripts":{"research":"node scripts/research.mjs","build":"node scripts/build.mjs","dev":"node scripts/serve.mjs","test":"node --test"},"devDependencies":{"sharp":"^0.35.5"}}
