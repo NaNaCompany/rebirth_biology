@@ -1,3 +1,4 @@
+import {addMoreApps} from './more-apps.mjs';
 import fs from 'node:fs/promises';import path from 'node:path';import {spawnSync} from 'node:child_process';import {createHash} from 'node:crypto';import {completeTracking} from './publisher-tracking.mjs';
 const root=process.cwd(),base=(process.env.SITE_URL||'https://nanalab.kr/rebirth_biology').replace(/\/$/,'');
 function run(file,cwd,url){const r=spawnSync(process.execPath,[file],{cwd,env:{...process.env,SITE_URL:url},stdio:'inherit'});if(r.status!==0)throw Error('Build failed: '+file);}
@@ -13,7 +14,7 @@ const urls=[];async function walk(folder){for(const d of await fs.readdir(folder
 html=html.replace(/<nav class="language-links"[\s\S]*?<\/nav>/g,'').replace(/<link rel="alternate"[^>]+>/g,'');
 const nav='<nav class="language-links" aria-label="Language">'+links.map(([l,label])=>'<a data-language="'+l+'" href="'+base+'/'+l+'/" '+(l===locale?'aria-current="page"':'')+'>'+label+'</a>').join('<span>·</span>')+'</nav><div id="language-suggestion" class="language-suggestion" hidden></div>';
 if(!html.includes('<head>'))html=completeTracking(html);html=html.replace('</head>',languageStyle+links.map(([l])=>'<link rel="alternate" hreflang="'+(l==='zh'?'zh-CN':l)+'" href="'+base+'/'+l+'/">').join('')+'</head>');html=html.replace('<main',nav+'<main');if(!html.includes('id="language-suggestion"'))html=html.replace(/(<body[^>]*>)/,'$1'+nav);
-html=html.replace('</body>','<script type="module" src="'+base+'/'+widgetName+'" data-game="rebirth_biology" data-language="'+locale+'" data-base="'+base+'/"></script></body>');html=completeTracking(html);await fs.writeFile(file,html);
+html=html.replace('</body>','<script type="module" src="'+base+'/'+widgetName+'" data-game="rebirth_biology" data-language="'+locale+'" data-base="'+base+'/"></script></body>');html=addMoreApps(completeTracking(html));await fs.writeFile(file,html);
 urls.push(base+'/'+relative.replace(/index\.html$/,''));}}
 await walk(docs);await fs.writeFile(path.join(docs,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+[...new Set(urls)].map(url=>'<url><loc>'+url+'</loc></url>').join('')+'</urlset>');
 console.log('Built Korean legacy routes plus /ko /en /zh /es; sitemap URLs: '+urls.length);
