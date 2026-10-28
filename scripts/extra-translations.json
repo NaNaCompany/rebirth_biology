@@ -1,0 +1,2954 @@
+{
+  "ja": {
+    "replace": [
+      [
+        "Browser saving is blocked, so the count is only maintained in this tab.",
+        "ブラウザーへの保存が無効です。残り回数はこのタブ内でのみ保持されます。"
+      ],
+      [
+        "View my Life ID ↗",
+        "自分の生物登録証を見る ↗"
+      ],
+      [
+        "Discover my next life ↗",
+        "次の生物を抽選する ↗"
+      ],
+      [
+        "${state.remaining} retries left · share for +2",
+        "残り ${state.remaining} 回 · 共有で +2"
+      ],
+      [
+        "First draw free · 1 retry",
+        "初回無料 · 再試行 1 回"
+      ],
+      [
+        "Try again · ${state.remaining} left ↻",
+        "再試行 · 残り ${state.remaining} 回 ↻"
+      ],
+      [
+        "No retries left",
+        "再試行できる回数がありません"
+      ],
+      [
+        "Sharing bonus already claimed for this card",
+        "この登録証の共有特典は受取済みです"
+      ],
+      [
+        "One bonus per card · share request or copied link",
+        "登録証ごとに 1 回 · 共有画面の起動またはリンクのコピー"
+      ],
+      [
+        "Somewhere in Earth’s deep ocean",
+        "地球の深海のどこか"
+      ],
+      [
+        "Somewhere in Earth’s blue ocean",
+        "地球の青い海のどこか"
+      ],
+      [
+        "Somewhere deep underground",
+        "地中深くのどこか"
+      ],
+      [
+        "Somewhere in Earth’s soil",
+        "地球の土の中のどこか"
+      ],
+      [
+        "Somewhere green on Earth",
+        "地球の緑豊かな場所のどこか"
+      ],
+      [
+        "Somewhere here on Earth",
+        "この地球のどこか"
+      ],
+      [
+        "Somewhere alive on Earth",
+        "地球の生命が息づくどこか"
+      ],
+      [
+        "Against the odds, human again.",
+        "低い確率を経て、再び人間に。"
+      ],
+      [
+        "A slower, softer life this time.",
+        "今度は、ゆっくり過ごす暮らし。"
+      ],
+      [
+        "A new chapter, growing toward the sunlight.",
+        "光に向かって育つ、新しい暮らし。"
+      ],
+      [
+        "A small body can hold a whole world.",
+        "小さな体にも、一つの世界があります。"
+      ],
+      [
+        "Life carries on, even out of sight.",
+        "見えない場所でも、生命は続きます。"
+      ],
+      [
+        "Small worlds have big stories.",
+        "小さな世界にも、豊かな営みがあります。"
+      ],
+      [
+        "A new body. A new chapter.",
+        "新しい体で、新しい暮らし。"
+      ],
+      [
+        " · species result",
+        " · 種単位の結果"
+      ],
+      [
+        " · group result",
+        " · 集団単位の結果"
+      ],
+      [
+        " Representative group image",
+        " 集団の代表画像"
+      ],
+      [
+        "AI Generated concept illustration · Not an actual photo of a specific species.",
+        "AI 生成の概念イラスト · 特定の種を撮影した写真ではありません。"
+      ],
+      [
+        "Image of the species and virtual biological registration certificate",
+        "種の画像とゲーム用の架空の生物登録証"
+      ],
+      [
+        "Representative group image",
+        "集団の代表画像"
+      ],
+      [
+        " · not a species probability",
+        " · 特定の種の確率ではありません"
+      ],
+      [
+        "image: ",
+        "画像: "
+      ],
+      [
+        " · cropped and converted ",
+        " · トリミング・形式変換済み "
+      ],
+      [
+        "Original source ↗",
+        "原典 ↗"
+      ],
+      [
+        " · License ↗",
+        " · ライセンス ↗"
+      ],
+      [
+        "My next life: ${c.name} · Life ID",
+        "次の生物: ${c.name} · 生物登録証"
+      ],
+      [
+        "If you share your registration certificate, 2 replays will be added.",
+        "登録証の共有で、再試行が 2 回追加されます。"
+      ],
+      [
+        " — a new life begins?",
+        " — 次の生物は？"
+      ],
+      [
+        "What will you be reborn as? · Next Life Lab",
+        "生物転生ゲーム · 生物登録証"
+      ],
+      [
+        "Receive the bonus from your recently issued registration certificate.",
+        "最新の登録証から共有特典を受け取ってください。"
+      ],
+      [
+        "Share Bonus! 2 replays have been added.",
+        "共有特典として、再試行が 2 回追加されました。"
+      ],
+      [
+        "I have already received the sharing bonus for this registration certificate.",
+        "この登録証の共有特典はすでに受取済みです。"
+      ],
+      [
+        "Copying is blocked. Please copy the link in the address bar.",
+        "コピーがブロックされました。アドレスバーのリンクをコピーしてください。"
+      ],
+      [
+        "My next life: ${current.name}",
+        "次の生物: ${current.name}"
+      ],
+      [
+        "My next life is ${current.name}! Chance: ${percent(current.probability)}%. What will you be?",
+        "次の生物は ${current.name}！確率は ${percent(current.probability)}%。あなたは何になりますか？"
+      ],
+      [
+        "The sharing window could not be opened. Please use copy link below.",
+        "共有画面を開けませんでした。下のリンクコピーを使ってください。"
+      ],
+      [
+        "The sharing window cannot be opened in this browser. Please use copy link below.",
+        "このブラウザーでは共有画面を開けません。下のリンクコピーを使ってください。"
+      ],
+      [
+        "My next life: ${current.name}, a ${percent(current.probability)}% chance. What will you be?",
+        "次の生物は ${current.name}、確率は ${percent(current.probability)}%。あなたは何になりますか？"
+      ],
+      [
+        "The sharing window is blocked. Please use copy link.",
+        "共有画面がブロックされました。リンクコピーを使ってください。"
+      ],
+      [
+        "registration certificate JPG I started saving.",
+        "登録証 JPG の保存を開始しました。"
+      ],
+      [
+        "Data unavailable",
+        "データを取得できません"
+      ],
+      [
+        "Invalid category count",
+        "結果数が不正です"
+      ],
+      [
+        "Failed to load information",
+        "データを読み込めませんでした"
+      ],
+      [
+        "about ",
+        "約 "
+      ],
+      [
+        "Skip to content",
+        "本文へ移動"
+      ],
+      [
+        "Next Life Lab",
+        "生物転生ゲーム"
+      ],
+      [
+        "NEXT LIFE LAB",
+        "生物転生ゲーム"
+      ],
+      [
+        "How the draw works",
+        "抽選の仕組み"
+      ],
+      [
+        "A NEW LIFE, ON EARTH",
+        "地球の生物を抽選"
+      ],
+      [
+        "If you were reborn,<br>what <em>would you be?</em>",
+        "生まれ変わるなら、<br>どんな<em>生物？</em>"
+      ],
+      [
+        "Leave today behind for a moment.<br>Begin again as a new life on Earth.",
+        "炭素生物量を重みに、<br>72 種類の結果から抽選します。"
+      ],
+      [
+        "Loading life data",
+        "生物データを読込中"
+      ],
+      [
+        "Could not load the data.",
+        "データを読み込めませんでした。"
+      ],
+      [
+        "Reload",
+        "再読み込み"
+      ],
+      [
+        "Your chance of being human again:",
+        "人間になるゲーム内確率:"
+      ],
+      [
+        "Game odds weighted by global carbon biomass",
+        "世界の炭素生物量に基づくゲーム内確率"
+      ],
+      [
+        "YOUR NEXT CHAPTER",
+        "次の生物"
+      ],
+      [
+        "One way to planet Earth ↗",
+        "地球の生物登録証 ↗"
+      ],
+      [
+        "EARTH LIFE ID",
+        "地球生物登録証"
+      ],
+      [
+        "EARTH · LIFE ID",
+        "地球 · 生物登録証"
+      ],
+      [
+        "Ginkgo tree, representative of plant group",
+        "植物群の代表例、イチョウ"
+      ],
+      [
+        "Your next life",
+        "次の生物"
+      ],
+      [
+        ">Plants<",
+        ">植物<"
+      ],
+      [
+        "Classification",
+        "分類"
+      ],
+      [
+        "A life powered by sunlight",
+        "光を利用する生命"
+      ],
+      [
+        "New address",
+        "生息場所"
+      ],
+      [
+        "Chance of this life",
+        "この結果の確率"
+      ],
+      [
+        "Fictional ID · just for fun",
+        "ゲーム用の架空の登録証"
+      ],
+      [
+        "NEXT LIFE<br><b>REBORN</b><br>WELCOME TO EARTH",
+        "次の生物<br><b>抽選済み</b><br>地球の生命"
+      ],
+      [
+        "One portrait. A whole new life.",
+        "画像は生物や集団の代表例です。"
+      ],
+      [
+        "72 POSSIBLE NEXT LIVES",
+        "72 種類の生物の結果"
+      ],
+      [
+        "A deer. A bacterium. Anything.",
+        "シカ、細菌、植物など。"
+      ],
+      [
+        "Every life, big or small,<br>has a next chapter.",
+        "大きな生物も小さな生物も、<br>炭素生物量を基準に抽選。"
+      ],
+      [
+        "01 / Biomass-weighted draw",
+        "01 / 生物量による重み付き抽選"
+      ],
+      [
+        "02 / Your own Life ID",
+        "02 / 自分の生物登録証"
+      ],
+      [
+        "03 / Share your next life",
+        "03 / 次の生物を共有"
+      ],
+      [
+        "FINDING YOUR NEXT LIFE",
+        "次の生物を抽選中"
+      ],
+      [
+        "Earth is finding your next place",
+        "次の生息場所を抽選しています"
+      ],
+      [
+        "A new life is on its way.",
+        "生物の結果を準備しています。"
+      ],
+      [
+        "YOUR NEXT LIFE IS HERE",
+        "次の生物の結果"
+      ],
+      [
+        "Your next life is…",
+        "次の生物は…"
+      ],
+      [
+        "Game odds based on carbon biomass, not actual birth or rebirth probabilities.",
+        "炭素生物量に基づくゲーム内確率です。実際の出生や転生の確率ではありません。"
+      ],
+      [
+        "ONE EARTH, MANY LIVES",
+        "地球のさまざまな生物"
+      ],
+      [
+        "Tell your friends<br> about your new identity.",
+        "生物登録証を<br>友達と共有。"
+      ],
+      [
+        "What will your friends be reborn as?<br>Share your ID and compare your next lives.",
+        "友達の結果は何でしょう？<br>登録証を共有して比べられます。"
+      ],
+      [
+        "Share my Life ID",
+        "生物登録証を共有"
+      ],
+      [
+        "Copy link ↗",
+        "リンクをコピー ↗"
+      ],
+      [
+        "Save ID as JPG ↓",
+        "登録証を JPG で保存 ↓"
+      ],
+      [
+        "Try another life ↻",
+        "別の生物を抽選 ↻"
+      ],
+      [
+        "Try again without this result ↻",
+        "この結果を除いて再抽選 ↻"
+      ],
+      [
+        "Uses 1 retry. Excludes this result and keeps all other relative weights.<br>ID odds use the full biomass pool, before exclusions.",
+        "再試行を 1 回使います。この結果を除き、残りの相対的な重みを保ちます。<br>登録証の確率は、除外前の全体を基準に表示します。"
+      ],
+      [
+        "Back to start",
+        "最初の画面へ"
+      ],
+      [
+        "Whatever life you begin,<br><strong>this chapter is yours.</strong>",
+        "結果はゲーム内の抽選です。<br><strong>実際の運命を示すものではありません。</strong>"
+      ],
+      [
+        "Material information",
+        "資料について"
+      ],
+      [
+        "Data sources",
+        "データの出典"
+      ],
+      [
+        "Open-source notices",
+        "オープンソース表記"
+      ],
+      [
+        "AN EXPERIMENT IN POSSIBILITY · NANA LAB",
+        "炭素生物量に基づく抽選ゲーム"
+      ],
+      [
+        "Close",
+        "閉じる"
+      ],
+      [
+        "BEHIND THE CHANCE",
+        "確率の仕組み"
+      ],
+      [
+        "Weighted by life on Earth.",
+        "地球の生物量で重み付け。"
+      ],
+      [
+        "The draw weights Earth’s life forms by their <strong>carbon biomass</strong>. It does not use individual counts or real birth probabilities.",
+        "地球の生物の<strong>炭素生物量</strong>を重みに抽選します。個体数や実際の出生確率は使いません。"
+      ],
+      [
+        "The 72 outcomes use group carbon estimates from the 2018 study. Within wild land mammals, 2023 species wet-mass shares provide an approximate split. Source uncertainty and differences in study coverage remain.",
+        "72 種類の結果は、2018 年の研究による集団別の炭素量推計を使います。野生陸生哺乳類の内訳は、2023 年の種別湿重量比による概算です。出典の不確実性や調査範囲の違いが残ります。"
+      ],
+      [
+        "Group images are representative examples. The pictured species does not inherit the probability of the entire group.",
+        "集団の画像は代表例です。写っている種が集団全体の確率を持つわけではありません。"
+      ],
+      [
+        "The first draw is free, with 1 retry. Each new ID can earn one sharing bonus of 2 retries. Bonuses count an opened share request or a copied link, not confirmed delivery. Credits are saved in this browser.",
+        "初回は無料で、再試行は 1 回です。新しい登録証ごとに、共有特典として再試行を 2 回、1 度だけ追加できます。特典は共有画面の起動またはリンクのコピーで付与され、送信完了の確認ではありません。回数はこのブラウザーに保存されます。"
+      ],
+      [
+        "Got it ↗",
+        "確認しました ↗"
+      ],
+      [
+        "DATA SOURCES",
+        "データの出典"
+      ],
+      [
+        "Author data",
+        "著者公開データ"
+      ],
+      [
+        "Public author dataset",
+        "著者公開データセット"
+      ],
+      [
+        ". Used for relative shares within land mammals.",
+        "。陸生哺乳類内の相対比に使用。"
+      ],
+      [
+        "Viruses excluded. Plants remain one group. Weights and splitting method:",
+        "ウイルスは対象外です。植物は一つの集団とします。重みと分割方法:"
+      ],
+      [
+        "Methodology",
+        "算定方法"
+      ],
+      [
+        "Image sources, creators, licenses and changes:",
+        "画像の出典・作者・ライセンス・変更点:"
+      ],
+      [
+        "Credits for all 72 images",
+        "全 72 画像のクレジット"
+      ],
+      [
+        ". 50 CC0/public-domain images, 20 CC BY images and 2 AI concept illustrations.",
+        "。CC0／パブリックドメイン画像 50 点、CC BY 画像 20 点、AI 概念イラスト 2 点。"
+      ],
+      [
+        "OPEN SOURCE",
+        "オープンソース"
+      ],
+      [
+        "sharp — build tool for cropping and JPG generation.",
+        "sharp — トリミングと JPG 生成に使うビルドツール。"
+      ],
+      [
+        "Biomass author data and code —",
+        "生物量の著者データとコード —"
+      ],
+      [
+        "Each photo and illustration keeps its original license.",
+        "写真・イラストは、それぞれ元のライセンスを保持します。"
+      ],
+      [
+        "Image credits and licenses",
+        "画像のクレジットとライセンス"
+      ],
+      [
+        "${c.name}: ${percent(c.probability)}% in our carbon-biomass draw. Discover your own next life.",
+        "${c.name}: 炭素生物量に基づく抽選で ${percent(c.probability)}%。自分の次の生物を抽選できます。"
+      ],
+      [
+        "72 possible next lives, weighted by Earth’s carbon biomass. About a 0.01% chance of being human again.",
+        "地球の炭素生物量で重み付けした 72 種類の結果。人間になるゲーム内確率は約 0.01%。"
+      ],
+      [
+        "your next life",
+        "次の生物"
+      ],
+      [
+        "human probability approx. 0.01%",
+        "人間の確率 約 0.01%"
+      ],
+      [
+        " · cropped; converted to JPG",
+        " · トリミング・JPG 変換済み"
+      ],
+      [
+        "OpenAI image generation · AI Generation concept illustration",
+        "OpenAI image generation · AI 生成の概念イラスト"
+      ],
+      [
+        "A game that imagines all life on Earth",
+        "地球の生物を抽選するゲーム"
+      ],
+      [
+        "Somewhere on the planet Earth is alive and breathing",
+        "地球の生命が息づくどこか"
+      ],
+      [
+        "To be born again as a human?",
+        "再び人間になる確率は？"
+      ],
+      [
+        ">NEXT LIFE<",
+        ">次の生物<"
+      ],
+      [
+        ">REBORN<",
+        ">抽選済み<"
+      ],
+      [
+        ">WELCOME TO EARTH<",
+        ">地球の生命<"
+      ],
+      [
+        "Carbon Biomass Based Gaming Odds · Virtual Registration Certificate for Gaming",
+        "炭素生物量に基づくゲーム内確率 · ゲーム用の架空の登録証"
+      ],
+      [
+        " · AI concept illustration",
+        " · AI 概念イラスト"
+      ],
+      [
+        " · Group representative image",
+        " · 集団の代表画像"
+      ],
+      [
+        "← to main",
+        "← メインへ"
+      ],
+      [
+        "All 72 final images are 300×300 JPG files. Images were cropped, resized and converted. CC BY reuse requires the creator, source, license and modification notice below.",
+        "全 72 点の最終画像は 300×300 の JPG です。トリミング、サイズ変更、形式変換を行いました。CC BY 画像の再利用には、下記の作者・出典・ライセンス・変更通知の表示が必要です。"
+      ],
+      [
+        "Source page",
+        "出典ページ"
+      ],
+      [
+        "Original image",
+        "元の画像"
+      ],
+      [
+        "\"license\":\"License\"",
+        "\"license\":\"ライセンス\""
+      ],
+      [
+        "AI-generated concept illustration by OpenAI. No third-party stock source. Not a photo or an exact anatomical reference.",
+        "OpenAI による AI 生成の概念イラストです。第三者の素材画像は使用していません。写真や正確な解剖学的資料ではありません。"
+      ],
+      [
+        "Image of the named species.",
+        "該当する種の画像です。"
+      ],
+      [
+        "Representative group image. The pictured species does not receive the probability of the whole group.",
+        "集団の代表画像です。写っている種に集団全体の確率が与えられるわけではありません。"
+      ],
+      [
+        "Probability methodology",
+        "確率の算定方法"
+      ],
+      [
+        "No eligible categories",
+        "抽選対象の生物がありません"
+      ],
+      [
+        "Invalid categories",
+        "生物データが不正です"
+      ],
+      [
+        "300×300 attention crop, EXIF rotation, JPEG conversion",
+        "300×300 の注目領域トリミング、EXIF 回転、JPEG 変換"
+      ],
+      [
+        "300×300 attention crop, JPEG conversion",
+        "300×300 の注目領域トリミング、JPEG 変換"
+      ],
+      [
+        "300×300 center crop, JPEG conversion",
+        "中央を 300×300 にトリミング、JPEG 変換"
+      ],
+      [
+        "Selected microscopy panel, cropped and resized to 300×300 JPEG",
+        "選択した顕微鏡画像パネルをトリミングし、300×300 の JPEG に変更"
+      ],
+      [
+        "SPECIMEN",
+        "標本"
+      ],
+      [
+        "NEXT LIFE",
+        "次の生物"
+      ],
+      [
+        "carbon biomass",
+        "炭素生物量"
+      ]
+    ],
+    "names": [
+      "地中深部の細菌",
+      "海洋細菌",
+      "土壌細菌",
+      "深海底の細菌",
+      "地中の古細菌",
+      "海洋古細菌",
+      "土壌古細菌",
+      "海底の古細菌",
+      "陸生菌類",
+      "海洋菌類",
+      "環形動物",
+      "陸生節足動物",
+      "ナンキョクオキアミ",
+      "その他の海洋節足動物",
+      "刺胞動物",
+      "軟体動物",
+      "土壌線虫",
+      "海洋線虫",
+      "魚類",
+      "家畜の哺乳類",
+      "ヒト",
+      "野鳥",
+      "オジロジカ",
+      "イノシシ",
+      "サバンナゾウ",
+      "オオカンガルー",
+      "ミュールジカ",
+      "ヘラジカ",
+      "アカシカ",
+      "ヨーロッパノロジカ",
+      "アカカンガルー",
+      "イボイノシシ",
+      "マルミミゾウ",
+      "カピバラ",
+      "アフリカスイギュウ",
+      "トナカイ",
+      "ワピチ",
+      "オグロヌー",
+      "ツチブタ",
+      "ストローオオコウモリ",
+      "アライグマ",
+      "モリイノシシ",
+      "グアナコ",
+      "サバンナシマウマ",
+      "カバ",
+      "アカカワイノシシ",
+      "インパラ",
+      "アジアゾウ",
+      "ボホールリードバック",
+      "クロカンガルー",
+      "クビワペッカリー",
+      "ダマジカ",
+      "アメリカビーバー",
+      "ケナガワラルー",
+      "アカブロケット",
+      "カワイノシシ",
+      "アヌビスヒヒ",
+      "タテガミヤマアラシ",
+      "グレータークーズー",
+      "アメリカクロクマ",
+      "アカワラルー",
+      "ミズオポッサム",
+      "その他の野生陸生哺乳類",
+      "野生海洋哺乳類",
+      "ピコ・ナノプランクトン原生生物",
+      "微小動物プランクトン原生生物",
+      "珪藻",
+      "フェオキスティス",
+      "リザリア",
+      "粒子付着性原生生物",
+      "陸生原生生物",
+      "植物"
+    ],
+    "descriptions": [],
+    "groups": {
+      "Bacteria": "細菌",
+      "Archaea": "古細菌",
+      "Fungi": "菌類",
+      "Protists": "原生生物",
+      "Animals": "動物",
+      "Plants": "植物"
+    },
+    "method": "# 炭素生物量に基づく抽選方法\n\nこれは推計炭素生物量を使うゲームであり、個体数や実際の出生確率を使うものではありません。結果は重複しない 72 区分です。植物は一つの集団とし、ウイルスは除外しています。\n\n上位集団の重みは、著者による 2018 年の丸め前の炭素量推計を使います。合計は 549.0807681063422 Gt C、うち人間は 0.05537256615 Gt C です。人間のゲーム内確率は約 0.0100846%、約 9,916 分の 1 です。桁数は計算の再現性のためであり、生態学的にその精度があるという意味ではありません。\n\n野生陸生哺乳類は、2018 年の上位集団の総量を保ちつつ、2023 年の種別湿重量比で 40 種と残余集団に分けています。この混合モデルでは、分割内の炭素量と湿重量の比が等しいと仮定しています。あくまで近似です。海洋原生生物やオキアミの細分も、それぞれの上位集団の総量を保ちます。科学的な不確実性と調査範囲の限界が残ります。\n\n集団の写真は代表例を示し、写っている種そのものの確率を表しません。CC0／パブリックドメイン画像が 50 点、CC BY 画像が 20 点、AI 概念イラストが 2 点あります。クレジット、ライセンス URL、トリミング通知は結果画面と共有画像に保持されます。\n\n出典:\n- Bar-On, Phillips & Milo (2018): https://doi.org/10.1073/pnas.1711842115\n- 著者データと MIT ライセンス: https://github.com/milo-lab/biomass_distribution\n- Greenspoon et al. (2023): https://doi.org/10.1073/pnas.2204892120\n- 哺乳類の著者データ: https://zenodo.org/records/7594807\n\n抽選の重みは韓国語版と同じです。現在の結果を除外した場合、残りの重みを再正規化します。登録証と OG 画像には、除外前の全体に対する元の確率を表示します。\n",
+    "modification": {
+      "300×300 attention crop, EXIF rotation, JPEG conversion": "300×300 の注目領域トリミング、EXIF 回転、JPEG 変換",
+      "300×300 attention crop, JPEG conversion": "300×300 の注目領域トリミング、JPEG 変換",
+      "300×300 center crop, JPEG conversion": "中央を 300×300 にトリミング、JPEG 変換",
+      "Selected microscopy panel, cropped and resized to 300×300 JPEG": "選択した顕微鏡画像パネルをトリミングし、300×300 の JPEG に変更"
+    }
+  },
+  "de": {
+    "replace": [
+      [
+        "Browser saving is blocked, so the count is only maintained in this tab.",
+        "Das Speichern im Browser ist blockiert. Die Anzahl bleibt nur in diesem Tab erhalten."
+      ],
+      [
+        "View my Life ID ↗",
+        "Meinen Lebensausweis ansehen ↗"
+      ],
+      [
+        "Discover my next life ↗",
+        "Mein nächstes Leben ziehen ↗"
+      ],
+      [
+        "${state.remaining} retries left · share for +2",
+        "Noch ${state.remaining} Versuche · Teilen gibt +2"
+      ],
+      [
+        "First draw free · 1 retry",
+        "Erste Ziehung kostenlos · 1 weiterer Versuch"
+      ],
+      [
+        "Try again · ${state.remaining} left ↻",
+        "Erneut ziehen · noch ${state.remaining} ↻"
+      ],
+      [
+        "No retries left",
+        "Keine Versuche mehr"
+      ],
+      [
+        "Sharing bonus already claimed for this card",
+        "Teilbonus für diesen Ausweis bereits erhalten"
+      ],
+      [
+        "One bonus per card · share request or copied link",
+        "Ein Bonus je Ausweis · Teilanfrage oder kopierter Link"
+      ],
+      [
+        "Somewhere in Earth’s deep ocean",
+        "Irgendwo in der Tiefsee"
+      ],
+      [
+        "Somewhere in Earth’s blue ocean",
+        "Irgendwo im blauen Ozean"
+      ],
+      [
+        "Somewhere deep underground",
+        "Irgendwo tief unter der Erde"
+      ],
+      [
+        "Somewhere in Earth’s soil",
+        "Irgendwo im Erdboden"
+      ],
+      [
+        "Somewhere green on Earth",
+        "Irgendwo im Grünen auf der Erde"
+      ],
+      [
+        "Somewhere here on Earth",
+        "Irgendwo hier auf der Erde"
+      ],
+      [
+        "Somewhere alive on Earth",
+        "Irgendwo auf der belebten Erde"
+      ],
+      [
+        "Against the odds, human again.",
+        "Trotz geringer Chancen wieder ein Mensch."
+      ],
+      [
+        "A slower, softer life this time.",
+        "Diesmal ein ruhigeres Leben."
+      ],
+      [
+        "A new chapter, growing toward the sunlight.",
+        "Ein neues Leben, das zum Sonnenlicht wächst."
+      ],
+      [
+        "A small body can hold a whole world.",
+        "Auch ein kleiner Körper birgt eine ganze Welt."
+      ],
+      [
+        "Life carries on, even out of sight.",
+        "Das Leben geht auch im Verborgenen weiter."
+      ],
+      [
+        "Small worlds have big stories.",
+        "Kleine Welten haben große Geschichten."
+      ],
+      [
+        "A new body. A new chapter.",
+        "Ein neuer Körper. Ein neues Leben."
+      ],
+      [
+        " · species result",
+        " · Ergebnis auf Artebene"
+      ],
+      [
+        " · group result",
+        " · Ergebnis auf Gruppenebene"
+      ],
+      [
+        " Representative group image",
+        " Repräsentatives Gruppenbild"
+      ],
+      [
+        "AI Generated concept illustration · Not an actual photo of a specific species.",
+        "KI-generierte Konzeptillustration · Kein echtes Foto einer bestimmten Art."
+      ],
+      [
+        "Image of the species and virtual biological registration certificate",
+        "Bild der Art und fiktiver biologischer Spielausweis"
+      ],
+      [
+        "Representative group image",
+        "Repräsentatives Gruppenbild"
+      ],
+      [
+        " · not a species probability",
+        " · keine Wahrscheinlichkeit für die einzelne Art"
+      ],
+      [
+        "image: ",
+        "Bild: "
+      ],
+      [
+        " · cropped and converted ",
+        " · zugeschnitten und konvertiert "
+      ],
+      [
+        "Original source ↗",
+        "Originalquelle ↗"
+      ],
+      [
+        " · License ↗",
+        " · Lizenz ↗"
+      ],
+      [
+        "My next life: ${c.name} · Life ID",
+        "Mein nächstes Leben: ${c.name} · Lebensausweis"
+      ],
+      [
+        "If you share your registration certificate, 2 replays will be added.",
+        "Wenn du deinen Ausweis teilst, erhältst du 2 weitere Versuche."
+      ],
+      [
+        " — a new life begins?",
+        " — beginnt ein neues Leben?"
+      ],
+      [
+        "What will you be reborn as? · Next Life Lab",
+        "Als welches Lebewesen wirst du wiedergeboren? · Lebensausweis"
+      ],
+      [
+        "Receive the bonus from your recently issued registration certificate.",
+        "Hole den Bonus über deinen zuletzt ausgestellten Ausweis."
+      ],
+      [
+        "Share Bonus! 2 replays have been added.",
+        "Teilbonus: 2 weitere Versuche wurden hinzugefügt."
+      ],
+      [
+        "I have already received the sharing bonus for this registration certificate.",
+        "Der Teilbonus für diesen Ausweis wurde bereits erhalten."
+      ],
+      [
+        "Copying is blocked. Please copy the link in the address bar.",
+        "Kopieren ist blockiert. Kopiere den Link aus der Adresszeile."
+      ],
+      [
+        "My next life: ${current.name}",
+        "Mein nächstes Leben: ${current.name}"
+      ],
+      [
+        "My next life is ${current.name}! Chance: ${percent(current.probability)}%. What will you be?",
+        "Mein nächstes Leben ist ${current.name}! Chance: ${percent(current.probability)} %. Was wirst du?"
+      ],
+      [
+        "The sharing window could not be opened. Please use copy link below.",
+        "Das Teilen-Fenster konnte nicht geöffnet werden. Nutze unten „Link kopieren“."
+      ],
+      [
+        "The sharing window cannot be opened in this browser. Please use copy link below.",
+        "Dieser Browser kann das Teilen-Fenster nicht öffnen. Nutze unten „Link kopieren“."
+      ],
+      [
+        "My next life: ${current.name}, a ${percent(current.probability)}% chance. What will you be?",
+        "Mein nächstes Leben: ${current.name}, Chance ${percent(current.probability)} %. Was wirst du?"
+      ],
+      [
+        "The sharing window is blocked. Please use copy link.",
+        "Das Teilen-Fenster ist blockiert. Nutze „Link kopieren“."
+      ],
+      [
+        "registration certificate JPG I started saving.",
+        "Speichern des Ausweises als JPG gestartet."
+      ],
+      [
+        "Data unavailable",
+        "Daten nicht verfügbar"
+      ],
+      [
+        "Invalid category count",
+        "Ungültige Anzahl an Ergebnissen"
+      ],
+      [
+        "Failed to load information",
+        "Informationen konnten nicht geladen werden"
+      ],
+      [
+        "about ",
+        "etwa "
+      ],
+      [
+        "Skip to content",
+        "Zum Inhalt"
+      ],
+      [
+        "Next Life Lab",
+        "Lebewesen-Ziehung"
+      ],
+      [
+        "NEXT LIFE LAB",
+        "LEBEWESEN-ZIEHUNG"
+      ],
+      [
+        "How the draw works",
+        "So funktioniert die Ziehung"
+      ],
+      [
+        "A NEW LIFE, ON EARTH",
+        "EIN LEBEWESEN AUF DER ERDE ZIEHEN"
+      ],
+      [
+        "If you were reborn,<br>what <em>would you be?</em>",
+        "Als welches <em>Lebewesen</em><br>würdest du wiedergeboren?"
+      ],
+      [
+        "Leave today behind for a moment.<br>Begin again as a new life on Earth.",
+        "Ziehe aus 72 Ergebnissen,<br>gewichtet nach Kohlenstoffbiomasse."
+      ],
+      [
+        "Loading life data",
+        "Lebensdaten werden geladen"
+      ],
+      [
+        "Could not load the data.",
+        "Die Daten konnten nicht geladen werden."
+      ],
+      [
+        "Reload",
+        "Neu laden"
+      ],
+      [
+        "Your chance of being human again:",
+        "Spielchance, wieder ein Mensch zu sein:"
+      ],
+      [
+        "Game odds weighted by global carbon biomass",
+        "Spielchancen nach globaler Kohlenstoffbiomasse"
+      ],
+      [
+        "YOUR NEXT CHAPTER",
+        "DEIN NÄCHSTES LEBEN"
+      ],
+      [
+        "One way to planet Earth ↗",
+        "Lebensausweis für die Erde ↗"
+      ],
+      [
+        "EARTH LIFE ID",
+        "LEBENSAUSWEIS ERDE"
+      ],
+      [
+        "EARTH · LIFE ID",
+        "ERDE · LEBENSAUSWEIS"
+      ],
+      [
+        "Ginkgo tree, representative of plant group",
+        "Ginkgobaum als Beispiel der Pflanzengruppe"
+      ],
+      [
+        "Your next life",
+        "Dein nächstes Leben"
+      ],
+      [
+        ">Plants<",
+        ">Pflanzen<"
+      ],
+      [
+        "Classification",
+        "Einordnung"
+      ],
+      [
+        "A life powered by sunlight",
+        "Ein Leben mit Sonnenlicht"
+      ],
+      [
+        "New address",
+        "Neuer Lebensort"
+      ],
+      [
+        "Chance of this life",
+        "Chance auf dieses Leben"
+      ],
+      [
+        "Fictional ID · just for fun",
+        "Fiktiver Ausweis · nur zum Spielen"
+      ],
+      [
+        "NEXT LIFE<br><b>REBORN</b><br>WELCOME TO EARTH",
+        "NÄCHSTES LEBEN<br><b>GEZOGEN</b><br>LEBEN AUF DER ERDE"
+      ],
+      [
+        "One portrait. A whole new life.",
+        "Das Bild zeigt eine Art oder ein Gruppenbeispiel."
+      ],
+      [
+        "72 POSSIBLE NEXT LIVES",
+        "72 MÖGLICHE LEBENSERGEBNISSE"
+      ],
+      [
+        "A deer. A bacterium. Anything.",
+        "Ein Hirsch. Ein Bakterium. Eine Pflanze."
+      ],
+      [
+        "Every life, big or small,<br>has a next chapter.",
+        "Große und kleine Lebewesen,<br>gewichtet nach Kohlenstoffbiomasse."
+      ],
+      [
+        "01 / Biomass-weighted draw",
+        "01 / Nach Biomasse gewichtete Ziehung"
+      ],
+      [
+        "02 / Your own Life ID",
+        "02 / Dein Lebensausweis"
+      ],
+      [
+        "03 / Share your next life",
+        "03 / Dein nächstes Leben teilen"
+      ],
+      [
+        "FINDING YOUR NEXT LIFE",
+        "DEIN NÄCHSTES LEBEN WIRD GEZOGEN"
+      ],
+      [
+        "Earth is finding your next place",
+        "Dein nächster Lebensort wird gezogen"
+      ],
+      [
+        "A new life is on its way.",
+        "Ein neues Leben wird vorbereitet."
+      ],
+      [
+        "YOUR NEXT LIFE IS HERE",
+        "DEIN NÄCHSTES LEBEN"
+      ],
+      [
+        "Your next life is…",
+        "Dein nächstes Leben ist …"
+      ],
+      [
+        "Game odds based on carbon biomass, not actual birth or rebirth probabilities.",
+        "Spielchancen auf Basis der Kohlenstoffbiomasse, keine tatsächlichen Geburts- oder Wiedergeburtswahrscheinlichkeiten."
+      ],
+      [
+        "ONE EARTH, MANY LIVES",
+        "VIELE LEBEWESEN AUF EINER ERDE"
+      ],
+      [
+        "Tell your friends<br> about your new identity.",
+        "Teile deinen Lebensausweis<br>mit Freunden."
+      ],
+      [
+        "What will your friends be reborn as?<br>Share your ID and compare your next lives.",
+        "Was ziehen deine Freunde?<br>Teilt eure Ausweise und vergleicht die Ergebnisse."
+      ],
+      [
+        "Share my Life ID",
+        "Meinen Lebensausweis teilen"
+      ],
+      [
+        "Copy link ↗",
+        "Link kopieren ↗"
+      ],
+      [
+        "Save ID as JPG ↓",
+        "Ausweis als JPG speichern ↓"
+      ],
+      [
+        "Try another life ↻",
+        "Ein anderes Leben ziehen ↻"
+      ],
+      [
+        "Try again without this result ↻",
+        "Ohne dieses Ergebnis erneut ziehen ↻"
+      ],
+      [
+        "Uses 1 retry. Excludes this result and keeps all other relative weights.<br>ID odds use the full biomass pool, before exclusions.",
+        "Verbraucht 1 Versuch. Dieses Ergebnis wird ausgeschlossen, alle anderen relativen Gewichte bleiben erhalten.<br>Der Ausweis zeigt die ursprüngliche Wahrscheinlichkeit vor Ausschlüssen."
+      ],
+      [
+        "Back to start",
+        "Zur Startseite"
+      ],
+      [
+        "Whatever life you begin,<br><strong>this chapter is yours.</strong>",
+        "Das Ergebnis stammt aus einer Spielziehung.<br><strong>Es sagt kein tatsächliches Schicksal voraus.</strong>"
+      ],
+      [
+        "Material information",
+        "Materialinformationen"
+      ],
+      [
+        "Data sources",
+        "Datenquellen"
+      ],
+      [
+        "Open-source notices",
+        "Open-Source-Hinweise"
+      ],
+      [
+        "AN EXPERIMENT IN POSSIBILITY · NANA LAB",
+        "ZIEHSPIEL NACH KOHLENSTOFFBIOMASSE"
+      ],
+      [
+        "Close",
+        "Schließen"
+      ],
+      [
+        "BEHIND THE CHANCE",
+        "HINTER DEN WAHRSCHEINLICHKEITEN"
+      ],
+      [
+        "Weighted by life on Earth.",
+        "Nach Biomasse auf der Erde gewichtet."
+      ],
+      [
+        "The draw weights Earth’s life forms by their <strong>carbon biomass</strong>. It does not use individual counts or real birth probabilities.",
+        "Die Ziehung gewichtet Lebewesen nach ihrer <strong>Kohlenstoffbiomasse</strong>. Individuenzahlen oder tatsächliche Geburtswahrscheinlichkeiten werden nicht verwendet."
+      ],
+      [
+        "The 72 outcomes use group carbon estimates from the 2018 study. Within wild land mammals, 2023 species wet-mass shares provide an approximate split. Source uncertainty and differences in study coverage remain.",
+        "Die 72 Ergebnisse verwenden Kohlenstoffschätzungen für Gruppen aus der Studie von 2018. Wilde Landsäugetiere werden näherungsweise nach den Nassmasseanteilen der Arten von 2023 aufgeteilt. Quellenunsicherheit und unterschiedliche Studienabdeckung bleiben bestehen."
+      ],
+      [
+        "Group images are representative examples. The pictured species does not inherit the probability of the entire group.",
+        "Gruppenbilder zeigen Beispiele. Die abgebildete Art erhält nicht die Wahrscheinlichkeit der gesamten Gruppe."
+      ],
+      [
+        "The first draw is free, with 1 retry. Each new ID can earn one sharing bonus of 2 retries. Bonuses count an opened share request or a copied link, not confirmed delivery. Credits are saved in this browser.",
+        "Die erste Ziehung ist kostenlos, mit 1 weiterem Versuch. Jeder neue Ausweis kann einmal einen Teilbonus von 2 Versuchen erhalten. Eine geöffnete Teilanfrage oder ein kopierter Link zählt; der tatsächliche Versand wird nicht bestätigt. Das Guthaben wird in diesem Browser gespeichert."
+      ],
+      [
+        "Got it ↗",
+        "Verstanden ↗"
+      ],
+      [
+        "DATA SOURCES",
+        "DATENQUELLEN"
+      ],
+      [
+        "Author data",
+        "Autorendaten"
+      ],
+      [
+        "Public author dataset",
+        "Öffentlicher Datensatz der Autoren"
+      ],
+      [
+        ". Used for relative shares within land mammals.",
+        ". Für relative Anteile innerhalb der Landsäugetiere verwendet."
+      ],
+      [
+        "Viruses excluded. Plants remain one group. Weights and splitting method:",
+        "Viren sind ausgeschlossen. Pflanzen bleiben eine Gruppe. Gewichte und Aufteilung:"
+      ],
+      [
+        "Methodology",
+        "Methodik"
+      ],
+      [
+        "Image sources, creators, licenses and changes:",
+        "Bildquellen, Urheber, Lizenzen und Änderungen:"
+      ],
+      [
+        "Credits for all 72 images",
+        "Quellennachweise aller 72 Bilder"
+      ],
+      [
+        ". 50 CC0/public-domain images, 20 CC BY images and 2 AI concept illustrations.",
+        ". 50 CC0-/gemeinfreie Bilder, 20 CC-BY-Bilder und 2 KI-Konzeptillustrationen."
+      ],
+      [
+        "OPEN SOURCE",
+        "OPEN SOURCE"
+      ],
+      [
+        "sharp — build tool for cropping and JPG generation.",
+        "sharp — Build-Werkzeug für Zuschnitt und JPG-Erstellung."
+      ],
+      [
+        "Biomass author data and code —",
+        "Biomasse-Autorendaten und Code —"
+      ],
+      [
+        "Each photo and illustration keeps its original license.",
+        "Jedes Foto und jede Illustration behält die ursprüngliche Lizenz."
+      ],
+      [
+        "Image credits and licenses",
+        "Bildnachweise und Lizenzen"
+      ],
+      [
+        "${c.name}: ${percent(c.probability)}% in our carbon-biomass draw. Discover your own next life.",
+        "${c.name}: ${percent(c.probability)} % in unserer Kohlenstoffbiomasse-Ziehung. Ziehe dein eigenes nächstes Leben."
+      ],
+      [
+        "72 possible next lives, weighted by Earth’s carbon biomass. About a 0.01% chance of being human again.",
+        "72 mögliche Leben, gewichtet nach der Kohlenstoffbiomasse der Erde. Etwa 0,01 % Spielchance, wieder Mensch zu sein."
+      ],
+      [
+        "your next life",
+        "dein nächstes Leben"
+      ],
+      [
+        "human probability approx. 0.01%",
+        "Mensch: etwa 0,01 %"
+      ],
+      [
+        " · cropped; converted to JPG",
+        " · zugeschnitten; in JPG konvertiert"
+      ],
+      [
+        "OpenAI image generation · AI Generation concept illustration",
+        "OpenAI image generation · KI-generierte Konzeptillustration"
+      ],
+      [
+        "A game that imagines all life on Earth",
+        "Ein Spiel mit Lebewesen der Erde"
+      ],
+      [
+        "Somewhere on the planet Earth is alive and breathing",
+        "Irgendwo auf der belebten Erde"
+      ],
+      [
+        "To be born again as a human?",
+        "Wieder als Mensch geboren werden?"
+      ],
+      [
+        ">NEXT LIFE<",
+        ">NÄCHSTES LEBEN<"
+      ],
+      [
+        ">REBORN<",
+        ">GEZOGEN<"
+      ],
+      [
+        ">WELCOME TO EARTH<",
+        ">LEBEN AUF DER ERDE<"
+      ],
+      [
+        "Carbon Biomass Based Gaming Odds · Virtual Registration Certificate for Gaming",
+        "Spielchancen nach Kohlenstoffbiomasse · Fiktiver Spielausweis"
+      ],
+      [
+        " · AI concept illustration",
+        " · KI-Konzeptillustration"
+      ],
+      [
+        " · Group representative image",
+        " · repräsentatives Gruppenbild"
+      ],
+      [
+        "← to main",
+        "← Zur Hauptseite"
+      ],
+      [
+        "All 72 final images are 300×300 JPG files. Images were cropped, resized and converted. CC BY reuse requires the creator, source, license and modification notice below.",
+        "Alle 72 endgültigen Bilder sind JPG-Dateien mit 300×300 Pixeln. Sie wurden zugeschnitten, skaliert und konvertiert. Bei CC-BY-Wiederverwendung sind die unten genannten Urheber, Quellen, Lizenzen und Änderungshinweise erforderlich."
+      ],
+      [
+        "Source page",
+        "Quellenseite"
+      ],
+      [
+        "Original image",
+        "Originalbild"
+      ],
+      [
+        "\"license\":\"License\"",
+        "\"license\":\"Lizenz\""
+      ],
+      [
+        "AI-generated concept illustration by OpenAI. No third-party stock source. Not a photo or an exact anatomical reference.",
+        "KI-generierte Konzeptillustration von OpenAI. Keine externe Stockbildquelle. Kein Foto und keine genaue anatomische Referenz."
+      ],
+      [
+        "Image of the named species.",
+        "Bild der genannten Art."
+      ],
+      [
+        "Representative group image. The pictured species does not receive the probability of the whole group.",
+        "Repräsentatives Gruppenbild. Die abgebildete Art erhält nicht die Wahrscheinlichkeit der gesamten Gruppe."
+      ],
+      [
+        "Probability methodology",
+        "Methodik der Wahrscheinlichkeiten"
+      ],
+      [
+        "No eligible categories",
+        "Keine zulässigen Ergebnisse"
+      ],
+      [
+        "Invalid categories",
+        "Ungültige Ergebnisdaten"
+      ],
+      [
+        "300×300 attention crop, EXIF rotation, JPEG conversion",
+        "300×300-Ausschnitt nach Bildinhalt, EXIF-Drehung, JPEG-Konvertierung"
+      ],
+      [
+        "300×300 attention crop, JPEG conversion",
+        "300×300-Ausschnitt nach Bildinhalt, JPEG-Konvertierung"
+      ],
+      [
+        "300×300 center crop, JPEG conversion",
+        "Mittiger 300×300-Ausschnitt, JPEG-Konvertierung"
+      ],
+      [
+        "Selected microscopy panel, cropped and resized to 300×300 JPEG",
+        "Ausgewähltes Mikroskopiebild, zugeschnitten und auf 300×300 JPEG skaliert"
+      ],
+      [
+        "SPECIMEN",
+        "EXEMPLAR"
+      ],
+      [
+        "NEXT LIFE",
+        "NÄCHSTES LEBEN"
+      ],
+      [
+        "carbon biomass",
+        "Kohlenstoffbiomasse"
+      ]
+    ],
+    "names": [
+      "Bakterien des tiefen Untergrunds",
+      "Meeresbakterien",
+      "Bodenbakterien",
+      "Bakterien des tiefen Meeresbodens",
+      "Archaeen des Untergrunds",
+      "Meeresarchaeen",
+      "Bodenarchaeen",
+      "Archaeen des Meeresbodens",
+      "Landpilze",
+      "Meerespilze",
+      "Ringelwürmer",
+      "Landarthropoden",
+      "Antarktischer Krill",
+      "Andere Meeresarthropoden",
+      "Nesseltiere",
+      "Weichtiere",
+      "Bodennematoden",
+      "Meeresnematoden",
+      "Fische",
+      "Nutzsäugetiere",
+      "Mensch",
+      "Wildvögel",
+      "Weißwedelhirsch",
+      "Wildschwein",
+      "Afrikanischer Savannenelefant",
+      "Östliches Graues Riesenkänguru",
+      "Maultierhirsch",
+      "Elch",
+      "Rothirsch",
+      "Europäisches Reh",
+      "Rotes Riesenkänguru",
+      "Warzenschwein",
+      "Waldelefant",
+      "Wasserschwein",
+      "Afrikanischer Büffel",
+      "Rentier",
+      "Wapiti",
+      "Streifengnu",
+      "Erdferkel",
+      "Palmenflughund",
+      "Waschbär",
+      "Riesenwaldschwein",
+      "Guanako",
+      "Steppenzebra",
+      "Flusspferd",
+      "Pinselohrschwein",
+      "Impala",
+      "Asiatischer Elefant",
+      "Bohor-Riedbock",
+      "Westliches Graues Riesenkänguru",
+      "Halsbandpekari",
+      "Damhirsch",
+      "Kanadischer Biber",
+      "Bergkänguru",
+      "Roter Spießhirsch",
+      "Buschschwein",
+      "Anubispavian",
+      "Gewöhnliches Stachelschwein",
+      "Großer Kudu",
+      "Amerikanischer Schwarzbär",
+      "Antilopenkänguru",
+      "Schwimmbeutler",
+      "Andere wilde Landsäugetiere",
+      "Wilde Meeressäugetiere",
+      "Piko- und Nanoplankton-Protisten",
+      "Mikrozooplankton-Protisten",
+      "Kieselalgen",
+      "Phaeocystis",
+      "Rhizarien",
+      "Partikelgebundene Protisten",
+      "Landprotisten",
+      "Pflanzen"
+    ],
+    "descriptions": [],
+    "groups": {
+      "Bacteria": "Bakterien",
+      "Archaea": "Archaeen",
+      "Fungi": "Pilze",
+      "Protists": "Protisten",
+      "Animals": "Tiere",
+      "Plants": "Pflanzen"
+    },
+    "method": "# Ziehungsmethode nach Kohlenstoffbiomasse\n\nDieses Spiel verwendet geschätzte Kohlenstoffbiomasse, keine Individuenzahlen oder tatsächlichen Geburtswahrscheinlichkeiten. Es gibt 72 überschneidungsfreie Ergebniskategorien; Pflanzen bleiben eine Gruppe. Viren sind ausgeschlossen.\n\nDie Gewichte der übergeordneten Gruppen beruhen auf den ungerundeten Kohlenstoffschätzungen der Autoren von 2018: insgesamt 549.0807681063422 Gt C, darunter 0.05537256615 Gt C für Menschen. Die Spielchance auf einen Menschen beträgt etwa 0.0100846 %, also 1 zu 9.916. Die vielen Stellen dienen der Reproduzierbarkeit und bedeuten keine entsprechende ökologische Genauigkeit.\n\nWilde Landsäugetiere werden in 40 Arten und eine Restgruppe aufgeteilt. Dabei bleibt das Gesamtbudget von 2018 erhalten; für die Aufteilung dienen Nassmasseanteile der Arten von 2023. Dieses Mischmodell nimmt innerhalb dieser Aufteilung ein gleiches Verhältnis von Kohlenstoff- zu Nassmasse an und ist eine Näherung. Untergruppen der Meeresprotisten und des Krills erhalten ebenfalls ihre jeweiligen Gesamtbudgets. Wissenschaftliche Unsicherheit und begrenzte Erhebungsabdeckung bleiben bestehen.\n\nEin Gruppenfoto veranschaulicht die Gruppe und nicht die Wahrscheinlichkeit der abgebildeten einzelnen Art. Es gibt 50 CC0-/gemeinfreie Bilder, 20 CC-BY-Bilder und 2 KI-Konzeptillustrationen. Bildnachweise, Lizenz-URLs und Zuschnitthinweise bleiben auf dem Ergebnis und dem Teilbild erhalten.\n\nQuellen:\n- Bar-On, Phillips & Milo (2018): https://doi.org/10.1073/pnas.1711842115\n- Autorendaten und MIT-Lizenz: https://github.com/milo-lab/biomass_distribution\n- Greenspoon et al. (2023): https://doi.org/10.1073/pnas.2204892120\n- Autorendaten zu Säugetieren: https://zenodo.org/records/7594807\n\nDie Ziehungsgewichte sind mit der koreanischen Ausgabe identisch. Wird das aktuelle Ergebnis ausgeschlossen, werden die verbleibenden Gewichte neu normiert. Ausweis und OG-Bild zeigen weiterhin die ursprüngliche Wahrscheinlichkeit im vollständigen Ergebnispool.\n",
+    "modification": {
+      "300×300 attention crop, EXIF rotation, JPEG conversion": "300×300-Ausschnitt nach Bildinhalt, EXIF-Drehung, JPEG-Konvertierung",
+      "300×300 attention crop, JPEG conversion": "300×300-Ausschnitt nach Bildinhalt, JPEG-Konvertierung",
+      "300×300 center crop, JPEG conversion": "Mittiger 300×300-Ausschnitt, JPEG-Konvertierung",
+      "Selected microscopy panel, cropped and resized to 300×300 JPEG": "Ausgewähltes Mikroskopiebild, zugeschnitten und auf 300×300 JPEG skaliert"
+    }
+  },
+  "fr": {
+    "replace": [
+      [
+        "Browser saving is blocked, so the count is only maintained in this tab.",
+        "L’enregistrement dans le navigateur est bloqué. Le compteur reste uniquement dans cet onglet."
+      ],
+      [
+        "View my Life ID ↗",
+        "Voir mon certificat de vie ↗"
+      ],
+      [
+        "Discover my next life ↗",
+        "Tirer ma prochaine vie ↗"
+      ],
+      [
+        "${state.remaining} retries left · share for +2",
+        "${state.remaining} essais restants · partager donne +2"
+      ],
+      [
+        "First draw free · 1 retry",
+        "Premier tirage gratuit · 1 nouvel essai"
+      ],
+      [
+        "Try again · ${state.remaining} left ↻",
+        "Réessayer · ${state.remaining} restants ↻"
+      ],
+      [
+        "No retries left",
+        "Aucun essai restant"
+      ],
+      [
+        "Sharing bonus already claimed for this card",
+        "Bonus de partage déjà reçu pour ce certificat"
+      ],
+      [
+        "One bonus per card · share request or copied link",
+        "Un bonus par certificat · demande de partage ou lien copié"
+      ],
+      [
+        "Somewhere in Earth’s deep ocean",
+        "Quelque part dans les profondeurs océaniques"
+      ],
+      [
+        "Somewhere in Earth’s blue ocean",
+        "Quelque part dans l’océan bleu"
+      ],
+      [
+        "Somewhere deep underground",
+        "Quelque part dans le sous-sol profond"
+      ],
+      [
+        "Somewhere in Earth’s soil",
+        "Quelque part dans le sol terrestre"
+      ],
+      [
+        "Somewhere green on Earth",
+        "Quelque part dans la verdure terrestre"
+      ],
+      [
+        "Somewhere here on Earth",
+        "Quelque part ici, sur Terre"
+      ],
+      [
+        "Somewhere alive on Earth",
+        "Quelque part sur la Terre vivante"
+      ],
+      [
+        "Against the odds, human again.",
+        "De nouveau humain, malgré une faible probabilité."
+      ],
+      [
+        "A slower, softer life this time.",
+        "Cette fois, une vie plus tranquille."
+      ],
+      [
+        "A new chapter, growing toward the sunlight.",
+        "Une nouvelle vie tournée vers la lumière."
+      ],
+      [
+        "A small body can hold a whole world.",
+        "Un petit corps peut abriter tout un monde."
+      ],
+      [
+        "Life carries on, even out of sight.",
+        "La vie continue, même à l’abri des regards."
+      ],
+      [
+        "Small worlds have big stories.",
+        "Les petits mondes ont de grandes histoires."
+      ],
+      [
+        "A new body. A new chapter.",
+        "Un nouveau corps. Une nouvelle vie."
+      ],
+      [
+        " · species result",
+        " · résultat à l’échelle de l’espèce"
+      ],
+      [
+        " · group result",
+        " · résultat à l’échelle du groupe"
+      ],
+      [
+        " Representative group image",
+        " Image représentative du groupe"
+      ],
+      [
+        "AI Generated concept illustration · Not an actual photo of a specific species.",
+        "Illustration conceptuelle générée par IA · Ce n’est pas une photo réelle d’une espèce précise."
+      ],
+      [
+        "Image of the species and virtual biological registration certificate",
+        "Image de l’espèce et certificat biologique fictif"
+      ],
+      [
+        "Representative group image",
+        "Image représentative du groupe"
+      ],
+      [
+        " · not a species probability",
+        " · ce n’est pas la probabilité d’une espèce"
+      ],
+      [
+        "image: ",
+        "Image : "
+      ],
+      [
+        " · cropped and converted ",
+        " · recadrée et convertie "
+      ],
+      [
+        "Original source ↗",
+        "Source originale ↗"
+      ],
+      [
+        " · License ↗",
+        " · Licence ↗"
+      ],
+      [
+        "My next life: ${c.name} · Life ID",
+        "Ma prochaine vie : ${c.name} · certificat de vie"
+      ],
+      [
+        "If you share your registration certificate, 2 replays will be added.",
+        "Partager le certificat ajoute 2 nouveaux essais."
+      ],
+      [
+        " — a new life begins?",
+        " — une nouvelle vie commence ?"
+      ],
+      [
+        "What will you be reborn as? · Next Life Lab",
+        "En quel être vivant renaître ? · certificat de vie"
+      ],
+      [
+        "Receive the bonus from your recently issued registration certificate.",
+        "Recevez le bonus depuis votre certificat le plus récent."
+      ],
+      [
+        "Share Bonus! 2 replays have been added.",
+        "Bonus de partage : 2 essais ont été ajoutés."
+      ],
+      [
+        "I have already received the sharing bonus for this registration certificate.",
+        "Le bonus de partage de ce certificat a déjà été reçu."
+      ],
+      [
+        "Copying is blocked. Please copy the link in the address bar.",
+        "La copie est bloquée. Copiez le lien dans la barre d’adresse."
+      ],
+      [
+        "My next life: ${current.name}",
+        "Ma prochaine vie : ${current.name}"
+      ],
+      [
+        "My next life is ${current.name}! Chance: ${percent(current.probability)}%. What will you be?",
+        "Ma prochaine vie : ${current.name} ! Probabilité : ${percent(current.probability)} %. Et vous ?"
+      ],
+      [
+        "The sharing window could not be opened. Please use copy link below.",
+        "La fenêtre de partage n’a pas pu s’ouvrir. Utilisez la copie du lien ci-dessous."
+      ],
+      [
+        "The sharing window cannot be opened in this browser. Please use copy link below.",
+        "Ce navigateur ne peut pas ouvrir la fenêtre de partage. Utilisez la copie du lien ci-dessous."
+      ],
+      [
+        "My next life: ${current.name}, a ${percent(current.probability)}% chance. What will you be?",
+        "Ma prochaine vie : ${current.name}, avec ${percent(current.probability)} % de probabilité. Et vous ?"
+      ],
+      [
+        "The sharing window is blocked. Please use copy link.",
+        "La fenêtre de partage est bloquée. Utilisez la copie du lien."
+      ],
+      [
+        "registration certificate JPG I started saving.",
+        "Enregistrement du certificat JPG lancé."
+      ],
+      [
+        "Data unavailable",
+        "Données indisponibles"
+      ],
+      [
+        "Invalid category count",
+        "Nombre de résultats invalide"
+      ],
+      [
+        "Failed to load information",
+        "Échec du chargement des données"
+      ],
+      [
+        "about ",
+        "environ "
+      ],
+      [
+        "Skip to content",
+        "Aller au contenu"
+      ],
+      [
+        "Next Life Lab",
+        "Tirage d’êtres vivants"
+      ],
+      [
+        "NEXT LIFE LAB",
+        "TIRAGE D’ÊTRES VIVANTS"
+      ],
+      [
+        "How the draw works",
+        "Comment fonctionne le tirage"
+      ],
+      [
+        "A NEW LIFE, ON EARTH",
+        "TIRER UN ÊTRE VIVANT TERRESTRE"
+      ],
+      [
+        "If you were reborn,<br>what <em>would you be?</em>",
+        "Si vous renaissiez,<br>quel <em>être vivant seriez-vous ?</em>"
+      ],
+      [
+        "Leave today behind for a moment.<br>Begin again as a new life on Earth.",
+        "Tirez parmi 72 résultats,<br>pondérés par la biomasse de carbone."
+      ],
+      [
+        "Loading life data",
+        "Chargement des données du vivant"
+      ],
+      [
+        "Could not load the data.",
+        "Impossible de charger les données."
+      ],
+      [
+        "Reload",
+        "Recharger"
+      ],
+      [
+        "Your chance of being human again:",
+        "Probabilité ludique de redevenir humain :"
+      ],
+      [
+        "Game odds weighted by global carbon biomass",
+        "Probabilités ludiques pondérées par la biomasse mondiale de carbone"
+      ],
+      [
+        "YOUR NEXT CHAPTER",
+        "VOTRE PROCHAINE VIE"
+      ],
+      [
+        "One way to planet Earth ↗",
+        "Certificat de vie terrestre ↗"
+      ],
+      [
+        "EARTH LIFE ID",
+        "CERTIFICAT DE VIE TERRESTRE"
+      ],
+      [
+        "EARTH · LIFE ID",
+        "TERRE · CERTIFICAT DE VIE"
+      ],
+      [
+        "Ginkgo tree, representative of plant group",
+        "Ginkgo, exemple du groupe des plantes"
+      ],
+      [
+        "Your next life",
+        "Votre prochaine vie"
+      ],
+      [
+        ">Plants<",
+        ">Plantes<"
+      ],
+      [
+        "Classification",
+        "Classification biologique"
+      ],
+      [
+        "A life powered by sunlight",
+        "Une vie alimentée par la lumière"
+      ],
+      [
+        "New address",
+        "Nouveau lieu de vie"
+      ],
+      [
+        "Chance of this life",
+        "Probabilité de cette vie"
+      ],
+      [
+        "Fictional ID · just for fun",
+        "Certificat fictif · pour jouer"
+      ],
+      [
+        "NEXT LIFE<br><b>REBORN</b><br>WELCOME TO EARTH",
+        "PROCHAINE VIE<br><b>TIRÉE</b><br>VIE SUR TERRE"
+      ],
+      [
+        "One portrait. A whole new life.",
+        "L’image représente une espèce ou un groupe."
+      ],
+      [
+        "72 POSSIBLE NEXT LIVES",
+        "72 VIES POSSIBLES"
+      ],
+      [
+        "A deer. A bacterium. Anything.",
+        "Un cerf, une bactérie, une plante."
+      ],
+      [
+        "Every life, big or small,<br>has a next chapter.",
+        "Grands ou petits êtres vivants,<br>pondérés par leur biomasse de carbone."
+      ],
+      [
+        "01 / Biomass-weighted draw",
+        "01 / Tirage pondéré par la biomasse"
+      ],
+      [
+        "02 / Your own Life ID",
+        "02 / Votre certificat de vie"
+      ],
+      [
+        "03 / Share your next life",
+        "03 / Partager votre prochaine vie"
+      ],
+      [
+        "FINDING YOUR NEXT LIFE",
+        "TIRAGE DE VOTRE PROCHAINE VIE"
+      ],
+      [
+        "Earth is finding your next place",
+        "Votre prochain lieu de vie est en cours de tirage"
+      ],
+      [
+        "A new life is on its way.",
+        "Une nouvelle vie se prépare."
+      ],
+      [
+        "YOUR NEXT LIFE IS HERE",
+        "VOTRE PROCHAINE VIE"
+      ],
+      [
+        "Your next life is…",
+        "Votre prochaine vie est…"
+      ],
+      [
+        "Game odds based on carbon biomass, not actual birth or rebirth probabilities.",
+        "Probabilités ludiques fondées sur la biomasse de carbone, et non sur les naissances ou renaissances réelles."
+      ],
+      [
+        "ONE EARTH, MANY LIVES",
+        "LA DIVERSITÉ DU VIVANT TERRESTRE"
+      ],
+      [
+        "Tell your friends<br> about your new identity.",
+        "Partagez votre certificat<br>avec vos amis."
+      ],
+      [
+        "What will your friends be reborn as?<br>Share your ID and compare your next lives.",
+        "Que tireront vos amis ?<br>Partagez vos certificats et comparez les résultats."
+      ],
+      [
+        "Share my Life ID",
+        "Partager mon certificat"
+      ],
+      [
+        "Copy link ↗",
+        "Copier le lien ↗"
+      ],
+      [
+        "Save ID as JPG ↓",
+        "Enregistrer le certificat en JPG ↓"
+      ],
+      [
+        "Try another life ↻",
+        "Tirer une autre vie ↻"
+      ],
+      [
+        "Try again without this result ↻",
+        "Retirer ce résultat et recommencer ↻"
+      ],
+      [
+        "Uses 1 retry. Excludes this result and keeps all other relative weights.<br>ID odds use the full biomass pool, before exclusions.",
+        "Utilise 1 essai. Ce résultat est exclu ; les autres poids relatifs sont conservés.<br>Le certificat affiche la probabilité initiale avant exclusion."
+      ],
+      [
+        "Back to start",
+        "Revenir au début"
+      ],
+      [
+        "Whatever life you begin,<br><strong>this chapter is yours.</strong>",
+        "Le résultat vient d’un tirage ludique.<br><strong>Il ne prédit aucun destin réel.</strong>"
+      ],
+      [
+        "Material information",
+        "Informations sur les ressources"
+      ],
+      [
+        "Data sources",
+        "Sources des données"
+      ],
+      [
+        "Open-source notices",
+        "Mentions des logiciels libres"
+      ],
+      [
+        "AN EXPERIMENT IN POSSIBILITY · NANA LAB",
+        "JEU DE TIRAGE PAR BIOMASSE DE CARBONE"
+      ],
+      [
+        "Close",
+        "Fermer"
+      ],
+      [
+        "BEHIND THE CHANCE",
+        "COMPRENDRE LES PROBABILITÉS"
+      ],
+      [
+        "Weighted by life on Earth.",
+        "Pondéré par la biomasse terrestre."
+      ],
+      [
+        "The draw weights Earth’s life forms by their <strong>carbon biomass</strong>. It does not use individual counts or real birth probabilities.",
+        "Le tirage pondère les êtres vivants par leur <strong>biomasse de carbone</strong>. Il n’utilise ni les effectifs ni les probabilités réelles de naissance."
+      ],
+      [
+        "The 72 outcomes use group carbon estimates from the 2018 study. Within wild land mammals, 2023 species wet-mass shares provide an approximate split. Source uncertainty and differences in study coverage remain.",
+        "Les 72 résultats utilisent les estimations de carbone par groupe de l’étude de 2018. Les mammifères terrestres sauvages sont répartis approximativement selon les parts de masse humide par espèce de 2023. Les incertitudes et différences de couverture des études persistent."
+      ],
+      [
+        "Group images are representative examples. The pictured species does not inherit the probability of the entire group.",
+        "Les images de groupe sont des exemples. L’espèce représentée ne reçoit pas la probabilité du groupe entier."
+      ],
+      [
+        "The first draw is free, with 1 retry. Each new ID can earn one sharing bonus of 2 retries. Bonuses count an opened share request or a copied link, not confirmed delivery. Credits are saved in this browser.",
+        "Le premier tirage est gratuit, avec 1 nouvel essai. Chaque nouveau certificat peut recevoir une fois un bonus de 2 essais. Le bonus compte une demande de partage ouverte ou un lien copié, sans confirmer l’envoi. Les crédits sont enregistrés dans ce navigateur."
+      ],
+      [
+        "Got it ↗",
+        "Compris ↗"
+      ],
+      [
+        "DATA SOURCES",
+        "SOURCES DES DONNÉES"
+      ],
+      [
+        "Author data",
+        "Données des auteurs"
+      ],
+      [
+        "Public author dataset",
+        "Jeu de données public des auteurs"
+      ],
+      [
+        ". Used for relative shares within land mammals.",
+        ". Utilisé pour les parts relatives des mammifères terrestres."
+      ],
+      [
+        "Viruses excluded. Plants remain one group. Weights and splitting method:",
+        "Les virus sont exclus. Les plantes restent un groupe unique. Poids et répartition :"
+      ],
+      [
+        "Methodology",
+        "Méthode"
+      ],
+      [
+        "Image sources, creators, licenses and changes:",
+        "Sources, créateurs, licences et modifications des images :"
+      ],
+      [
+        "Credits for all 72 images",
+        "Crédits des 72 images"
+      ],
+      [
+        ". 50 CC0/public-domain images, 20 CC BY images and 2 AI concept illustrations.",
+        ". 50 images CC0 ou du domaine public, 20 images CC BY et 2 illustrations conceptuelles par IA."
+      ],
+      [
+        "OPEN SOURCE",
+        "LOGICIELS LIBRES"
+      ],
+      [
+        "sharp — build tool for cropping and JPG generation.",
+        "sharp — outil de compilation pour recadrer et générer les JPG."
+      ],
+      [
+        "Biomass author data and code —",
+        "Données et code des auteurs sur la biomasse —"
+      ],
+      [
+        "Each photo and illustration keeps its original license.",
+        "Chaque photo et illustration conserve sa licence d’origine."
+      ],
+      [
+        "Image credits and licenses",
+        "Crédits et licences des images"
+      ],
+      [
+        "${c.name}: ${percent(c.probability)}% in our carbon-biomass draw. Discover your own next life.",
+        "${c.name} : ${percent(c.probability)} % dans notre tirage par biomasse de carbone. Tirez votre prochaine vie."
+      ],
+      [
+        "72 possible next lives, weighted by Earth’s carbon biomass. About a 0.01% chance of being human again.",
+        "72 vies possibles, pondérées par la biomasse de carbone terrestre. Environ 0,01 % de probabilité ludique de redevenir humain."
+      ],
+      [
+        "your next life",
+        "votre prochaine vie"
+      ],
+      [
+        "human probability approx. 0.01%",
+        "Humain : environ 0,01 %"
+      ],
+      [
+        " · cropped; converted to JPG",
+        " · recadrée ; convertie en JPG"
+      ],
+      [
+        "OpenAI image generation · AI Generation concept illustration",
+        "OpenAI image generation · illustration conceptuelle générée par IA"
+      ],
+      [
+        "A game that imagines all life on Earth",
+        "Un jeu de tirage d’êtres vivants terrestres"
+      ],
+      [
+        "Somewhere on the planet Earth is alive and breathing",
+        "Quelque part sur la Terre vivante"
+      ],
+      [
+        "To be born again as a human?",
+        "Renaître en humain ?"
+      ],
+      [
+        ">NEXT LIFE<",
+        ">PROCHAINE VIE<"
+      ],
+      [
+        ">REBORN<",
+        ">TIRÉE<"
+      ],
+      [
+        ">WELCOME TO EARTH<",
+        ">VIE SUR TERRE<"
+      ],
+      [
+        "Carbon Biomass Based Gaming Odds · Virtual Registration Certificate for Gaming",
+        "Probabilités ludiques par biomasse de carbone · Certificat de jeu fictif"
+      ],
+      [
+        " · AI concept illustration",
+        " · illustration conceptuelle par IA"
+      ],
+      [
+        " · Group representative image",
+        " · image représentative du groupe"
+      ],
+      [
+        "← to main",
+        "← Retour à l’accueil"
+      ],
+      [
+        "All 72 final images are 300×300 JPG files. Images were cropped, resized and converted. CC BY reuse requires the creator, source, license and modification notice below.",
+        "Les 72 images finales sont des JPG de 300×300 pixels, recadrés, redimensionnés et convertis. Leur réutilisation sous CC BY exige les mentions du créateur, de la source, de la licence et des modifications ci-dessous."
+      ],
+      [
+        "Source page",
+        "Page source"
+      ],
+      [
+        "Original image",
+        "Image originale"
+      ],
+      [
+        "\"license\":\"License\"",
+        "\"license\":\"Licence\""
+      ],
+      [
+        "AI-generated concept illustration by OpenAI. No third-party stock source. Not a photo or an exact anatomical reference.",
+        "Illustration conceptuelle générée par IA par OpenAI. Aucune image de stock tierce. Ce n’est ni une photo ni une référence anatomique exacte."
+      ],
+      [
+        "Image of the named species.",
+        "Image de l’espèce nommée."
+      ],
+      [
+        "Representative group image. The pictured species does not receive the probability of the whole group.",
+        "Image représentative du groupe. L’espèce illustrée ne reçoit pas la probabilité du groupe entier."
+      ],
+      [
+        "Probability methodology",
+        "Méthode de calcul des probabilités"
+      ],
+      [
+        "No eligible categories",
+        "Aucun résultat admissible"
+      ],
+      [
+        "Invalid categories",
+        "Données de résultats invalides"
+      ],
+      [
+        "300×300 attention crop, EXIF rotation, JPEG conversion",
+        "Recadrage de la zone d’intérêt en 300×300, rotation EXIF, conversion JPEG"
+      ],
+      [
+        "300×300 attention crop, JPEG conversion",
+        "Recadrage de la zone d’intérêt en 300×300, conversion JPEG"
+      ],
+      [
+        "300×300 center crop, JPEG conversion",
+        "Recadrage central en 300×300, conversion JPEG"
+      ],
+      [
+        "Selected microscopy panel, cropped and resized to 300×300 JPEG",
+        "Panneau de microscopie sélectionné, recadré et redimensionné en JPEG de 300×300"
+      ],
+      [
+        "SPECIMEN",
+        "SPÉCIMEN"
+      ],
+      [
+        "NEXT LIFE",
+        "PROCHAINE VIE"
+      ],
+      [
+        "carbon biomass",
+        "biomasse de carbone"
+      ]
+    ],
+    "names": [
+      "Bactéries du sous-sol profond",
+      "Bactéries marines",
+      "Bactéries du sol",
+      "Bactéries des fonds marins profonds",
+      "Archées du sous-sol",
+      "Archées marines",
+      "Archées du sol",
+      "Archées des fonds marins",
+      "Champignons terrestres",
+      "Champignons marins",
+      "Annélides",
+      "Arthropodes terrestres",
+      "Krill antarctique",
+      "Autres arthropodes marins",
+      "Cnidaires",
+      "Mollusques",
+      "Nématodes du sol",
+      "Nématodes marins",
+      "Poissons",
+      "Mammifères d’élevage",
+      "Humain",
+      "Oiseaux sauvages",
+      "Cerf de Virginie",
+      "Sanglier",
+      "Éléphant de savane d’Afrique",
+      "Kangourou géant",
+      "Cerf mulet",
+      "Élan",
+      "Cerf élaphe",
+      "Chevreuil européen",
+      "Kangourou roux",
+      "Phacochère commun",
+      "Éléphant de forêt d’Afrique",
+      "Capybara",
+      "Buffle d’Afrique",
+      "Renne",
+      "Wapiti",
+      "Gnou bleu",
+      "Oryctérope",
+      "Roussette des palmiers africaine",
+      "Raton laveur",
+      "Hylochère",
+      "Guanaco",
+      "Zèbre des plaines",
+      "Hippopotame",
+      "Potamochère roux",
+      "Impala",
+      "Éléphant d’Asie",
+      "Cobe des roseaux",
+      "Kangourou gris",
+      "Pécari à collier",
+      "Daim",
+      "Castor du Canada",
+      "Wallaroo commun",
+      "Daguet rouge",
+      "Potamochère du Cap",
+      "Babouin olive",
+      "Porc-épic à crête",
+      "Grand koudou",
+      "Ours noir d’Amérique",
+      "Kangourou antilope",
+      "Opossum aquatique",
+      "Autres mammifères terrestres sauvages",
+      "Mammifères marins sauvages",
+      "Protistes du pico- et nanoplancton",
+      "Protistes du microzooplancton",
+      "Diatomées",
+      "Phaeocystis",
+      "Rhizaires",
+      "Protistes fixés aux particules",
+      "Protistes terrestres",
+      "Plantes"
+    ],
+    "descriptions": [],
+    "groups": {
+      "Bacteria": "Bactéries",
+      "Archaea": "Archées",
+      "Fungi": "Champignons",
+      "Protists": "Protistes",
+      "Animals": "Animaux",
+      "Plants": "Plantes"
+    },
+    "method": "# Méthode de tirage par biomasse de carbone\n\nCe jeu utilise des estimations de biomasse de carbone, et non des effectifs individuels ou des probabilités réelles de naissance. Il comporte 72 catégories de résultats sans chevauchement ; les plantes restent un groupe unique. Les virus sont exclus.\n\nLes poids des groupes parents utilisent les estimations de carbone non arrondies des auteurs de 2018 : 549.0807681063422 Gt C au total, dont 0.05537256615 Gt C pour les humains. La probabilité ludique d’obtenir un humain est d’environ 0.0100846 %, soit 1 sur 9 916. Les chiffres servent à reproduire le calcul et ne signifient pas une telle précision écologique.\n\nLes mammifères terrestres sauvages sont répartis en 40 espèces et un groupe résiduel, en conservant le budget du groupe parent de 2018 et en utilisant les parts de masse humide par espèce de 2023. Ce modèle hybride suppose des rapports identiques entre carbone et masse humide au sein de cette répartition ; il s’agit d’une approximation. Les subdivisions des protistes marins et du krill conservent leurs budgets parents. Les incertitudes scientifiques et les limites de couverture des relevés persistent.\n\nUne photo de groupe illustre le groupe, et non la probabilité de l’espèce représentée. Il y a 50 images CC0 ou du domaine public, 20 images CC BY et 2 illustrations conceptuelles par IA. Les crédits, URL de licence et mentions de recadrage restent présents sur le résultat et l’image de partage.\n\nSources :\n- Bar-On, Phillips & Milo (2018) : https://doi.org/10.1073/pnas.1711842115\n- Données des auteurs et licence MIT : https://github.com/milo-lab/biomass_distribution\n- Greenspoon et al. (2023) : https://doi.org/10.1073/pnas.2204892120\n- Données des auteurs sur les mammifères : https://zenodo.org/records/7594807\n\nLes poids de tirage sont identiques à ceux de l’édition coréenne. Exclure le résultat actuel renormalise tous les poids restants ; le certificat et l’image OG affichent toujours la probabilité initiale calculée sur l’ensemble complet.\n",
+    "modification": {
+      "300×300 attention crop, EXIF rotation, JPEG conversion": "Recadrage de la zone d’intérêt en 300×300, rotation EXIF, conversion JPEG",
+      "300×300 attention crop, JPEG conversion": "Recadrage de la zone d’intérêt en 300×300, conversion JPEG",
+      "300×300 center crop, JPEG conversion": "Recadrage central en 300×300, conversion JPEG",
+      "Selected microscopy panel, cropped and resized to 300×300 JPEG": "Panneau de microscopie sélectionné, recadré et redimensionné en JPEG de 300×300"
+    }
+  },
+  "pt": {
+    "replace": [
+      [
+        "Browser saving is blocked, so the count is only maintained in this tab.",
+        "O armazenamento do navegador está bloqueado. A contagem só é mantida nesta aba."
+      ],
+      [
+        "View my Life ID ↗",
+        "Ver meu certificado de vida ↗"
+      ],
+      [
+        "Discover my next life ↗",
+        "Sortear minha próxima vida ↗"
+      ],
+      [
+        "${state.remaining} retries left · share for +2",
+        "${state.remaining} tentativas restantes · compartilhe para +2"
+      ],
+      [
+        "First draw free · 1 retry",
+        "Primeiro sorteio grátis · 1 nova tentativa"
+      ],
+      [
+        "Try again · ${state.remaining} left ↻",
+        "Tentar de novo · restam ${state.remaining} ↻"
+      ],
+      [
+        "No retries left",
+        "Sem tentativas restantes"
+      ],
+      [
+        "Sharing bonus already claimed for this card",
+        "Bônus de compartilhamento já recebido para este certificado"
+      ],
+      [
+        "One bonus per card · share request or copied link",
+        "Um bônus por certificado · pedido de compartilhamento ou link copiado"
+      ],
+      [
+        "Somewhere in Earth’s deep ocean",
+        "Em algum lugar no oceano profundo da Terra"
+      ],
+      [
+        "Somewhere in Earth’s blue ocean",
+        "Em algum lugar no oceano azul da Terra"
+      ],
+      [
+        "Somewhere deep underground",
+        "Em algum lugar nas profundezas do subsolo"
+      ],
+      [
+        "Somewhere in Earth’s soil",
+        "Em algum lugar no solo da Terra"
+      ],
+      [
+        "Somewhere green on Earth",
+        "Em algum lugar verde da Terra"
+      ],
+      [
+        "Somewhere here on Earth",
+        "Em algum lugar aqui na Terra"
+      ],
+      [
+        "Somewhere alive on Earth",
+        "Em algum lugar com vida na Terra"
+      ],
+      [
+        "Against the odds, human again.",
+        "Apesar da baixa chance, humano outra vez."
+      ],
+      [
+        "A slower, softer life this time.",
+        "Desta vez, uma vida mais tranquila."
+      ],
+      [
+        "A new chapter, growing toward the sunlight.",
+        "Uma nova vida crescendo em direção à luz."
+      ],
+      [
+        "A small body can hold a whole world.",
+        "Um corpo pequeno pode guardar um mundo inteiro."
+      ],
+      [
+        "Life carries on, even out of sight.",
+        "A vida continua, mesmo longe dos olhos."
+      ],
+      [
+        "Small worlds have big stories.",
+        "Pequenos mundos têm grandes histórias."
+      ],
+      [
+        "A new body. A new chapter.",
+        "Um novo corpo. Uma nova vida."
+      ],
+      [
+        " · species result",
+        " · resultado por espécie"
+      ],
+      [
+        " · group result",
+        " · resultado por grupo"
+      ],
+      [
+        " Representative group image",
+        " Imagem representativa do grupo"
+      ],
+      [
+        "AI Generated concept illustration · Not an actual photo of a specific species.",
+        "Ilustração conceitual gerada por IA · Não é uma foto real de uma espécie específica."
+      ],
+      [
+        "Image of the species and virtual biological registration certificate",
+        "Imagem da espécie e certificado biológico fictício"
+      ],
+      [
+        "Representative group image",
+        "Imagem representativa do grupo"
+      ],
+      [
+        " · not a species probability",
+        " · não é a probabilidade de uma espécie"
+      ],
+      [
+        "image: ",
+        "Imagem: "
+      ],
+      [
+        " · cropped and converted ",
+        " · recortada e convertida "
+      ],
+      [
+        "Original source ↗",
+        "Fonte original ↗"
+      ],
+      [
+        " · License ↗",
+        " · Licença ↗"
+      ],
+      [
+        "My next life: ${c.name} · Life ID",
+        "Minha próxima vida: ${c.name} · certificado de vida"
+      ],
+      [
+        "If you share your registration certificate, 2 replays will be added.",
+        "Compartilhar o certificado adiciona 2 novas tentativas."
+      ],
+      [
+        " — a new life begins?",
+        " — uma nova vida começa?"
+      ],
+      [
+        "What will you be reborn as? · Next Life Lab",
+        "Como qual ser vivo você renasceria? · certificado de vida"
+      ],
+      [
+        "Receive the bonus from your recently issued registration certificate.",
+        "Receba o bônus pelo seu certificado mais recente."
+      ],
+      [
+        "Share Bonus! 2 replays have been added.",
+        "Bônus de compartilhamento: 2 tentativas adicionadas."
+      ],
+      [
+        "I have already received the sharing bonus for this registration certificate.",
+        "O bônus de compartilhamento deste certificado já foi recebido."
+      ],
+      [
+        "Copying is blocked. Please copy the link in the address bar.",
+        "A cópia está bloqueada. Copie o link da barra de endereços."
+      ],
+      [
+        "My next life: ${current.name}",
+        "Minha próxima vida: ${current.name}"
+      ],
+      [
+        "My next life is ${current.name}! Chance: ${percent(current.probability)}%. What will you be?",
+        "Minha próxima vida é ${current.name}! Chance: ${percent(current.probability)}%. E você?"
+      ],
+      [
+        "The sharing window could not be opened. Please use copy link below.",
+        "Não foi possível abrir a janela de compartilhamento. Use a opção de copiar link abaixo."
+      ],
+      [
+        "The sharing window cannot be opened in this browser. Please use copy link below.",
+        "Este navegador não abre a janela de compartilhamento. Use a opção de copiar link abaixo."
+      ],
+      [
+        "My next life: ${current.name}, a ${percent(current.probability)}% chance. What will you be?",
+        "Minha próxima vida: ${current.name}, com ${percent(current.probability)}% de chance. E você?"
+      ],
+      [
+        "The sharing window is blocked. Please use copy link.",
+        "A janela de compartilhamento está bloqueada. Use a opção de copiar link."
+      ],
+      [
+        "registration certificate JPG I started saving.",
+        "O salvamento do certificado JPG foi iniciado."
+      ],
+      [
+        "Data unavailable",
+        "Dados indisponíveis"
+      ],
+      [
+        "Invalid category count",
+        "Quantidade de resultados inválida"
+      ],
+      [
+        "Failed to load information",
+        "Falha ao carregar os dados"
+      ],
+      [
+        "about ",
+        "cerca de "
+      ],
+      [
+        "Skip to content",
+        "Ir para o conteúdo"
+      ],
+      [
+        "Next Life Lab",
+        "Sorteio de seres vivos"
+      ],
+      [
+        "NEXT LIFE LAB",
+        "SORTEIO DE SERES VIVOS"
+      ],
+      [
+        "How the draw works",
+        "Como funciona o sorteio"
+      ],
+      [
+        "A NEW LIFE, ON EARTH",
+        "SORTEAR UM SER VIVO DA TERRA"
+      ],
+      [
+        "If you were reborn,<br>what <em>would you be?</em>",
+        "Se você renascesse,<br>qual <em>ser vivo seria?</em>"
+      ],
+      [
+        "Leave today behind for a moment.<br>Begin again as a new life on Earth.",
+        "Sorteie entre 72 resultados,<br>ponderados pela biomassa de carbono."
+      ],
+      [
+        "Loading life data",
+        "Carregando dados dos seres vivos"
+      ],
+      [
+        "Could not load the data.",
+        "Não foi possível carregar os dados."
+      ],
+      [
+        "Reload",
+        "Recarregar"
+      ],
+      [
+        "Your chance of being human again:",
+        "Chance de voltar a ser humano no jogo:"
+      ],
+      [
+        "Game odds weighted by global carbon biomass",
+        "Probabilidades do jogo ponderadas pela biomassa global de carbono"
+      ],
+      [
+        "YOUR NEXT CHAPTER",
+        "SUA PRÓXIMA VIDA"
+      ],
+      [
+        "One way to planet Earth ↗",
+        "Certificado de vida na Terra ↗"
+      ],
+      [
+        "EARTH LIFE ID",
+        "CERTIFICADO DE VIDA TERRESTRE"
+      ],
+      [
+        "EARTH · LIFE ID",
+        "TERRA · CERTIFICADO DE VIDA"
+      ],
+      [
+        "Ginkgo tree, representative of plant group",
+        "Ginkgo, representante do grupo das plantas"
+      ],
+      [
+        "Your next life",
+        "Sua próxima vida"
+      ],
+      [
+        ">Plants<",
+        ">Plantas<"
+      ],
+      [
+        "Classification",
+        "Classificação"
+      ],
+      [
+        "A life powered by sunlight",
+        "Uma vida alimentada pela luz solar"
+      ],
+      [
+        "New address",
+        "Novo local de vida"
+      ],
+      [
+        "Chance of this life",
+        "Chance desta vida"
+      ],
+      [
+        "Fictional ID · just for fun",
+        "Certificado fictício · para diversão"
+      ],
+      [
+        "NEXT LIFE<br><b>REBORN</b><br>WELCOME TO EARTH",
+        "PRÓXIMA VIDA<br><b>SORTEADA</b><br>VIDA NA TERRA"
+      ],
+      [
+        "One portrait. A whole new life.",
+        "A imagem representa uma espécie ou um grupo."
+      ],
+      [
+        "72 POSSIBLE NEXT LIVES",
+        "72 VIDAS POSSÍVEIS"
+      ],
+      [
+        "A deer. A bacterium. Anything.",
+        "Um cervo, uma bactéria, uma planta."
+      ],
+      [
+        "Every life, big or small,<br>has a next chapter.",
+        "Seres vivos grandes ou pequenos,<br>ponderados pela biomassa de carbono."
+      ],
+      [
+        "01 / Biomass-weighted draw",
+        "01 / Sorteio ponderado pela biomassa"
+      ],
+      [
+        "02 / Your own Life ID",
+        "02 / Seu certificado de vida"
+      ],
+      [
+        "03 / Share your next life",
+        "03 / Compartilhar sua próxima vida"
+      ],
+      [
+        "FINDING YOUR NEXT LIFE",
+        "SORTEANDO SUA PRÓXIMA VIDA"
+      ],
+      [
+        "Earth is finding your next place",
+        "Sorteando seu próximo local de vida"
+      ],
+      [
+        "A new life is on its way.",
+        "Uma nova vida está sendo preparada."
+      ],
+      [
+        "YOUR NEXT LIFE IS HERE",
+        "SUA PRÓXIMA VIDA"
+      ],
+      [
+        "Your next life is…",
+        "Sua próxima vida é…"
+      ],
+      [
+        "Game odds based on carbon biomass, not actual birth or rebirth probabilities.",
+        "Probabilidades do jogo baseadas na biomassa de carbono, não em nascimentos ou renascimentos reais."
+      ],
+      [
+        "ONE EARTH, MANY LIVES",
+        "A DIVERSIDADE DA VIDA NA TERRA"
+      ],
+      [
+        "Tell your friends<br> about your new identity.",
+        "Compartilhe seu certificado<br>com seus amigos."
+      ],
+      [
+        "What will your friends be reborn as?<br>Share your ID and compare your next lives.",
+        "Qual será o resultado dos seus amigos?<br>Compartilhem os certificados e comparem."
+      ],
+      [
+        "Share my Life ID",
+        "Compartilhar meu certificado"
+      ],
+      [
+        "Copy link ↗",
+        "Copiar link ↗"
+      ],
+      [
+        "Save ID as JPG ↓",
+        "Salvar certificado em JPG ↓"
+      ],
+      [
+        "Try another life ↻",
+        "Sortear outra vida ↻"
+      ],
+      [
+        "Try again without this result ↻",
+        "Sortear de novo sem este resultado ↻"
+      ],
+      [
+        "Uses 1 retry. Excludes this result and keeps all other relative weights.<br>ID odds use the full biomass pool, before exclusions.",
+        "Usa 1 tentativa. Exclui este resultado e mantém os demais pesos relativos.<br>O certificado mostra a probabilidade original antes da exclusão."
+      ],
+      [
+        "Back to start",
+        "Voltar ao início"
+      ],
+      [
+        "Whatever life you begin,<br><strong>this chapter is yours.</strong>",
+        "O resultado vem de um sorteio do jogo.<br><strong>Não prevê o destino real.</strong>"
+      ],
+      [
+        "Material information",
+        "Informações dos materiais"
+      ],
+      [
+        "Data sources",
+        "Fontes de dados"
+      ],
+      [
+        "Open-source notices",
+        "Avisos de código aberto"
+      ],
+      [
+        "AN EXPERIMENT IN POSSIBILITY · NANA LAB",
+        "JOGO DE SORTEIO POR BIOMASSA DE CARBONO"
+      ],
+      [
+        "Close",
+        "Fechar"
+      ],
+      [
+        "BEHIND THE CHANCE",
+        "ENTENDA AS PROBABILIDADES"
+      ],
+      [
+        "Weighted by life on Earth.",
+        "Ponderado pela biomassa da Terra."
+      ],
+      [
+        "The draw weights Earth’s life forms by their <strong>carbon biomass</strong>. It does not use individual counts or real birth probabilities.",
+        "O sorteio pondera os seres vivos pela <strong>biomassa de carbono</strong>. Não usa contagens de indivíduos nem probabilidades reais de nascimento."
+      ],
+      [
+        "The 72 outcomes use group carbon estimates from the 2018 study. Within wild land mammals, 2023 species wet-mass shares provide an approximate split. Source uncertainty and differences in study coverage remain.",
+        "Os 72 resultados usam estimativas de carbono por grupo do estudo de 2018. A divisão dos mamíferos terrestres selvagens é aproximada pelas proporções de massa úmida por espécie de 2023. Permanecem incertezas das fontes e diferenças de cobertura dos estudos."
+      ],
+      [
+        "Group images are representative examples. The pictured species does not inherit the probability of the entire group.",
+        "As imagens dos grupos são exemplos representativos. A espécie mostrada não recebe a probabilidade de todo o grupo."
+      ],
+      [
+        "The first draw is free, with 1 retry. Each new ID can earn one sharing bonus of 2 retries. Bonuses count an opened share request or a copied link, not confirmed delivery. Credits are saved in this browser.",
+        "O primeiro sorteio é grátis, com 1 nova tentativa. Cada novo certificado pode receber uma vez um bônus de 2 tentativas. Conta-se uma janela de compartilhamento aberta ou um link copiado, sem confirmar o envio. Os créditos ficam salvos neste navegador."
+      ],
+      [
+        "Got it ↗",
+        "Entendi ↗"
+      ],
+      [
+        "DATA SOURCES",
+        "FONTES DE DADOS"
+      ],
+      [
+        "Author data",
+        "Dados dos autores"
+      ],
+      [
+        "Public author dataset",
+        "Conjunto público de dados dos autores"
+      ],
+      [
+        ". Used for relative shares within land mammals.",
+        ". Usado para proporções relativas entre mamíferos terrestres."
+      ],
+      [
+        "Viruses excluded. Plants remain one group. Weights and splitting method:",
+        "Vírus excluídos. Plantas permanecem um único grupo. Pesos e método de divisão:"
+      ],
+      [
+        "Methodology",
+        "Metodologia"
+      ],
+      [
+        "Image sources, creators, licenses and changes:",
+        "Fontes, autores, licenças e alterações das imagens:"
+      ],
+      [
+        "Credits for all 72 images",
+        "Créditos das 72 imagens"
+      ],
+      [
+        ". 50 CC0/public-domain images, 20 CC BY images and 2 AI concept illustrations.",
+        ". 50 imagens CC0 ou de domínio público, 20 imagens CC BY e 2 ilustrações conceituais por IA."
+      ],
+      [
+        "OPEN SOURCE",
+        "CÓDIGO ABERTO"
+      ],
+      [
+        "sharp — build tool for cropping and JPG generation.",
+        "sharp — ferramenta de compilação para recorte e geração de JPG."
+      ],
+      [
+        "Biomass author data and code —",
+        "Dados e código dos autores sobre biomassa —"
+      ],
+      [
+        "Each photo and illustration keeps its original license.",
+        "Cada foto e ilustração mantém sua licença original."
+      ],
+      [
+        "Image credits and licenses",
+        "Créditos e licenças das imagens"
+      ],
+      [
+        "${c.name}: ${percent(c.probability)}% in our carbon-biomass draw. Discover your own next life.",
+        "${c.name}: ${percent(c.probability)}% no sorteio por biomassa de carbono. Sorteie sua própria próxima vida."
+      ],
+      [
+        "72 possible next lives, weighted by Earth’s carbon biomass. About a 0.01% chance of being human again.",
+        "72 vidas possíveis, ponderadas pela biomassa de carbono da Terra. Cerca de 0,01% de chance de voltar a ser humano no jogo."
+      ],
+      [
+        "your next life",
+        "sua próxima vida"
+      ],
+      [
+        "human probability approx. 0.01%",
+        "Humano: cerca de 0,01%"
+      ],
+      [
+        " · cropped; converted to JPG",
+        " · recortada; convertida para JPG"
+      ],
+      [
+        "OpenAI image generation · AI Generation concept illustration",
+        "OpenAI image generation · ilustração conceitual gerada por IA"
+      ],
+      [
+        "A game that imagines all life on Earth",
+        "Um jogo de sorteio de seres vivos da Terra"
+      ],
+      [
+        "Somewhere on the planet Earth is alive and breathing",
+        "Em algum lugar com vida na Terra"
+      ],
+      [
+        "To be born again as a human?",
+        "Renascer como humano?"
+      ],
+      [
+        ">NEXT LIFE<",
+        ">PRÓXIMA VIDA<"
+      ],
+      [
+        ">REBORN<",
+        ">SORTEADA<"
+      ],
+      [
+        ">WELCOME TO EARTH<",
+        ">VIDA NA TERRA<"
+      ],
+      [
+        "Carbon Biomass Based Gaming Odds · Virtual Registration Certificate for Gaming",
+        "Probabilidades do jogo por biomassa de carbono · Certificado fictício do jogo"
+      ],
+      [
+        " · AI concept illustration",
+        " · ilustração conceitual por IA"
+      ],
+      [
+        " · Group representative image",
+        " · imagem representativa do grupo"
+      ],
+      [
+        "← to main",
+        "← Voltar ao início"
+      ],
+      [
+        "All 72 final images are 300×300 JPG files. Images were cropped, resized and converted. CC BY reuse requires the creator, source, license and modification notice below.",
+        "As 72 imagens finais são arquivos JPG de 300×300 pixels. Elas foram recortadas, redimensionadas e convertidas. A reutilização sob CC BY exige os créditos do autor, fonte, licença e alterações abaixo."
+      ],
+      [
+        "Source page",
+        "Página de origem"
+      ],
+      [
+        "Original image",
+        "Imagem original"
+      ],
+      [
+        "\"license\":\"License\"",
+        "\"license\":\"Licença\""
+      ],
+      [
+        "AI-generated concept illustration by OpenAI. No third-party stock source. Not a photo or an exact anatomical reference.",
+        "Ilustração conceitual gerada por IA pela OpenAI. Sem fonte de banco de imagens de terceiros. Não é foto nem referência anatômica exata."
+      ],
+      [
+        "Image of the named species.",
+        "Imagem da espécie indicada."
+      ],
+      [
+        "Representative group image. The pictured species does not receive the probability of the whole group.",
+        "Imagem representativa do grupo. A espécie mostrada não recebe a probabilidade de todo o grupo."
+      ],
+      [
+        "Probability methodology",
+        "Metodologia das probabilidades"
+      ],
+      [
+        "No eligible categories",
+        "Nenhum resultado elegível"
+      ],
+      [
+        "Invalid categories",
+        "Dados de resultados inválidos"
+      ],
+      [
+        "300×300 attention crop, EXIF rotation, JPEG conversion",
+        "Recorte por área de interesse em 300×300, rotação EXIF, conversão JPEG"
+      ],
+      [
+        "300×300 attention crop, JPEG conversion",
+        "Recorte por área de interesse em 300×300, conversão JPEG"
+      ],
+      [
+        "300×300 center crop, JPEG conversion",
+        "Recorte central em 300×300, conversão JPEG"
+      ],
+      [
+        "Selected microscopy panel, cropped and resized to 300×300 JPEG",
+        "Painel de microscopia selecionado, recortado e redimensionado para JPEG de 300×300"
+      ],
+      [
+        "SPECIMEN",
+        "ESPÉCIME"
+      ],
+      [
+        "NEXT LIFE",
+        "PRÓXIMA VIDA"
+      ],
+      [
+        "carbon biomass",
+        "biomassa de carbono"
+      ]
+    ],
+    "names": [
+      "Bactérias do subsolo profundo",
+      "Bactérias marinhas",
+      "Bactérias do solo",
+      "Bactérias do fundo marinho profundo",
+      "Arqueias do subsolo",
+      "Arqueias marinhas",
+      "Arqueias do solo",
+      "Arqueias do fundo marinho",
+      "Fungos terrestres",
+      "Fungos marinhos",
+      "Anelídeos",
+      "Artrópodes terrestres",
+      "Krill-antártico",
+      "Outros artrópodes marinhos",
+      "Cnidários",
+      "Moluscos",
+      "Nematódeos do solo",
+      "Nematódeos marinhos",
+      "Peixes",
+      "Mamíferos de criação",
+      "Humano",
+      "Aves selvagens",
+      "Veado-de-cauda-branca",
+      "Javali",
+      "Elefante-africano-da-savana",
+      "Canguru-cinzento-oriental",
+      "Veado-mula",
+      "Alce",
+      "Veado-vermelho",
+      "Corço-europeu",
+      "Canguru-vermelho",
+      "Facocero-comum",
+      "Elefante-africano-da-floresta",
+      "Capivara",
+      "Búfalo-africano",
+      "Rena",
+      "Uapiti",
+      "Gnu-azul",
+      "Porco-formigueiro",
+      "Morcego-frugívoro-cor-de-palha",
+      "Guaxinim",
+      "Hilóquero",
+      "Guanaco",
+      "Zebra-das-planícies",
+      "Hipopótamo",
+      "Potamóquero-vermelho",
+      "Impala",
+      "Elefante-asiático",
+      "Cobo-dos-juncais",
+      "Canguru-cinzento-ocidental",
+      "Cateto",
+      "Gamo",
+      "Castor-americano",
+      "Wallaroo-comum",
+      "Veado-mateiro-vermelho",
+      "Potamóquero-do-cabo",
+      "Babuíno-oliva",
+      "Porco-espinho-de-crista",
+      "Cudu-maior",
+      "Urso-negro-americano",
+      "Canguru-antílope",
+      "Cuíca-d’água",
+      "Outros mamíferos terrestres selvagens",
+      "Mamíferos marinhos selvagens",
+      "Protistas do pico e nanoplâncton",
+      "Protistas do microzooplâncton",
+      "Diatomáceas",
+      "Phaeocystis",
+      "Rizários",
+      "Protistas aderidos a partículas",
+      "Protistas terrestres",
+      "Plantas"
+    ],
+    "descriptions": [],
+    "groups": {
+      "Bacteria": "Bactérias",
+      "Archaea": "Arqueias",
+      "Fungi": "Fungos",
+      "Protists": "Protistas",
+      "Animals": "Animais",
+      "Plants": "Plantas"
+    },
+    "method": "# Metodologia do sorteio por biomassa de carbono\n\nEste jogo usa estimativas de biomassa de carbono, não contagens de indivíduos nem probabilidades reais de nascimento. Há 72 categorias de resultados sem sobreposição; as plantas permanecem um único grupo. Os vírus são excluídos.\n\nOs pesos dos grupos principais usam as estimativas de carbono não arredondadas dos autores de 2018: 549.0807681063422 Gt C no total, incluindo 0.05537256615 Gt C para humanos. A chance de obter um humano no jogo é de cerca de 0.0100846%, ou 1 em 9.916. Os dígitos permitem reproduzir o cálculo, sem indicar esse nível de precisão ecológica.\n\nOs mamíferos terrestres selvagens são divididos em 40 espécies e um grupo residual, preservando o orçamento do grupo principal de 2018 e usando as proporções de massa úmida por espécie de 2023. Esse modelo híbrido pressupõe a mesma proporção entre carbono e massa úmida nessa divisão; trata-se de uma aproximação. As subdivisões de protistas marinhos e krill preservam seus respectivos totais principais. Permanecem incertezas científicas e limitações de cobertura dos levantamentos.\n\nA foto de um grupo ilustra esse grupo, não a probabilidade da espécie mostrada. Há 50 imagens CC0 ou de domínio público, 20 imagens CC BY e 2 ilustrações conceituais por IA. Créditos, URLs das licenças e avisos de recorte permanecem no resultado e na imagem de compartilhamento.\n\nFontes:\n- Bar-On, Phillips & Milo (2018): https://doi.org/10.1073/pnas.1711842115\n- Dados dos autores e licença MIT: https://github.com/milo-lab/biomass_distribution\n- Greenspoon et al. (2023): https://doi.org/10.1073/pnas.2204892120\n- Dados dos autores sobre mamíferos: https://zenodo.org/records/7594807\n\nOs pesos do sorteio são idênticos aos da versão coreana. A exclusão do resultado atual renormaliza todos os pesos restantes; o certificado e a imagem OG continuam mostrando a probabilidade original do conjunto completo.\n",
+    "modification": {
+      "300×300 attention crop, EXIF rotation, JPEG conversion": "Recorte por área de interesse em 300×300, rotação EXIF, conversão JPEG",
+      "300×300 attention crop, JPEG conversion": "Recorte por área de interesse em 300×300, conversão JPEG",
+      "300×300 center crop, JPEG conversion": "Recorte central em 300×300, conversão JPEG",
+      "Selected microscopy panel, cropped and resized to 300×300 JPEG": "Painel de microscopia selecionado, recortado e redimensionado para JPEG de 300×300"
+    }
+  }
+}

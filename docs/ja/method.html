@@ -1,0 +1,67 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>確率の算定方法 · 生物転生ゲーム</title><style>body{max-width:1000px;margin:40px auto;padding:0 24px;background:#f7f5ed;color:#244536;font-family:Arial,'Malgun Gothic',sans-serif;line-height:1.8}a{color:#306b4e}h1{font-size:30px}p,li{font-size:13px}article{background:#fffef7;padding:22px;border:1px solid #d8e0cd;border-radius:12px;margin:18px 0;overflow:hidden}article img{width:120px;height:120px;object-fit:cover;float:left;margin:0 22px 12px 0}article p{overflow-wrap:anywhere}h2{font-size:19px}</style>
+<!-- publisher-tracking:start -->
+<script data-publisher-bootstrap>
+(function(w,d){
+  'use strict';
+  var host=String(w.location.hostname||'').toLowerCase();
+  if(w.location.protocol!=='https:' || !(host==='nanacompany.github.io'||host==='nanalab.kr'||host.endsWith('.nanalab.kr')))return;
+  if(w.__nanaPublisherLoaded)return;
+  w.__nanaPublisherLoaded=true;
+  var ids={gtm:'GTM-NV2WWQXB',ga:'G-2ZYSF0173P',ads:'ca-pub-9767176956440077',cf:'9f3423bb0d034d91bbe1a12afeff2429'};
+  function add(src,attrs){
+    var all=d.querySelectorAll('script[src]');
+    for(var i=0;i<all.length;i++)if(all[i].src===src)return all[i];
+    var s=d.createElement('script');s.async=true;s.src=src;
+    Object.keys(attrs||{}).forEach(function(k){s.setAttribute(k,attrs[k]);});
+    d.head.appendChild(s);return s;
+  }
+  w.dataLayer=w.dataLayer||[];
+  w.gtag=w.gtag||function(){w.dataLayer.push(arguments);};
+  w.dataLayer.push({'gtm.start':Date.now(),event:'gtm.js'});
+  add('https://www.googletagmanager.com/gtm.js?id='+ids.gtm);
+  add('https://www.googletagmanager.com/gtag/js?id='+ids.ga);
+  // Suppress automatic full URL/referrer collection; never pass game input here.
+  w.gtag('js',new Date());
+  w.gtag('config',ids.ga,{send_page_view:false,page_location:w.location.origin+w.location.pathname,page_referrer:''});
+  w.gtag('event','page_view',{page_location:w.location.origin+w.location.pathname,page_referrer:'',page_title:d.title});
+  add('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+ids.ads,{crossorigin:'anonymous'});
+  function beacon(){
+    if(d.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]'))return;
+    add('https://static.cloudflareinsights.com/beacon.min.js',{'data-cf-beacon':JSON.stringify({token:ids.cf})});
+  }
+  // Delay until the document is parsed so an edge-injected beacon is reused.
+  if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',beacon,{once:true});else beacon();
+})(window,document);
+</script>
+<!-- publisher-tracking:end -->
+<style>.language-links{display:flex;justify-content:flex-end;align-items:center;gap:12px;flex-wrap:wrap;font-size:11px;color:#75836b;padding:14px 0}.language-links a[aria-current]{font-weight:700;text-decoration:underline;text-underline-offset:4px}.language-suggestion{border:1px solid #dbe1d1;background:#f9faf4;padding:12px 15px;border-radius:6px;font-size:11px;line-height:1.8;color:#627457;margin:5px 0 15px}.language-suggestion a{text-decoration:underline;margin-left:10px}.language-suggestion small{display:block;color:#8b9581;font-size:9px}</style><link rel="canonical" href="https://nanalab.kr/rebirth_biology/ja/method.html"><link rel="alternate" hreflang="ko" href="https://nanalab.kr/rebirth_biology/ko/method.html"><link rel="alternate" hreflang="en" href="https://nanalab.kr/rebirth_biology/en/method.html"><link rel="alternate" hreflang="es" href="https://nanalab.kr/rebirth_biology/es/method.html"><link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/rebirth_biology/zh/method.html"><link rel="alternate" hreflang="ja" href="https://nanalab.kr/rebirth_biology/ja/method.html"><link rel="alternate" hreflang="de" href="https://nanalab.kr/rebirth_biology/de/method.html"><link rel="alternate" hreflang="fr" href="https://nanalab.kr/rebirth_biology/fr/method.html"><link rel="alternate" hreflang="pt" href="https://nanalab.kr/rebirth_biology/pt/method.html"><link rel="alternate" hreflang="x-default" href="https://nanalab.kr/rebirth_biology/method.html"><base href="https://nanalab.kr/rebirth_biology/ja/"></head><body><nav class="language-links" aria-label="Language"><a data-language="ko" lang="ko" href="https://nanalab.kr/rebirth_biology/ko/method.html" >한국어</a><span>·</span><a data-language="en" lang="en" href="https://nanalab.kr/rebirth_biology/en/method.html" >English</a><span>·</span><a data-language="es" lang="es" href="https://nanalab.kr/rebirth_biology/es/method.html" >Español</a><span>·</span><a data-language="zh" lang="zh" href="https://nanalab.kr/rebirth_biology/zh/method.html" >简体中文</a><span>·</span><a data-language="ja" lang="ja" href="https://nanalab.kr/rebirth_biology/ja/method.html" aria-current="page">日本語</a><span>·</span><a data-language="de" lang="de" href="https://nanalab.kr/rebirth_biology/de/method.html" >Deutsch</a><span>·</span><a data-language="fr" lang="fr" href="https://nanalab.kr/rebirth_biology/fr/method.html" >Français</a><span>·</span><a data-language="pt" lang="pt" href="https://nanalab.kr/rebirth_biology/pt/method.html" >Português</a></nav><div id="language-suggestion" class="language-suggestion" hidden></div>
+<!-- publisher-noscript:start --><noscript data-publisher-gtm-fallback="GTM-NV2WWQXB"><!-- GTM noscript iframe omitted: static HTML cannot restrict iframe requests to production HTTPS. --></noscript><!-- publisher-noscript:end -->
+<a href="https://nanalab.kr/rebirth_biology/ja/">← メインへ</a><h1>確率の算定方法</h1><pre style="white-space:pre-wrap;font:inherit;font-size:13px"># 炭素生物量に基づく抽選方法
+
+これは推計炭素生物量を使うゲームであり、個体数や実際の出生確率を使うものではありません。結果は重複しない 72 区分です。植物は一つの集団とし、ウイルスは除外しています。
+
+上位集団の重みは、著者による 2018 年の丸め前の炭素量推計を使います。合計は 549.0807681063422 Gt C、うち人間は 0.05537256615 Gt C です。人間のゲーム内確率は約 0.0100846%、約 9,916 分の 1 です。桁数は計算の再現性のためであり、生態学的にその精度があるという意味ではありません。
+
+野生陸生哺乳類は、2018 年の上位集団の総量を保ちつつ、2023 年の種別湿重量比で 40 種と残余集団に分けています。この混合モデルでは、分割内の炭素量と湿重量の比が等しいと仮定しています。あくまで近似です。海洋原生生物やオキアミの細分も、それぞれの上位集団の総量を保ちます。科学的な不確実性と調査範囲の限界が残ります。
+
+集団の写真は代表例を示し、写っている種そのものの確率を表しません。CC0／パブリックドメイン画像が 50 点、CC BY 画像が 20 点、AI 概念イラストが 2 点あります。クレジット、ライセンス URL、トリミング通知は結果画面と共有画像に保持されます。
+
+出典:
+- Bar-On, Phillips &amp; Milo (2018): https://doi.org/10.1073/pnas.1711842115
+- 著者データと MIT ライセンス: https://github.com/milo-lab/biomass_distribution
+- Greenspoon et al. (2023): https://doi.org/10.1073/pnas.2204892120
+- 哺乳類の著者データ: https://zenodo.org/records/7594807
+
+抽選の重みは韓国語版と同じです。現在の結果を除外した場合、残りの重みを再正規化します。登録証と OG 画像には、除外前の全体に対する元の確率を表示します。
+
+</pre><script type="module" src="https://nanalab.kr/rebirth_biology/language-widget.0b4e6ef997cc.js" data-game="rebirth_biology" data-language="ja" data-base="https://nanalab.kr/rebirth_biology/" data-route="method.html"></script><!-- NaNa app directory link -->
+<style>
+#nana-more-apps{position:fixed;right:max(10px,env(safe-area-inset-right));bottom:max(6px,env(safe-area-inset-bottom));z-index:20;margin:0;padding:0;background:none;border:0;line-height:1}
+#nana-more-apps a{display:inline-block;padding:2px 3px;font:400 11px/1.4 Arial,sans-serif;letter-spacing:normal;text-transform:none;color:#888;text-decoration:none;background:none;border:0;box-shadow:none}
+#nana-more-apps a:hover,#nana-more-apps a:focus-visible{color:#777;text-decoration:underline}
+#nana-more-apps a:focus-visible{outline:1px solid currentColor;outline-offset:2px}
+@media print{#nana-more-apps{display:none}}
+</style>
+<div id="nana-more-apps"><a href="https://nanalab.kr/apps/">More Apps</a></div>
+<!-- /NaNa app directory link -->
+</body></html>

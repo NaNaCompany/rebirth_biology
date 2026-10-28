@@ -1,4 +1,4 @@
-export const LANGUAGES=['ko','en','zh','es'];
+export const LANGUAGES=['ko','en','es','zh','ja','de','fr','pt'];
 const spanish=new Set(['ES','MX','AR','BO','CL','CO','CR','CU','DO','EC','SV','GQ','GT','HN','NI','PA','PY','PE','PR','UY','VE']);
 export function browserLanguage(languages=[]){for(const item of languages){const lang=String(item).toLowerCase().split('-')[0];if(LANGUAGES.includes(lang))return lang;}return 'en';}
-export function recommendLanguage(country,languages=[]){const code=String(country||'').toUpperCase();if(code==='KR')return 'ko';if(['CN','TW','HK','MO'].includes(code))return 'zh';if(spanish.has(code))return 'es';if(/^[A-Z]{2}$/.test(code))return 'en';return browserLanguage(languages);}
+export function recommendLanguage(country,languages=[]){const code=String(country||'').toUpperCase();if(code==='KR')return 'ko';if(['CN','TW','HK','MO'].includes(code))return 'zh';if(spanish.has(code))return 'es';if(code==='JP')return 'ja';if(['DE','AT','LI'].includes(code))return 'de';if(['FR','MC'].includes(code))return 'fr';if(['PT','BR','AO','MZ','CV','GW','ST','TL'].includes(code))return 'pt';if(/^[A-Z]{2}$/.test(code))return 'en';return browserLanguage(languages);}

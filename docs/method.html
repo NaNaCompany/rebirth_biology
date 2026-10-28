@@ -1,39 +1,41 @@
 <!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>계산 기준 · 다음 생 연구소</title><style>body{max-width:1000px;margin:40px auto;padding:0 24px;background:#f7f5ed;color:#244536;font-family:Arial,'Malgun Gothic',sans-serif;line-height:1.8}a{color:#306b4e}h1{font-size:30px}p,li{font-size:13px}article{background:#fffef7;padding:22px;border:1px solid #d8e0cd;border-radius:12px;margin:18px 0;overflow:hidden}article img{width:120px;height:120px;object-fit:cover;float:left;margin:0 22px 12px 0}article p{overflow-wrap:anywhere}h2{font-size:19px}</style>
-<!-- NaNa publisher: AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9767176956440077"
-        crossorigin="anonymous"></script>
-<!-- /NaNa publisher: AdSense -->
-<!-- NaNa publisher: GTM -->
-<script>
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })
-            (window, document, 'script', 'dataLayer', 'GTM-NV2WWQXB');
-    </script>
-<!-- /NaNa publisher: GTM -->
-<!-- NaNa publisher: Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZYSF0173P"></script>
-<script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-2ZYSF0173P');
-    </script>
-<!-- /NaNa publisher: Analytics -->
-<style>.language-links{display:flex;justify-content:flex-end;align-items:center;gap:12px;flex-wrap:wrap;font-size:11px;color:#75836b;padding:14px 0}.language-links a[aria-current]{font-weight:700;text-decoration:underline;text-underline-offset:4px}.language-suggestion{border:1px solid #dbe1d1;background:#f9faf4;padding:12px 15px;border-radius:6px;font-size:11px;line-height:1.8;color:#627457;margin:5px 0 15px}.language-suggestion a{text-decoration:underline;margin-left:10px}.language-suggestion small{display:block;color:#8b9581;font-size:9px}</style><link rel="alternate" hreflang="ko" href="https://nanalab.kr/rebirth_biology/ko/"><link rel="alternate" hreflang="en" href="https://nanalab.kr/rebirth_biology/en/"><link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/rebirth_biology/zh/"><link rel="alternate" hreflang="es" href="https://nanalab.kr/rebirth_biology/es/"></head><body><nav class="language-links" aria-label="Language"><a data-language="ko" href="https://nanalab.kr/rebirth_biology/ko/" aria-current="page">한국어</a><span>·</span><a data-language="en" href="https://nanalab.kr/rebirth_biology/en/" >English</a><span>·</span><a data-language="zh" href="https://nanalab.kr/rebirth_biology/zh/" >简体中文</a><span>·</span><a data-language="es" href="https://nanalab.kr/rebirth_biology/es/" >Español</a></nav><div id="language-suggestion" class="language-suggestion" hidden></div>
-<!-- NaNa publisher: GTM fallback -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV2WWQXB" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
-<!-- /NaNa publisher: GTM fallback -->
+<!-- publisher-tracking:start -->
+<script data-publisher-bootstrap>
+(function(w,d){
+  'use strict';
+  var host=String(w.location.hostname||'').toLowerCase();
+  if(w.location.protocol!=='https:' || !(host==='nanacompany.github.io'||host==='nanalab.kr'||host.endsWith('.nanalab.kr')))return;
+  if(w.__nanaPublisherLoaded)return;
+  w.__nanaPublisherLoaded=true;
+  var ids={gtm:'GTM-NV2WWQXB',ga:'G-2ZYSF0173P',ads:'ca-pub-9767176956440077',cf:'9f3423bb0d034d91bbe1a12afeff2429'};
+  function add(src,attrs){
+    var all=d.querySelectorAll('script[src]');
+    for(var i=0;i<all.length;i++)if(all[i].src===src)return all[i];
+    var s=d.createElement('script');s.async=true;s.src=src;
+    Object.keys(attrs||{}).forEach(function(k){s.setAttribute(k,attrs[k]);});
+    d.head.appendChild(s);return s;
+  }
+  w.dataLayer=w.dataLayer||[];
+  w.gtag=w.gtag||function(){w.dataLayer.push(arguments);};
+  w.dataLayer.push({'gtm.start':Date.now(),event:'gtm.js'});
+  add('https://www.googletagmanager.com/gtm.js?id='+ids.gtm);
+  add('https://www.googletagmanager.com/gtag/js?id='+ids.ga);
+  // Suppress automatic full URL/referrer collection; never pass game input here.
+  w.gtag('js',new Date());
+  w.gtag('config',ids.ga,{send_page_view:false,page_location:w.location.origin+w.location.pathname,page_referrer:''});
+  w.gtag('event','page_view',{page_location:w.location.origin+w.location.pathname,page_referrer:'',page_title:d.title});
+  add('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+ids.ads,{crossorigin:'anonymous'});
+  function beacon(){
+    if(d.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]'))return;
+    add('https://static.cloudflareinsights.com/beacon.min.js',{'data-cf-beacon':JSON.stringify({token:ids.cf})});
+  }
+  // Delay until the document is parsed so an edge-injected beacon is reused.
+  if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',beacon,{once:true});else beacon();
+})(window,document);
+</script>
+<!-- publisher-tracking:end -->
+<style>.language-links{display:flex;justify-content:flex-end;align-items:center;gap:12px;flex-wrap:wrap;font-size:11px;color:#75836b;padding:14px 0}.language-links a[aria-current]{font-weight:700;text-decoration:underline;text-underline-offset:4px}.language-suggestion{border:1px solid #dbe1d1;background:#f9faf4;padding:12px 15px;border-radius:6px;font-size:11px;line-height:1.8;color:#627457;margin:5px 0 15px}.language-suggestion a{text-decoration:underline;margin-left:10px}.language-suggestion small{display:block;color:#8b9581;font-size:9px}</style><link rel="canonical" href="https://nanalab.kr/rebirth_biology/method.html"><link rel="alternate" hreflang="ko" href="https://nanalab.kr/rebirth_biology/ko/method.html"><link rel="alternate" hreflang="en" href="https://nanalab.kr/rebirth_biology/en/method.html"><link rel="alternate" hreflang="es" href="https://nanalab.kr/rebirth_biology/es/method.html"><link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/rebirth_biology/zh/method.html"><link rel="alternate" hreflang="ja" href="https://nanalab.kr/rebirth_biology/ja/method.html"><link rel="alternate" hreflang="de" href="https://nanalab.kr/rebirth_biology/de/method.html"><link rel="alternate" hreflang="fr" href="https://nanalab.kr/rebirth_biology/fr/method.html"><link rel="alternate" hreflang="pt" href="https://nanalab.kr/rebirth_biology/pt/method.html"><link rel="alternate" hreflang="x-default" href="https://nanalab.kr/rebirth_biology/method.html"><base href="https://nanalab.kr/rebirth_biology/"></head><body><nav class="language-links" aria-label="Language"><a data-language="ko" lang="ko" href="https://nanalab.kr/rebirth_biology/ko/method.html" aria-current="page">한국어</a><span>·</span><a data-language="en" lang="en" href="https://nanalab.kr/rebirth_biology/en/method.html" >English</a><span>·</span><a data-language="es" lang="es" href="https://nanalab.kr/rebirth_biology/es/method.html" >Español</a><span>·</span><a data-language="zh" lang="zh" href="https://nanalab.kr/rebirth_biology/zh/method.html" >简体中文</a><span>·</span><a data-language="ja" lang="ja" href="https://nanalab.kr/rebirth_biology/ja/method.html" >日本語</a><span>·</span><a data-language="de" lang="de" href="https://nanalab.kr/rebirth_biology/de/method.html" >Deutsch</a><span>·</span><a data-language="fr" lang="fr" href="https://nanalab.kr/rebirth_biology/fr/method.html" >Français</a><span>·</span><a data-language="pt" lang="pt" href="https://nanalab.kr/rebirth_biology/pt/method.html" >Português</a></nav><div id="language-suggestion" class="language-suggestion" hidden></div>
+<!-- publisher-noscript:start --><noscript data-publisher-gtm-fallback="GTM-NV2WWQXB"><!-- GTM noscript iframe omitted: static HTML cannot restrict iframe requests to production HTTPS. --></noscript><!-- publisher-noscript:end -->
 <a href="https://nanalab.kr/rebirth_biology/">← 메인으로</a><h1>계산 기준</h1><pre style="white-space:pre-wrap;font:inherit;font-size:13px"># 생물량 기반 추첨 데이터
 
 ## 현재 기준
@@ -87,25 +89,7 @@ MAREDAT(https://doi.org/10.5194/essd-5-227-2013)은 11개 플랑크톤 기능군
 ## 고정된 결과 목록
 
 2026-10-24 사용자 요청으로 최종 결과를 72개로 고정했다. 활성 파일은 data/categories.json이며, 26개 기본 분류에 육상 포유류 40개 증가와 해양 6개 증가를 반영했다. 식물 추가 분할은 적용하지 않았다. 범주 확정은 기존 모델의 근사와 불확실성을 없애는 의미가 아니다. 이미지 72개는 각각의 결과 ID에 연결했으며, 집단 대표 이미지와 특정 종 이미지를 구분한다.
-</pre>
-<!-- NaNa publisher: Cloudflare fallback -->
-<script>
-(function () {
-  function ensureBeacon() {
-    // Cloudflare may inject its beacon at the edge. Reuse that script when present.
-    if (document.querySelector('script[src*="static.cloudflareinsights.com/beacon.min.js"]')) return;
-    var beacon = document.createElement('script');
-    beacon.defer = true;
-    beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
-    beacon.setAttribute('data-cf-beacon', JSON.stringify({token: '9f3423bb0d034d91bbe1a12afeff2429'}));
-    document.head.appendChild(beacon);
-  }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', ensureBeacon, {once: true});
-  else ensureBeacon();
-})();
-</script>
-<!-- /NaNa publisher: Cloudflare fallback -->
-<script type="module" src="https://nanalab.kr/rebirth_biology/language-widget.2a3a0f9bd4a7.js" data-game="rebirth_biology" data-language="ko" data-base="https://nanalab.kr/rebirth_biology/"></script><!-- NaNa app directory link -->
+</pre><script type="module" src="https://nanalab.kr/rebirth_biology/language-widget.0b4e6ef997cc.js" data-game="rebirth_biology" data-language="ko" data-base="https://nanalab.kr/rebirth_biology/" data-route="method.html"></script><!-- NaNa app directory link -->
 <style>
 #nana-more-apps{position:fixed;right:max(10px,env(safe-area-inset-right));bottom:max(6px,env(safe-area-inset-bottom));z-index:20;margin:0;padding:0;background:none;border:0;line-height:1}
 #nana-more-apps a{display:inline-block;padding:2px 3px;font:400 11px/1.4 Arial,sans-serif;letter-spacing:normal;text-transform:none;color:#888;text-decoration:none;background:none;border:0;box-shadow:none}

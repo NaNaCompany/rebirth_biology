@@ -34,7 +34,7 @@ npm run dev
 
 로컬 미리보기는 http://127.0.0.1:4174/ 이다. 빌드는 `docs/`를 생성한다. `SITE_URL` 환경변수로 배포 주소를 변경할 수 있다. 이미지 수집 스크립트는 연구용이며 최종 검수 선택은 출처 목록을 따른다.
 
-Google Tag Manager, Google Analytics, AdSense, Cloudflare Web Analytics는 기존 환생 여권과 같은 공개 게시자 설정으로 포함했다.
+Google Tag Manager, Google Analytics, AdSense, Cloudflare Web Analytics는 기존 공개 게시자 설정을 유지한다. 네 태그는 HTTPS 프로덕션 호스트에서만 로드하며 HTTP·localhost·127.0.0.1·::1에서는 로드하거나 실행하지 않는다. 자동 GA 페이지뷰를 끄고 query를 제외한 주소와 빈 referrer로 방문 페이지뷰를 1회 전송한다. 추첨·재추첨·공유 준비 후에는 게임 ID·행동 ID·결과 ID만 전송한다. 사용자 입력·전체 URL·query는 직접 전송하지 않는다.
 
 현재 결과를 제외하는 다시하기 버튼도 제공한다. 잔여 횟수 1회를 사용하고 현재 결과만 후보에서 제외한 뒤 기존 비중을 재정규화한다. 등록증·OG의 확률은 전체 생물량 기준을 유지한다.
 
@@ -44,8 +44,8 @@ Google Tag Manager, Google Analytics, AdSense, Cloudflare Web Analytics는 기�
 
 ## 다국어 통합
 
-하나의 리포지토리에서 `/ko/`, `/en/`, `/zh/`, `/es/`를 함께 배포한다. 기존 루트 한국어 주소와 공유 링크는 유지한다. 언어별 소스는 `locales/`이며 `npm run build`가 전체 `docs/`와 모든 언어·결과·출처 페이지를 포함한 사이트맵을 생성한다.
+하나의 리포지토리에서 `/ko/`, `/en/`, `/es/`, `/zh/`, `/ja/`, `/de/`, `/fr/`, `/pt/`를 함께 배포한다. 기존 루트 한국어 주소와 공유 링크는 유지한다. 기존 번역 소스는 `locales/`에 있고, 추가 4개 언어는 `scripts/extra-translations.json`과 `scripts/prepare-extra-locales.mjs`에서 생성한다. 추가 언어의 UI·오류·결과명·OG·방법론·이미지 변경 고지를 함께 번역한다. `npm run build`는 전체 `docs/`와 모든 언어·결과·출처 페이지를 포함한 사이트맵을 생성한다.
 
-메인 및 결과 페이지의 언어 링크로 수동 전환한다. 저장한 언어가 없으면 GeoJS 국가 조회로 추천하고, 실패하면 브라우저 언어를 사용한다. 강제 리다이렉트는 하지 않는다. IP 자체는 저장하지 않으며 국가코드만 세션에 임시 보관한다. 외부 서비스 이용 안내는 화면에 표시한다. GeoJS 공식 문서: https://www.geojs.io/docs/v1/endpoints/country/
+메인 및 결과 페이지의 언어 링크로 수동 전환한다. 저장한 언어가 없으면 GeoJS 국가 조회로 추천하고, 실패하면 브라우저 언어를 사용한다. 강제 리다이렉트는 하지 않는다. IP 자체는 저장하지 않으며 국가코드만 세션에 임시 보관한다. 외부 서비스 이용 안내는 화면에 표시한다. 로컬 미리보기에서는 GeoJS 조회도 수행하지 않는다. GeoJS 공식 문서: https://www.geojs.io/docs/v1/endpoints/country/
 
 공유는 기기 기본 공유와 링크 복사를 사용한다. Kakao SDK·키는 포함하지 않는다. 이미지 출처와 라이선스·변경 고지를 모든 언어에서 보존한다.
